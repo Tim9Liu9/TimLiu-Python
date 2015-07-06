@@ -8,4 +8,5 @@ python资源集合
 * [GitHub上Star最多的100个python repository](http://www.jianshu.com/p/110f2a221096) - GitHub上Star最多的100个python repository。
 * [10个Python 模块](http://www.imooc.com/article/1138) - 你该了解的10个 Python 模块。
 * [dask](https://github.com/ContinuumIO/dask) - 【(Python)集成任务调度/阻塞算法的数据并行处理库Dask】支持大数据集的分割多核并行处理，[Doc](http://dask.pydata.org/en/latest/)。 
+* [Phonenumbers](https://pypi.python.org/pypi/phonenumberslite/7.0.2) - Phonenumbers 小巧，实用简便，没有地理代编码，运营商，时区等metadata数据。它能识别多种格式，然后使用不同的格式/样式进行有效匹配。
 
