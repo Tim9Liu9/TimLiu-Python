@@ -12,4 +12,4 @@ python资源集合
 * [toyplot](https://github.com/sandialabs/toyplot) - Python交互绘图库Toyplot，[文档doc](http://toyplot.readthedocs.org/en/latest/)。
 * [pythalesians](https://github.com/thalesians/pythalesians/) - Python金融(分析工具)库PyThalesians。
 * [20个机器学习开源项目](http://mp.weixin.qq.com/s?__biz=MzAwNTA4OTc3OQ==&mid=207199077&idx=1&sn=039cda9e698a85bc32d336c6f84dd059) - 20 个顶尖的 Python 机器学习开源项目 Scikit-learn、Pylearn2、NuPIC…… 
-
+* [Seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) - 用 Seaborn 画出好看的分布图, [使用说明](http://staticor.io/post/2015-06-10seaborn-distribution-plot)  。
