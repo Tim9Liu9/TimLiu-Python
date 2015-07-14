@@ -1,6 +1,6 @@
 # python
 ========
-python资源集合
+python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/) 。
 
 ###  目录
 - [网页框架](#网页框架)
