@@ -11,7 +11,7 @@ python资源集合
 #### 网页框架
 * [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
 * [Django](https://www.djangoproject.com/) - Django。 
-* [flask](https://www.djangoproject.com/) - flask。 
+* [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/)。 
 
 * [IoTNotes](http://ideatouch.github.io/IoTNotes/) - 开源硬件记录。
 * [GitHub上Star最多的100个python repository](http://www.jianshu.com/p/110f2a221096) - GitHub上Star最多的100个python repository。
