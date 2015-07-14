@@ -4,6 +4,7 @@ python资源集合
 
 ###  目录
 - [网页框架](#网页框架)
+- [其他](#其他)
 
 ========
 ### 具体内容 =============================
@@ -13,6 +14,8 @@ python资源集合
 * [Django](https://www.djangoproject.com/) - Django。 
 * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/)。 
 
+========
+#### 其他
 * [IoTNotes](http://ideatouch.github.io/IoTNotes/) - 开源硬件记录。
 * [GitHub上Star最多的100个python repository](http://www.jianshu.com/p/110f2a221096) - GitHub上Star最多的100个python repository。
 * [10个Python 模块](http://www.imooc.com/article/1138) - 你该了解的10个 Python 模块。
