@@ -4,6 +4,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 
 ###  目录
 - [网页框架](#网页框架)
+- [开源框架](#开源框架)
 - [其他](#其他)
 
 ========
@@ -13,6 +14,11 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 * [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[官网](http://www.tornadoweb.org)，[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
 * [Django](https://www.djangoproject.com/) - Django。 
 * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/)。 
+
+========
+#### 开源框架
+* [高效的Python数据分析框架Ibis](https://github.com/cloudera/ibis) - 高效的Python数据分析框架Ibis，[ibis-project](http://www.ibis-project.org/),[通过IPN了解Ibis](http://nbviewer.ipython.org/github/cloudera/ibis-notebooks/tree/master/basic-tutorial/).
+
 
 ========
 #### 其他
