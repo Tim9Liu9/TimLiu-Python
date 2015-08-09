@@ -5,6 +5,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 ###  目录
 - [网页框架](#网页框架)
 - [开源框架](#开源框架)
+- [破解脚本](#破解脚本)
 - [其他](#其他)
 
 ========
@@ -14,6 +15,16 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 * [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[官网](http://www.tornadoweb.org)，[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
 * [Django](https://www.djangoproject.com/) - Django。 
 * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/)。 
+
+========
+#### 破解脚本
+* [ibrute](https://github.com/hackappcom/ibrute) - 一个攻击iCloud账户的Python脚本,2014年很多明星的账号就是被这个脚本攻破的，苹果已经修改这个漏洞了。
+* [bruteforce_py](https://github.com/rischanlab/bruteforce_py) - 暴力破解脚本，ssh bf, wordpress bf, cpanel bf, mysql bf, etc ... 可以说是暴力破解大全。
+* [keychain-bruteforce](https://github.com/ziman/keychain-bruteforce) - 暴力破解MAC OS X 的密码管理。
+* [gamblerbfe](https://github.com/mthbernardes/gamblerbfe) - 路由器也可以暴力破解了。
+* [AndroidPINCrack](https://github.com/PentesterES/AndroidPINCrack) - android的pin密码破解。
+* [rarPasswordCrackere](https://github.com/GauthamGoli/rarPasswordCrackere) - rar加密文件破解。
+* [Python-ZIP-Cracker](https://github.com/agusmakmun/Python-ZIP-Cracker) - zip加密文件破解。
 
 ========
 #### 开源框架
