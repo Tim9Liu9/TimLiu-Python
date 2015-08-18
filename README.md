@@ -6,6 +6,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 - [网页框架](#网页框架)
 - [开源框架](#开源框架)
 - [破解脚本](#破解脚本)
+- [图表](#图表)
 - [其他](#其他)
 
 ========
@@ -29,6 +30,10 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 ========
 #### 开源框架
 * [高效的Python数据分析框架Ibis](https://github.com/cloudera/ibis) - 高效的Python数据分析框架Ibis，[ibis-project](http://www.ibis-project.org/),[通过IPN了解Ibis](http://nbviewer.ipython.org/github/cloudera/ibis-notebooks/tree/master/basic-tutorial/).
+
+========
+#### 图表
+* [vincent](https://github.com/wrobstory/vincent) - Python 构建的专为运用 D3.js 进行可视化的 vega 转换工具。
 
 
 ========
