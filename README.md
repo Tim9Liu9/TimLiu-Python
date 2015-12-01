@@ -20,11 +20,12 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 
 ========
 #### 开源框架
-* [高效的Python数据分析框架Ibis](https://github.com/cloudera/ibis) -    [ibis-project](http://www.ibis-project.org/),[通过IPN了解Ibis](http://nbviewer.ipython.org/github/cloudera/ibis-notebooks/tree/master/basic-tutorial/).
+* [高效的Python数据分析框架Ibis](https://github.com/cloudera/ibis) - 高效的Python数据分析框架Ibis  [ibis-project](http://www.ibis-project.org/) , [通过IPN了解Ibis](http://nbviewer.ipython.org/github/cloudera/ibis-notebooks/tree/master/basic-tutorial/).
 
 ========
 #### 测试
 * [splinter](http://splinter.cobrateam.info/) - Python自动化测试工具Splinter，不仅可以当web自动化测试工具 同时也可以当抓取交互式网站的爬虫程序来用的，不用去分析ajax请求数据了，可以模拟登录.
+
 ========
 #### 破解脚本
 * [ibrute](https://github.com/hackappcom/ibrute) - 一个攻击iCloud账户的Python脚本,2014年很多明星的账号就是被这个脚本攻破的，苹果已经修改这个漏洞了。
