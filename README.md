@@ -46,6 +46,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 ========
 #### 树莓派
  * [图片自动发邮箱](https://github.com/dungeonsnd/toolkit/blob/master/rpi/rpi_auto_send_motion_files.py) - 报警图片自动发邮箱功能。
+ * [自动更新树莓派的内网、外网IP地址到 自己的github上](https://github.com/dungeonsnd/toolkit/blob/master/rpi/rpi_auto_send_ip_to_github.py) - 自动更新树莓派的内网、外网IP地址到 自己的github。
 
 ========
 #### 其他
