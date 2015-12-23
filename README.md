@@ -8,6 +8,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 - [测试](#测试)
 - [破解脚本](#破解脚本)
 - [图表](#图表)
+- [树莓派](#树莓派)
 - [其他](#其他)
 
 ========
@@ -30,16 +31,21 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 #### 破解脚本
 * [ibrute](https://github.com/hackappcom/ibrute) - 一个攻击iCloud账户的Python脚本,2014年很多明星的账号就是被这个脚本攻破的，苹果已经修改这个漏洞了。
 * [bruteforce_py](https://github.com/rischanlab/bruteforce_py) - 暴力破解脚本，ssh bf, wordpress bf, cpanel bf, mysql bf, etc ... 可以说是暴力破解大全。
-* [keychain-bruteforce](https://github.com/ziman/keychain-bruteforce) - 暴力破解MAC OS X 的密码管理。
-* [gamblerbfe](https://github.com/mthbernardes/gamblerbfe) - 路由器也可以暴力破解了。
-* [AndroidPINCrack](https://github.com/PentesterES/AndroidPINCrack) - android的pin密码破解。
-* [rarPasswordCrackere](https://github.com/GauthamGoli/rarPasswordCrackere) - rar加密文件破解。
-* [Python-ZIP-Cracker](https://github.com/agusmakmun/Python-ZIP-Cracker) - zip加密文件破解。
+ * [keychain-bruteforce](https://github.com/ziman/keychain-bruteforce) - 暴力破解MAC OS X 的密码管理。
+ * [gamblerbfe](https://github.com/mthbernardes/gamblerbfe) - 路由器也可以暴力破解了。
+ * [AndroidPINCrack](https://github.com/PentesterES/AndroidPINCrack) - android的pin密码破解。
+ * [rarPasswordCrackere](https://github.com/GauthamGoli/rarPasswordCrackere) - rar加密文件破解。
+ * [Python-ZIP-Cracker](https://github.com/agusmakmun/Python-ZIP-Cracker) - zip加密文件破解。
+ * 
 
 ========
 #### 图表
 * [vincent](https://github.com/wrobstory/vincent) - Python 构建的专为运用 D3.js 进行可视化的 vega 转换工具。
 
+
+========
+#### 树莓派
+ * [图片自动发邮箱](https://github.com/dungeonsnd/toolkit/blob/master/rpi/rpi_auto_send_motion_files.py) - 报警图片自动发邮箱功能。
 
 ========
 #### 其他
