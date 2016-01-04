@@ -8,6 +8,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 - [测试](#测试)
 - [破解脚本](#破解脚本)
 - [图表](#图表)
+- [运维相关](#运维相关)
 - [树莓派](#树莓派)
 - [其他](#其他)
 
@@ -40,8 +41,12 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 
 ========
 #### 图表
-* [vincent](https://github.com/wrobstory/vincent) - Python 构建的专为运用 D3.js 进行可视化的 vega 转换工具。
+ * [vincent](https://github.com/wrobstory/vincent) - Python 构建的专为运用 D3.js 进行可视化的 vega 转换工具。
 
+
+========
+#### 运维相关
+ * [pywebsocketserver](https://github.com/suxianbaozi/pywebsocketserver) - 程序Log实时监控 – python + websocket。
 
 ========
 #### 树莓派
