@@ -22,7 +22,8 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 
 ========
 #### 开源框架
-* [高效的Python数据分析框架Ibis](https://github.com/cloudera/ibis) - 高效的Python数据分析框架Ibis  [ibis-project](http://www.ibis-project.org/) , [通过IPN了解Ibis](http://nbviewer.ipython.org/github/cloudera/ibis-notebooks/tree/master/basic-tutorial/).
+ * [高效的Python数据分析框架Ibis](https://github.com/cloudera/ibis) - 高效的Python数据分析框架Ibis  [ibis-project](http://www.ibis-project.org/) , [通过IPN了解Ibis](http://nbviewer.ipython.org/github/cloudera/ibis-notebooks/tree/master/basic-tutorial/).
+ * [RabbitMQ](http://www.rabbitmq.com/download.html) - 一个工业级的消息队列服务器，[RabbitMQ+Python入门经典-兔子和兔子窝](http://blog.csdn.net/linvo/article/details/5750987)
 
 ========
 #### 测试
