@@ -18,7 +18,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 #### 网页框架
 * [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[官网](http://www.tornadoweb.org)，[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
 * [Django](https://www.djangoproject.com/) - Django。 
-* [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/)。 
+* [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。 
 
 ========
 #### 开源框架
@@ -27,7 +27,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 
 ========
 #### 测试
- * [splinter](http://splinter.cobrateam.info/) - Python自动化测试工具Splinter，不仅可以当web自动化测试工具 同时也可以当抓取交互式网站的爬虫程序来用的，不用去分析ajax请求数据了，可以模拟登录。
+ * [splinter](http://splinter.cobrateam.info/) - Python自动化测试工具Splinter，不仅可以当web自动化测试工具 同时也可以当抓取交互式网站的爬虫程序来用的，不用去分析ajax请求数据了，可以模拟登录，[用Python开发自动化测试脚本-splinter](http://python.jobbole.com/84012/)。
  * [swarm](https://github.com/duhoobo/swarm) - 是一个简单的使用 gevent 开发的支持自定义协议的长连接压测框架。
 
 ========
