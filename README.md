@@ -68,7 +68,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [Seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) - 用 Seaborn 画出好看的分布图, [使用说明](http://staticor.io/post/2015-06-10seaborn-distribution-plot)  。
  * [Python_Coding_Rule](http://ssv.sebug.net/Python_Coding_Rule) - 【Python代码指南】，这篇文档改编自Guido最初的《Python风格指南》一文，希望对初学Python的朋友们有所借鉴。
  * [GGTinypng](https://github.com/ylovern/GGTinypng) - 批量压缩png和jpg图片python脚本，已经支持子文件夹里面的图片，会按原始的相对路径存放到输出文件夹内。
-
+ * [sinaweibopy](https://github.com/michaelliao/sinaweibopy) - 新浪微博Python SDK。
 
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
 
