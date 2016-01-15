@@ -32,7 +32,8 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [Django-Q](https://github.com/Koed00/django-q) - Django Q是一个原生Django分布式任务队列处理应用，通过Python的mutliprocessing模块功能实现。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Django webpack loader对[webpack-bundle-tracker](https://github.com/owais/webpack-bundle-tracker)的输出结果进行处理，让你可以在自己的Django应用中使用生成的bundles。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - django-hackathon-starter这是一个Django Web应用模板程序，可以帮助你快速生成应用。必定能够为你节省大量的开发时间，同时这个库也能用作开发者的学习指南。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
- * [django-seed](https://github.com/Brobin/django-seed) -Django-seed通过[faker](https://github.com/joke2k/faker/)库，为Django模型生成测试数据。该库支持Python和Django的最新版本。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
+ * [django-seed](https://github.com/Brobin/django-seed) - Django-seed通过[faker](https://github.com/joke2k/faker/)库，为Django模型生成测试数据。该库支持Python和Django的最新版本。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
+ * [django-tenants](https://github.com/tomturner/django-tenants) -  django-tenants让django驱动的网站支持多个tenants，这个功能时通过PostgreSQL schemas实现的。这是每个SASS（软件即服务）网站的核心功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
 
 
 ========
