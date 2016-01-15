@@ -25,12 +25,15 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [Django](https://www.djangoproject.com/) - Django。 
  * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。 
  * [Bottle](http://bottlepy.org/docs/dev/index.html) - Bottle是一个小型的轻量网络开发框架，同时速度也很快。
+ 
  * [Wooey](https://github.com/wooey/Wooey) - Wooey 是一个简单的Python脚本的Web UI 界面。它能够提供日常数据分析，文件处理等功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Channels](https://github.com/andrewgodwin/channels) - Channels旨在增强Django的异步能力，同时让Django不仅仅局限于Request-Response模型，能够支持WebSocket、HTTP2推送和背景任务。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Django-Baker](https://github.com/krisfields/django-baker) - Django Baker可以帮助开发者快速启动项目。只要提供app名称，Django Baker就可以根据models.py文件中的models，自动生成视图、表单、URL、admin页面以及模板。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Django-Q](https://github.com/Koed00/django-q) - Django Q是一个原生Django分布式任务队列处理应用，通过Python的mutliprocessing模块功能实现。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Django webpack loader对[webpack-bundle-tracker](https://github.com/owais/webpack-bundle-tracker)的输出结果进行处理，让你可以在自己的Django应用中使用生成的bundles。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - django-hackathon-starter这是一个Django Web应用模板程序，可以帮助你快速生成应用。必定能够为你节省大量的开发时间，同时这个库也能用作开发者的学习指南。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
+ * [django-seed](https://github.com/Brobin/django-seed) -Django-seed通过[faker](https://github.com/joke2k/faker/)库，为Django模型生成测试数据。该库支持Python和Django的最新版本。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
+
 
 ========
 #### 用户图形接口
