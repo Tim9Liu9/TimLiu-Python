@@ -70,6 +70,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [GGTinypng](https://github.com/ylovern/GGTinypng) - 批量压缩png和jpg图片python脚本，已经支持子文件夹里面的图片，会按原始的相对路径存放到输出文件夹内。
  * [sinaweibopy](https://github.com/michaelliao/sinaweibopy) - 新浪微博Python SDK。
  * [keras](https://github.com/fchollet/keras) - Keras是一个高度模块化的神经网络库，用Python语言编写，可以基于TensorFlow或Theano框架运行。
+ * [yapf](https://github.com/google/yapf) - yapf是一个Python文件代码格式化工具，但与其他类似工具采取了不同的算法。它脱胎于由 Daniel Jasper 开发的 clang-format。
 
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
 
