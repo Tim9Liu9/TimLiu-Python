@@ -5,7 +5,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 ###  目录
 - [网页框架](#网页框架)
 - [用户图形接口](#用户图形接口)
-- [数据库相关](#数据库相)
+- [数据库相关](#数据库相关)
 - [游戏相关](#游戏相关)
 - [开源框架](#开源框架)
 - [大数据相关](#大数据相关)
@@ -30,8 +30,8 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 
 
 ========
-#### 数据库相
-
+#### 数据库相关
+ * [Peewee](ttps://github.com/coleifer/peewee) - Peewee是一个小型但是十分强大的库，支持通过ORM的方式访问数据库，原生支持SQLite、MySQL和PostgreSQL等数据库。
 
 ========
 #### 游戏相关
