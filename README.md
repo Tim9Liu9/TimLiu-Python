@@ -25,6 +25,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [Django](https://www.djangoproject.com/) - Django。 
  * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。 
  * [Bottle](http://bottlepy.org/docs/dev/index.html) - Bottle是一个小型的轻量网络开发框架，同时速度也很快。
+ * [Wooey](https://github.com/wooey/Wooey) - Wooey 是一个简单的Python脚本的Web UI 界面。它能够提供日常数据分析，文件处理等功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
 
 ========
 #### 用户图形接口
