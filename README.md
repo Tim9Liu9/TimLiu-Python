@@ -29,6 +29,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 ========
 #### 大数据相关
  * [pandas](https://github.com/pydata/pandas) - 为 Python 编程语言提供高性能，易用数据结构和数据分析工具。在数据改动和数据预处理方面，Python 早已名声显赫，但是在数据分析与建模方面，Python 是个短板。Pands 软件就填补了这个空白，能让你用 Python 方便地进行你所有数据的处理，而不用转而选择更主流的专业语言，例如 R 语言。
+* [pulp](https://github.com/pulp/pulp) - PuLP 是一个用 Python 编写的线性编程模型。它能产生线性文件，能调用高度优化的求解器，GLPK，COIN CLP/CBC，CPLEX，和GUROBI，来求解这些线性问题。
 
 ========
 #### 测试
