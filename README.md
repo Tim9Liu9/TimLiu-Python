@@ -72,7 +72,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [keras](https://github.com/fchollet/keras) - Keras是一个高度模块化的神经网络库，用Python语言编写，可以基于TensorFlow或Theano框架运行。
  * [yapf](https://github.com/google/yapf) - yapf是一个Python文件代码格式化工具，但与其他类似工具采取了不同的算法。它脱胎于由 Daniel Jasper 开发的 clang-format。
  * [tqdm](https://github.com/tqdm/tqdm) - tqdm可以在长循环中添加一个进度提示信息，用户只需要封装任意的迭代器 tqdm(iterator)，是一个快速、扩展性强的进度条工具库。
-
+ * [pyvim](https://github.com/jonathanslenders/pyvim) - pyvim用Python语言实现的Vim编辑器。
 
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
 
