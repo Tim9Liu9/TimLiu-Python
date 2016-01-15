@@ -4,6 +4,9 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 
 ###  目录
 - [网页框架](#网页框架)
+- [用户图形接口](#用户图形接口)
+- [数据库相关](#数据库相)
+- [游戏相关](#游戏相关)
 - [开源框架](#开源框架)
 - [大数据相关](#大数据相关)
 - [测试](#测试)
@@ -17,9 +20,22 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 ### 具体内容 =============================
 ========
 #### 网页框架
-* [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[官网](http://www.tornadoweb.org)，[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
-* [Django](https://www.djangoproject.com/) - Django。 
-* [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。 
+ * [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[官网](http://www.tornadoweb.org)，[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
+ * [Django](https://www.djangoproject.com/) - Django。 
+ * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。 
+
+========
+#### 用户图形接口
+ * [pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) - Pyglet是一个纯Python语言编写的跨平台框架，用于开发多媒体和窗口特效应用。
+
+
+========
+#### 数据库相
+
+
+========
+#### 游戏相关
+
 
 ========
 #### 开源框架
