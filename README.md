@@ -81,6 +81,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [pywebsocketserver](https://github.com/suxianbaozi/pywebsocketserver) - 程序Log实时监控 – python + websocket。
  * [pupy](https://github.com/n1nj4sec/pupy) - Pupy是一个远程管理工具（Administration Tool），开源并且支持多个平台。Pupy还内置了一个Python解释器，可以从内存中加载Python包，访问远程Python对象。
  * [Invoke](http://www.pyinvoke.org) - Invoke让你通过一个Python库便捷地执行系统管理任务。如果你想使用稳定的工具（即使是不再积极开发），可以考虑Invoke的前身——Fabric。
+ * [DeployDjango](https://github.com/yask123/DeployDjango) - 不到一分钟安全部署Django应用的脚本，[操作教程](http://codingpy.com/article/deploy-django-app-in-less-than-one-minute/)。
 
 ========
 #### 树莓派
