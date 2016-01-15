@@ -49,6 +49,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 ========
 #### 运维相关
  * [pywebsocketserver](https://github.com/suxianbaozi/pywebsocketserver) - 程序Log实时监控 – python + websocket。
+ * [pupy](https://github.com/n1nj4sec/pupy) - Pupy是一个远程管理工具（Administration Tool），开源并且支持多个平台。Pupy还内置了一个Python解释器，可以从内存中加载Python包，访问远程Python对象。
 
 ========
 #### 树莓派
