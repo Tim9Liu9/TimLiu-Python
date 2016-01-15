@@ -77,7 +77,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [snake](https://github.com/amoffat/snake) - Snake用来取代Vim的VimScript进行Vim的插件编程，借由Python的强大，让插件编程如虎添翼。
  * [pyxley](https://github.com/stitchfix/pyxley) - 使用Flask和React.js，快速开发数据面板（dashboard。在网页上显示一个数据面板是与人分享数据科学发现的最直观方法。对R语言来说有Shiny来简化数据科学家开发网页的工作，而Pyxley就相当于Python版的Shiny。使用Pyxley不光不用写HTML、CSS，你还可以加入自己的JavaScript来进行定制。
  * [Tomorrow](https://github.com/madisonmay/Tomorrow) - Tomorrow为Python 2.7中的异步代码提供了神奇的装饰器语法实现。
-
+ * [ibis](https://github.com/cloudera/ibis) - Ibis是Cloudera Labs推出的一个新项目，目前还是预览版。它试图解决的就是数据集规模的问题，但对用户提供的确是单机上Python的体验，而且能够与现有的Python数据生态圈（Pandas、Scikit-learn、Numpy）进行集成。未来它还计划加入与机器学习和高级分析集成的功能。
 
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
 
