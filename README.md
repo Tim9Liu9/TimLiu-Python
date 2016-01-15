@@ -30,6 +30,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [Django-Baker](https://github.com/krisfields/django-baker) - Django Baker可以帮助开发者快速启动项目。只要提供app名称，Django Baker就可以根据models.py文件中的models，自动生成视图、表单、URL、admin页面以及模板。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Django-Q](https://github.com/Koed00/django-q) - Django Q是一个原生Django分布式任务队列处理应用，通过Python的mutliprocessing模块功能实现。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Django webpack loader对[webpack-bundle-tracker](https://github.com/owais/webpack-bundle-tracker)的输出结果进行处理，让你可以在自己的Django应用中使用生成的bundles。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
+ * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - django-hackathon-starter这是一个Django Web应用模板程序，可以帮助你快速生成应用。必定能够为你节省大量的开发时间，同时这个库也能用作开发者的学习指南。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
 
 ========
 #### 用户图形接口
