@@ -127,4 +127,5 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [Arrow](https://github.com/crsmithdev/arrow) - Arrow这个库可以更好地处理Python中的日期和时间（data/time）。
 
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
+ * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
 
