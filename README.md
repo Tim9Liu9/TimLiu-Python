@@ -16,6 +16,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 - [运维相关](#运维相关)
 - [树莓派](#树莓派)
 - [其他](#其他)
+- [他人总结](#他人总结)
 
 ========
 ### 具体内容 =============================
@@ -129,3 +130,6 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
  * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
 
+========
+#### 他人总结
+ * [issue-198-top2015](http://weekly.pychina.org/issue/issue-198-top2015.html) - 蠎周刊2015年度最赞。
