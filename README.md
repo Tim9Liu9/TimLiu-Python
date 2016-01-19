@@ -70,7 +70,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 #### 网络爬虫
  * [scrapy](https://github.com/scrapy/scrapy/) - 最出名的网络爬虫，一个快速,高层次的屏幕抓取和web抓取框架，用于抓取web站点并从页面中提取结构化的数据。Scrapy用途广泛，可以用于数据挖掘、监测和自动化测试。[官方主页](http://scrapy.org/),[Scrapy 轻松定制网络爬虫 - 教程](http://blog.pluskid.org/?p=366)
  * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - Beautifu Soup不完全是一套爬虫工具，需要配合urllib使用，而是一套HTML/XML数据分析，清洗和获取工具。
-
+ * [python-goose](https://github.com/grangier/python-goose/) - Python-Goose用Python重写，依赖了Beautiful Soup。给定一个文章的URL, 获取文章的标题和内容很方便。
 
 
 ========
