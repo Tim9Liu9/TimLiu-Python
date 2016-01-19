@@ -10,6 +10,7 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 - [游戏相关](#游戏相关)
 - [开源框架](#开源框架)
 - [大数据相关](#大数据相关)
+- [网络爬虫](#网络爬虫)
 - [测试](#测试)
 - [破解脚本](#破解脚本)
 - [图表](#图表)
@@ -24,9 +25,8 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
 #### 网页框架
  * [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[官网](http://www.tornadoweb.org)，[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
  * [Django](https://www.djangoproject.com/) - Django。 
- * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。 
+ * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。
  * [Bottle](http://bottlepy.org/docs/dev/index.html) - Bottle是一个小型的轻量网络开发框架，同时速度也很快。
- 
  * [Wooey](https://github.com/wooey/Wooey) - Wooey 是一个简单的Python脚本的Web UI 界面。它能够提供日常数据分析，文件处理等功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Channels](https://github.com/andrewgodwin/channels) - Channels旨在增强Django的异步能力，同时让Django不仅仅局限于Request-Response模型，能够支持WebSocket、HTTP2推送和背景任务。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Django-Baker](https://github.com/krisfields/django-baker) - Django Baker可以帮助开发者快速启动项目。只要提供app名称，Django Baker就可以根据models.py文件中的models，自动生成视图、表单、URL、admin页面以及模板。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
@@ -65,6 +65,12 @@ python资源集合 。 [python 中文学习大本营](http://www.pythondoc.com/)
  * [Matplotlib](https://github.com/matplotlib/matplotlib) - Matplotlib是基于 Python 的 2D（数据）绘图库，它产生（输出）出版级质量的图表，用于各种打印纸质的原件格式和跨平台的交互式环境。matplotlib 既可以用在 python 脚本, python 和 ipython 的 shell 界面 (ala MATLAB® 或 Mathematica®)，web 应用服务器，和6类 GUI 工具箱。matplotlib 尝试使容易事情变得更容易，使困难事情变为可能。你只需要少量几行代码，就可以生成图表，直方图，能量光谱（power spectra），柱状图，errorcharts，散点图（scatterplots）等。
  * [Scikit-Learn](https://github.com/scikit-learn/scikit-learn) - Scikit-Learn是一个简单有效地数据挖掘和数据分析工具（库）。关于最值得一提的是，它人人可用，重复用于多种语境。它基于 NumPy，SciPy 和 mathplotlib 等构建。
  * [Spark](https://github.com/apache/spark) -Spark 由一个驱动程序构成，它运行用户的 main 函数并在聚类上执行多个并行操作。Spark 最吸引人的地方在于它提供的弹性分布数据集（RDD），那是一个按照聚类的节点进行分区的元素的集合，它可以在并行计算中使用。RDDs 可以从一个 Hadoop 文件系统中的文件（或者其他的 Hadoop支持的文件系统的文件）来创建，或者是驱动程序中其他的已经存在的标量数据集合，把它进行变换。用户也许想要 Spark 在内存中永久保存 RDD，来通过并行操作有效地对 RDD 进行复用。最终，RDDs 无法从节点中自动复原。Spark 中第二个吸引人的地方在并行操作中变量的共享。
+
+========
+#### 网络爬虫
+ * [scrapy](https://github.com/scrapy/scrapy/) - 最出名的网络爬虫，一个快速,高层次的屏幕抓取和web抓取框架，用于抓取web站点并从页面中提取结构化的数据。Scrapy用途广泛，可以用于数据挖掘、监测和自动化测试。[官方主页](http://scrapy.org/),[Scrapy 轻松定制网络爬虫 - 教程](http://blog.pluskid.org/?p=366)
+
+
 
 ========
 #### 测试
