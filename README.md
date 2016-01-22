@@ -108,6 +108,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [HealthChecks](https://github.com/healthchecks/healthchecks) - HealthChecks基于 cron 的监控服务。在 cron 里配置好监控只需要几分钟时间，却能让你晚上睡得更好！[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [dockerizing-django](https://github.com/realpython/dockerizing-django) - 是realpython网站一篇相关教程的代码库，讲的是如何将Django应用Docker化。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [用Python脚本实现对Linux服务器的监控](http://blog.jobbole.com/54563/) - 用Python脚本实现对Linux服务器的监控。
+ * [plumbum控](https://github.com/tomerfiliba/plumbum) - plumbum提供了非常易用的语法，可以轻松地以跨平台的方式执行本地或者远程命令，获取输出或者错误代码。还可以组合它们（shell 管道的方式），而且它还提供了创建命令行应用的接口。
 
 ========
 #### 树莓派
