@@ -43,11 +43,12 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 
 ========
 #### 网络相关
+ * [aiohttp](https://github.com/KeepSafe/aiohttp) - aiohttp是一个为 asyncio 提供了简洁易用的 HTTP 客户端和服务器的库。
 
 
 ========
 #### 数据库相关
- * [Peewee](ttps://github.com/coleifer/peewee) - Peewee是一个小型但是十分强大的库，支持通过ORM的方式访问数据库，原生支持SQLite、MySQL和PostgreSQL等数据库。
+ * [Peewee](https://github.com/coleifer/peewee) - Peewee是一个小型但是十分强大的库，支持通过ORM的方式访问数据库，原生支持SQLite、MySQL和PostgreSQL等数据库。
 
 ========
 #### 游戏相关
