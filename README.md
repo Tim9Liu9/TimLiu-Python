@@ -141,7 +141,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [ipython](https://github.com/ipython/ipython) - IPython 是一个在多种编程语言之间进行交互计算的命令行 shell，最开始是用 python 开发的，提供增强的内省，富媒体，扩展的 shell 语法，tab 补全，丰富的历史等功能
  * [Arrow](https://github.com/crsmithdev/arrow) - Arrow这个库可以更好地处理Python中的日期和时间（data/time）。
  * [retrying](https://github.com/rholder/retrying) - Retrying库可以帮你避免重复劳动：它实现了『重试』行为。它提供了一个通用的 decorator，而且还可以设置一系列的属性，如最大重试次数、延时、退避休眠（backoff sleeping）和错误条件（error conditions）等，以此来获得你想要的重试行为。简单轻便。
- 
+ * [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - python-phonenumbers从Google 的『libphonenumbers』库移植而来，用来解析、格式化或者验证电话号码，而且需要写的代码非常少。最重要的是，『phonenumbers』可以判断一个电话号码是否是唯一的（遵照 E.164 格式）。它同时支持 Python 2 和 Python 3。 
+
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
  * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
 
