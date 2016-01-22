@@ -67,7 +67,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Spark](https://github.com/apache/spark) -Spark 由一个驱动程序构成，它运行用户的 main 函数并在聚类上执行多个并行操作。Spark 最吸引人的地方在于它提供的弹性分布数据集（RDD），那是一个按照聚类的节点进行分区的元素的集合，它可以在并行计算中使用。RDDs 可以从一个 Hadoop 文件系统中的文件（或者其他的 Hadoop支持的文件系统的文件）来创建，或者是驱动程序中其他的已经存在的标量数据集合，把它进行变换。用户也许想要 Spark 在内存中永久保存 RDD，来通过并行操作有效地对 RDD 进行复用。最终，RDDs 无法从节点中自动复原。Spark 中第二个吸引人的地方在并行操作中变量的共享。
  * [SciPy](http://www.scipy.org) - SciPy是一个开源的Python算法库和数学工具包，SciPy包含的模块有最优化、线性代数、积分、插值、特殊函数、快速傅里叶变换、信号 处理和图像处理、常微分方程求解和其他科学与工程中常用的计算。其功能与软件MATLAB、Scilab和GNU Octave类似。Numpy和Scipy常常结合着使用，Python大多数机器学习库都依赖于这两个模块。
  * [NumPy](http://www.numpy.org) - NumPy几乎是一个无法回避的科学计算工具包，最常用的也许是它的N维数组对象，其他还包括一些成熟的函数库，用于整合C/C++和 Fortran代码的工具包，线性代数、傅里叶变换和随机数生成函数等。NumPy提供了两种基本的对象：ndarray（N-dimensional array object）和 ufunc（universal function object）。ndarray是存储单一数据类型的多维数组，而ufunc则是能够对数组进行处理的函数。
- * [ipython](http://ipython.org/) - iPython 是一个Python 的交互式Shell，比默认的Python Shell 好用得多，功能也更强大。 她支持语法高亮、自动完成、代码调试、对象自省，支持 Bash Shell命令，内置了许多很有用的功能和函式等，非常容易使用。默认开启了matploblib的绘图交互，用起来很方便。[jupyter-notebook](https://jupyter.org/)。
+ * [ipython](http://ipython.org/) - iPython 是一个Python 的交互式Shell，比默认的Python Shell 好用得多，功能也更强大。 她支持语法高亮、自动完成、代码调试、对象自省，支持 Bash Shell命令，内置了许多很有用的功能和函式等，非常容易使用。默认开启了matploblib的绘图交互，用起来很方便。[jupyter-notebook](https://github.com/jupyter/notebook) - [jupyter官网](https://jupyter.org/)。
  * [PyML](http://pyml.sourceforge.net/) - PyML是一个Python机器学习工具包，为各分类和回归方法提供灵活的架构。它主要提供特征选择、模型选择、组合分类器、分类评估等功能。
 
 ========
@@ -138,7 +138,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [ibis](https://github.com/cloudera/ibis) - Ibis是Cloudera Labs推出的一个新项目，目前还是预览版。它试图解决的就是数据集规模的问题，但对用户提供的确是单机上Python的体验，而且能够与现有的Python数据生态圈（Pandas、Scikit-learn、Numpy）进行集成。未来它还计划加入与机器学习和高级分析集成的功能。
  * [ipython](https://github.com/ipython/ipython) - IPython 是一个在多种编程语言之间进行交互计算的命令行 shell，最开始是用 python 开发的，提供增强的内省，富媒体，扩展的 shell 语法，tab 补全，丰富的历史等功能
  * [Arrow](https://github.com/crsmithdev/arrow) - Arrow这个库可以更好地处理Python中的日期和时间（data/time）。
-
+ * [retrying](https://github.com/rholder/retrying) - Retrying库可以帮你避免重复劳动：它实现了『重试』行为。它提供了一个通用的 decorator，而且还可以设置一系列的属性，如最大重试次数、延时、退避休眠（backoff sleeping）和错误条件（error conditions）等，以此来获得你想要的重试行为。简单轻便。
+ 
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
  * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
 
