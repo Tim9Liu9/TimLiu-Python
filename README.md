@@ -107,6 +107,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 #### 图表及图像相关
  * [vincent](https://github.com/wrobstory/vincent) - Python 构建的专为运用 D3.js 进行可视化的 vega 转换工具。
  * [Scikit-image](http://scikit-image.org) - 一组用于图像处理的算法的集合，使图像处理任务如模糊，增强对比度，缩放只需要一些函数调用就可以完成。
+ * [PIL](http://www.pythonware.com/products/pil/) - PIL （Python Imaging Library）是 Python 中最常用的图像处理库。
 
 ========
 #### 运维相关
