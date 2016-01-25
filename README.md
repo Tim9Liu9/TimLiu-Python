@@ -40,6 +40,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 ========
 #### 用户图形接口
  * [pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) - Pyglet是一个纯Python语言编写的跨平台框架，用于开发多媒体和窗口特效应用。
+ * [kivy](https://kivy.org) - Kivy 是一个开源工具包能够让使用相同源代码创建的程序能跨平台运行。它主要关注创新型用户界面开发，如：多点触摸应用程序。Kivy 还提供一个多点触摸鼠标模拟器。基于 Cython(C extensions for Python) 构建，当前支持的平台包括：Linux、Windows、Mac OS X和Android。
 
 ========
 #### 网络相关
