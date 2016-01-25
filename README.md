@@ -77,6 +77,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [PyML](http://pyml.sourceforge.net/) - PyML是一个Python机器学习工具包，为各分类和回归方法提供灵活的架构。它主要提供特征选择、模型选择、组合分类器、分类评估等功能。
  * [gensim](https://github.com/piskvorky/gensim/) - gensim是一种NLP（自然语言处理），它提供了一些常用算法，例如 tf-idf、word2vec、doc2vec、LSA 等的快速、可拓展（内存无关）实现，同时还提供了简单易用的接口和完善的文档。
  * [Blaze](https://github.com/blaze/blaze) - Blaze 是下一代的 NumPy。用于处理分布式的各种不同数据源的计算。
+ * [Dask](https://pypi.python.org/pypi/dask/) - Dask是一款基于外存的Python 调度工具。它通过将数据集分块处理并根据所拥有的核数分配计算量，这有助于进行大数据并行计算。它主要针对单机的并行计算进程。 
 
 ========
 #### 网络爬虫
