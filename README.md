@@ -166,6 +166,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Greenlet](http://undefined.org/python/#greenlet) - Greenlet是一个python的并行处理的一个库。
  * [Eventlet](http://eventlet.net/) - Eventlet是一个用来处理和网络相关的python库函数，而且可以通过协程来实现并发。
  * [Python Async IO Resources](http://asyncio.org/) - asyncio python的异步iO操作资源， [asyncio](https://github.com/python/asyncio) - asyncio3.4以后作为python标准库来使用了。
+ * [Twisted](https://twistedmatrix.com/trac/) - Twisted是一个用python语言写的事件驱动的网络框架，支持很多种协议，也是一个异步机制的框架。
 
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
  * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
