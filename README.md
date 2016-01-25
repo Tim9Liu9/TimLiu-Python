@@ -88,6 +88,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 #### 测试
  * [splinter](http://splinter.cobrateam.info/) - Python自动化测试工具Splinter，不仅可以当web自动化测试工具 同时也可以当抓取交互式网站的爬虫程序来用的，不用去分析ajax请求数据了，可以模拟登录，[用Python开发自动化测试脚本-splinter](http://python.jobbole.com/84012/)。
  * [swarm](https://github.com/duhoobo/swarm) - 是一个简单的使用 gevent 开发的支持自定义协议的长连接压测框架。
+ * [PySonar2](https://github.com/yinwang0/pysonar2) - PySonar2王垠开发的，针对 Python 的代码静态分析工具。
 
 ========
 #### 破解脚本
