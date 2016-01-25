@@ -45,6 +45,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 ========
 #### 网络相关
  * [aiohttp](https://github.com/KeepSafe/aiohttp) - aiohttp是一个为 asyncio 提供了简洁易用的 HTTP 客户端和服务器的库。
+ * [Requests](https://github.com/kennethreitz/requests/) - Requests是python的一个HTTP客户端库，跟urllib，urllib2类似。
 
 ========
 #### 数据库相关
