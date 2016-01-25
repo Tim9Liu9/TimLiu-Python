@@ -161,6 +161,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [monkeylearn-python](https://github.com/monkeylearn/monkeylearn-python) - monkeylearn-python通过简单易用的 RESTFul API 提供了云端的文本挖掘功能：比如文字中的情感、最重要的关键字，可以对文本进行话题检测，还可以使用自定义的文本分类器进行其他任何处理。
  * [Cookiecutter](https://github.com/audreyr/cookiecutter) - 一个命令行实用程序，从cookiecutters（项目模板）创建的项目，比如：创建从一个Python包项目模板的Python包项目。
  * [Sunburnt](https://github.com/tow/sunburnt) - Sunburnt全文搜索服务器Solr的Python接口。
+ * [Celery](http://www.celeryproject.org/) - Celery是基于Python开发的分布式任务队列。它支持使用任务队列的方式在分布的机器／进程／线程上执行任务调度。
 
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
  * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
