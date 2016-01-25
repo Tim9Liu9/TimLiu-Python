@@ -119,10 +119,10 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [用Python脚本实现对Linux服务器的监控](http://blog.jobbole.com/54563/) - 用Python脚本实现对Linux服务器的监控。
  * [plumbum控](https://github.com/tomerfiliba/plumbum) - plumbum提供了非常易用的语法，可以轻松地以跨平台的方式执行本地或者远程命令，获取输出或者错误代码。还可以组合它们（shell 管道的方式），而且它还提供了创建命令行应用的接口。
  * [virtualenv](http://www.virtualenv.org/en/latest/index.html) - virtualenv用来建立一个虚拟的python环境，一个专属于项目的python环境。用virtualenv 来保持一个干净的环境非常有用。
- * [Gunicorn](https://github.com/benoitc/gunicorn) - Gunicorn 是一个Python WSGI UNIX的HTTP服务器。这是一个pre-fork worker的模型，Gunicorn服务器大致与各种Web框架兼容，只需非常简单的执行，轻量级的资源消耗，以及相当迅速。
+ * [Gunicorn](https://github.com/benoitc/gunicorn) - Gunicorn 是一个Python WSGI UNIX的HTTP服务器。这是一个pre-fork worker的模型，Gunicorn服务器大致与各种Web框架兼容，只需非常简单的执行，轻量级的资源消耗，以及相当迅速,[Nginx+Gunicorn+Django 部署小记](http://www.isaced.com/post-248.html)。
  * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - mitmproxy 是用 Python 和 C 开发的一个中间人代理软件（man-in-the-middle proxy），它可以用来拦截、修改、重放和保存 HTTP/HTTPS 请求。
  * [Sentry](https://github.com/getsentry/sentry) - Sentry 是一个实时的事件日志和聚合平台，基于 Django 构建。Sentry 可以帮助你将 Python 程序的所有 exception 自动记录下来，然后在一个好用的 UI 上呈现和搜索。
- * [newrelic](http://newrelic.com/) - newrelic性能监控的好工具。
+ * [newrelic](http://newrelic.com/) - newrelic性能监控的好工具，国内有；[云智慧](http://www.jiankongbao.com/)、[ONE APM](http://www.oneapm.com)。
 
 ========
 #### 树莓派
@@ -158,6 +158,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - python-phonenumbers从Google 的『libphonenumbers』库移植而来，用来解析、格式化或者验证电话号码，而且需要写的代码非常少。最重要的是，『phonenumbers』可以判断一个电话号码是否是唯一的（遵照 E.164 格式）。它同时支持 Python 2 和 Python 3。 
  * [monkeylearn-python](https://github.com/monkeylearn/monkeylearn-python) - monkeylearn-python通过简单易用的 RESTFul API 提供了云端的文本挖掘功能：比如文字中的情感、最重要的关键字，可以对文本进行话题检测，还可以使用自定义的文本分类器进行其他任何处理。
  * [Cookiecutter](https://github.com/audreyr/cookiecutter) - 一个命令行实用程序，从cookiecutters（项目模板）创建的项目，比如：创建从一个Python包项目模板的Python包项目。
+ * [Sunburnt](https://github.com/tow/sunburnt) - Sunburnt全文搜索服务器Solr的Python接口。
 
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
  * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
