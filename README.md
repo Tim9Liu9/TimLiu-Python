@@ -76,6 +76,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [ipython](http://ipython.org/) - iPython 是一个Python 的交互式Shell，比默认的Python Shell 好用得多，功能也更强大。 她支持语法高亮、自动完成、代码调试、对象自省，支持 Bash Shell命令，内置了许多很有用的功能和函式等，非常容易使用。默认开启了matploblib的绘图交互，用起来很方便。[jupyter-notebook](https://github.com/jupyter/notebook) - [jupyter官网](https://jupyter.org/)。
  * [PyML](http://pyml.sourceforge.net/) - PyML是一个Python机器学习工具包，为各分类和回归方法提供灵活的架构。它主要提供特征选择、模型选择、组合分类器、分类评估等功能。
  * [gensim](https://github.com/piskvorky/gensim/) - gensim是一种NLP（自然语言处理），它提供了一些常用算法，例如 tf-idf、word2vec、doc2vec、LSA 等的快速、可拓展（内存无关）实现，同时还提供了简单易用的接口和完善的文档。
+ * [Blaze](https://github.com/blaze/blaze) - Blaze 是下一代的 NumPy。用于处理分布式的各种不同数据源的计算。
 
 ========
 #### 网络爬虫
