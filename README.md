@@ -162,6 +162,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Cookiecutter](https://github.com/audreyr/cookiecutter) - 一个命令行实用程序，从cookiecutters（项目模板）创建的项目，比如：创建从一个Python包项目模板的Python包项目。
  * [Sunburnt](https://github.com/tow/sunburnt) - Sunburnt全文搜索服务器Solr的Python接口。
  * [Celery](http://www.celeryproject.org/) - Celery是基于Python开发的分布式任务队列。它支持使用任务队列的方式在分布的机器／进程／线程上执行任务调度。
+ * [Gevent](http://www.gevent.org/) - Gevent是一个基于greenlet的Python的并发框架，以微线程greenlet为核心，使用了epoll事件监听机制以及诸多其他优化而变得高效。
 
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
  * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
