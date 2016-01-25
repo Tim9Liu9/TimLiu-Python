@@ -121,8 +121,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [virtualenv](http://www.virtualenv.org/en/latest/index.html) - virtualenv用来建立一个虚拟的python环境，一个专属于项目的python环境。用virtualenv 来保持一个干净的环境非常有用。
  * [Gunicorn](https://github.com/benoitc/gunicorn) - Gunicorn 是一个Python WSGI UNIX的HTTP服务器。这是一个pre-fork worker的模型，Gunicorn服务器大致与各种Web框架兼容，只需非常简单的执行，轻量级的资源消耗，以及相当迅速。
  * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - mitmproxy 是用 Python 和 C 开发的一个中间人代理软件（man-in-the-middle proxy），它可以用来拦截、修改、重放和保存 HTTP/HTTPS 请求。
- * [Sentry](https://github.com/getsentry/sentry) - Sentry 是一个实时的事件日志和聚合平台，基于 Django 构建。
-Sentry 可以帮助你将 Python 程序的所有 exception 自动记录下来，然后在一个好用的 UI 上呈现和搜索。
+ * [Sentry](https://github.com/getsentry/sentry) - Sentry 是一个实时的事件日志和聚合平台，基于 Django 构建。Sentry 可以帮助你将 Python 程序的所有 exception 自动记录下来，然后在一个好用的 UI 上呈现和搜索。
+ * [newrelic](http://newrelic.com/) - newrelic性能监控的好工具。
 
 ========
 #### 树莓派
