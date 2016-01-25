@@ -120,6 +120,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [plumbum控](https://github.com/tomerfiliba/plumbum) - plumbum提供了非常易用的语法，可以轻松地以跨平台的方式执行本地或者远程命令，获取输出或者错误代码。还可以组合它们（shell 管道的方式），而且它还提供了创建命令行应用的接口。
  * [virtualenv](http://www.virtualenv.org/en/latest/index.html) - virtualenv用来建立一个虚拟的python环境，一个专属于项目的python环境。用virtualenv 来保持一个干净的环境非常有用。
  * [Gunicorn](https://github.com/benoitc/gunicorn) - Gunicorn 是一个Python WSGI UNIX的HTTP服务器。这是一个pre-fork worker的模型，Gunicorn服务器大致与各种Web框架兼容，只需非常简单的执行，轻量级的资源消耗，以及相当迅速。
+ * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - mitmproxy 是用 Python 和 C 开发的一个中间人代理软件（man-in-the-middle proxy），它可以用来拦截、修改、重放和保存 HTTP/HTTPS 请求。
 
 ========
 #### 树莓派
