@@ -16,6 +16,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 - [图表及图像相关](#图表及图像相关)
 - [运维相关](#运维相关)
 - [树莓派](#树莓派)
+- [第三方平台](#第三方平台)
 - [其他](#其他)
 - [他人总结](#他人总结)
 
@@ -131,6 +132,11 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [图片自动发邮箱](https://github.com/dungeonsnd/toolkit/blob/master/rpi/rpi_auto_send_motion_files.py) - 报警图片自动发邮箱功能。
  * [自动更新树莓派的内网、外网IP地址到 自己的github上](https://github.com/dungeonsnd/toolkit/blob/master/rpi/rpi_auto_send_ip_to_github.py) - 自动更新树莓派的内网、外网IP地址到 自己的github。
  * [rpi-start](http://conanwhf.gitcafe.io/2016/01/12/rpi-start/) - 树莓派初始配置指南（2代B型）。
+ * [RaspberryWechatPi](https://github.com/mcdona1d/RaspberryWechatPi) - 基于树莓派的智能家居控制平台 微信服务端。
+
+========
+#### 第三方平台
+ * [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - wechat-deleted-friends查看被删的微信好友。
 
 ========
 #### 其他
@@ -167,7 +173,6 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Eventlet](http://eventlet.net/) - Eventlet是一个用来处理和网络相关的python库函数，而且可以通过协程来实现并发。
  * [Python Async IO Resources](http://asyncio.org/) - asyncio python的异步iO操作资源， [asyncio](https://github.com/python/asyncio) - asyncio3.4以后作为python标准库来使用了。
  * [Twisted](https://twistedmatrix.com/trac/) - Twisted是一个用python语言写的事件驱动的网络框架，支持很多种协议，也是一个异步机制的框架。
- * [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - wechat-deleted-friends查看被删的微信好友。
 
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
  * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
