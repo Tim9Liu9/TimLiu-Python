@@ -137,6 +137,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 ========
 #### 第三方平台
  * [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - wechat-deleted-friends查看被删的微信好友。
+ * [Wechat django](https://github.com/jwfy/Wechat) - Wechat django一个基于django开发的微信公众平台，整体环境搭建在新浪SAE平台上，暂时实现的功能：查询天气情况、翻译。
 
 ========
 #### 其他
