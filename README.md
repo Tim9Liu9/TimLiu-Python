@@ -140,6 +140,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [wechatpy](https://github.com/jxtech/wechatpy) - wechatpy 是一个微信 (WeChat) 公众平台的第三方 Python SDK, 实现了普通公众平台和企业号公众平台的解析消息、生成回复和主动调用等 API。阅读文档：http://wechatpy.readthedocs.org/zh_CN/latest/
  * [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - wechat-deleted-friends查看被删的微信好友。
  * [Wechat django](https://github.com/jwfy/Wechat) - Wechat django一个基于django开发的微信公众平台，整体环境搭建在新浪SAE平台上，暂时实现的功能：查询天气情况、翻译。
+ * [gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) - gxgk-wechat-server莞香广科微信公众号后端，使用 Python、Flask、Redis、MySQL、Celery ，为在校学生提供一系列信息查询与便民服务。
 
 ========
 #### 其他
