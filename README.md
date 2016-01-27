@@ -142,6 +142,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Wechat django](https://github.com/jwfy/Wechat) - Wechat django一个基于django开发的微信公众平台，整体环境搭建在新浪SAE平台上，暂时实现的功能：查询天气情况、翻译。
  * [gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) - gxgk-wechat-server莞香广科微信公众号后端，使用 Python、Flask、Redis、MySQL、Celery ，为在校学生提供一系列信息查询与便民服务。
  * [weChat-python-sdk](https://github.com/vincenting/weChat-python-sdk) - weChat-python-sdk微信公共平台非官方SDK，主要实现主动的消息推送和获取，该项目已经过期！
+ * [wechat-admin](https://github.com/torpedoallen/wechat-admin) - 基于Flask和MySQL能够帮助快速迁移微信服务号后台到自家服务器的框架(tag: Python, wechat, weixin, admin, Flask) 。
 
 ========
 #### 其他
