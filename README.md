@@ -115,6 +115,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 #### 运维相关
  * [pywebsocketserver](https://github.com/suxianbaozi/pywebsocketserver) - 程序Log实时监控 – python + websocket。
  * [pupy](https://github.com/n1nj4sec/pupy) - Pupy是一个远程管理工具（Administration Tool），开源并且支持多个平台。Pupy还内置了一个Python解释器，可以从内存中加载Python包，访问远程Python对象。
+ * [Fabric](https://github.com/fabric/fabric) - Fabric 一个通过SSH进行应用部署以及系统任务管理的命令行工具。
  * [Invoke](http://www.pyinvoke.org) - Invoke让你通过一个Python库便捷地执行系统管理任务。如果你想使用稳定的工具（即使是不再积极开发），可以考虑Invoke的前身——Fabric。
  * [DeployDjango](https://github.com/yask123/DeployDjango) - 不到一分钟安全部署Django应用的脚本，[操作教程](http://codingpy.com/article/deploy-django-app-in-less-than-one-minute/)。
  * [HealthChecks](https://github.com/healthchecks/healthchecks) - HealthChecks基于 cron 的监控服务。在 cron 里配置好监控只需要几分钟时间，却能让你晚上睡得更好！[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
