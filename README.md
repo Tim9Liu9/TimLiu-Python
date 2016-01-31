@@ -55,7 +55,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Peewee](https://github.com/coleifer/peewee) - Peewee是一个小型但是十分强大的库，支持通过ORM的方式访问数据库，原生支持SQLite、MySQL和PostgreSQL等数据库。
  * [influxdb-python](https://github.com/influxdata/influxdb-python) - InfluxDB -python 是一个时间序列数据库，用它来储存不同时间的测量值。通过 RESTFul API，它变得极其易用而且高效，另外，由于其内建了聚类功能，因此对数据的检索和分组也变得十分轻松。
  * [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - elasticsearch-dsl-py提供基于JSON的完整的Query DSL查询表达式(DSL即领域专用语言)。
- 
+ * [MongoHub-Mac](https://github.com/bububa/MongoHub-Mac) - MongoHub-Mac：mongo 图形化管理工具。
 
 ========
 #### 游戏相关
