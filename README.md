@@ -70,7 +70,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 
 ========
 #### 大数据相关
- * [pandas](https://github.com/pydata/pandas) - 为 Python 编程语言提供高性能，易用数据结构和数据分析工具。在数据改动和数据预处理方面，Python 早已名声显赫，但是在数据分析与建模方面，Python 是个短板。Pands 软件就填补了这个空白，能让你用 Python 方便地进行你所有数据的处理，而不用转而选择更主流的专业语言，例如 R 语言。
+ * [pandas](https://github.com/pydata/pandas) - 为 Python 编程语言提供高性能，易用数据结构和数据分析工具。在数据改动和数据预处理方面，Python 早已名声显赫，但是在数据分析与建模方面，Python 是个短板。Pands 软件就填补了这个空白，能让你用 Python 方便地进行你所有数据的处理，而不用转而选择更主流的专业语言，例如 R 语言。12 个使效率倍增的 Pandas 技巧 [上](http://datartisan.com/article/detail/80.html)、 [下](http://datartisan.com/article/detail/81.html) 。
  * [pulp](https://github.com/pulp/pulp) - PuLP 是一个用 Python 编写的线性编程模型。它能产生线性文件，能调用高度优化的求解器，GLPK，COIN CLP/CBC，CPLEX，和GUROBI，来求解这些线性问题。
  * [Matplotlib](https://github.com/matplotlib/matplotlib) - Matplotlib是基于 Python 的 2D（数据）绘图库，它产生（输出）出版级质量的图表，用于各种打印纸质的原件格式和跨平台的交互式环境。matplotlib 既可以用在 python 脚本, python 和 ipython 的 shell 界面 (ala MATLAB® 或 Mathematica®)，web 应用服务器，和6类 GUI 工具箱。matplotlib 尝试使容易事情变得更容易，使困难事情变为可能。你只需要少量几行代码，就可以生成图表，直方图，能量光谱（power spectra），柱状图，errorcharts，散点图（scatterplots）等。
  * [Scikit-Learn](https://github.com/scikit-learn/scikit-learn) - Scikit-Learn是一个简单有效地数据挖掘和数据分析工具（库）。关于最值得一提的是，它人人可用，重复用于多种语境。它基于 NumPy，SciPy 和 mathplotlib 等构建。
