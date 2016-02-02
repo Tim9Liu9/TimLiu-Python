@@ -189,8 +189,10 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 
 ========
 #### 博客
- * [值得关注的10个python语言博客](http://www.admin10000.com/document/6540.html) - 值得关注的10个python语言博客, [Planet Python](http://planetpython.org/) 最出名的python博客其中之一;[lucumr](http://lucumr.pocoo.org/) flask的创始人; [love-python](love-python.blogspot.com) 有很多有用的知识和代码; [Doug Hellmann](https://doughellmann.com/blog/) 博主是PYMOTW(Python Module Of the Week)成员之一，博客里面包含了很多library的知识; [Code Who Says Py](http://sayspy.blogspot.com/) 这个博客很不错,虽然它更新的不是很及时; [effbot](http://effbot.org/) 代码和任何你能想得到的东西都在里面; [pydanny](http://pydanny.com) 主要关于Django的博客; [inventwithpython](http://inventwithpython.com/blog/) Al Sweigat，他写了很多本关于python的书; [pythonlibrary](http://www.blog.pythonlibrary.org/) 最有用的博客，他让我的python技术迅猛提; [freepythontips](http://www.freepythontips.wordpress.com/) 打不开了。
+ * [值得关注的10个python语言博客](http://www.admin10000.com/document/6540.html) - 值得关注的10个python语言博客, [Planet Python](http://planetpython.org/) 最出名的python博客其中之一; [lucumr](http://lucumr.pocoo.org/) flask的创始人; [love-python](love-python.blogspot.com) 有很多有用的知识和代码; [Doug Hellmann](https://doughellmann.com/blog/) 博主是PYMOTW(Python Module Of the Week)成员之一，博客里面包含了很多library的知识; [Code Who Says Py](http://sayspy.blogspot.com/) 这个博客很不错,虽然它更新的不是很及时; [effbot](http://effbot.org/) 代码和任何你能想得到的东西都在里面; [pydanny](http://pydanny.com) 主要关于Django的博客; [inventwithpython](http://inventwithpython.com/blog/) Al Sweigat，他写了很多本关于python的书; [pythonlibrary](http://www.blog.pythonlibrary.org/) 最有用的博客，他让我的python技术迅猛提; [freepythontips](http://www.freepythontips.wordpress.com/) 打不开了。
+
+ * [听技术播客](http://www.admin10000.com/document/6540.html) - 听技术播客：一边学Python编程一边学英语。[Talk Python to Me](https://talkpython.fm/) 每期都会请一些知名的Python开发者做嘉宾; [Podcastinit](http://podcastinit.com) Podcastinit也是专注于Python语言的，每期节目也会邀请不同的嘉宾，探讨与Python有关的工具和产品，另外也时常探讨技术领域多样性和包容性等更加宽泛、更具社会性的话题; [Python Test Podcast](http://pythontesting.net/test-podcast/) 聚焦的主题是测试，大部分都是与测试有关的。
 
 ========
 #### 他人总结
- * [issue-198-top2015](http://weekly.pychina.org/issue/issue-198-top2015.html) - 蠎周刊2015年度最赞。
+ * [issue-198-top2015](http://python.jobbole.com/84145/) - 蠎周刊2015年度最赞。
