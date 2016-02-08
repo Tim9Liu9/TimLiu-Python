@@ -48,6 +48,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [cx_Freeze](http://sourceforge.net/projects/cx-freeze/files/) - 把Python脚本转换为能直接运行的可执行文件，支持python3.x,特别简单。
  * [Tkinter](https://docs.python.org/3/library/tkinter.html) - Tkinter的是Tk的GUI工具包，与Python附带的Python接口。
  * [wxPython](http://wxpython.org/) - wxPython一个开源的Python接口的wxWindows。
+ * [PyQt](http://sourceforge.net/projects/pyqt/files/) - PyQt是一个创建GUI应用程序的工具包。它是Python编程语言和Qt库的成功融合。Qt库是目前最强大的库之一。
 
 ========
 #### 网络相关
