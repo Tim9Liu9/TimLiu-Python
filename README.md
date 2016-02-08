@@ -46,7 +46,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Py2exe](http://www.py2exe.org/) - 把Python脚本转换为windows平台上面可以运行的可执行程序（*.exe）的工具,通过修改源码可以支持python3.0的代码。
  * [pyinstaller](http://www.pyinstaller.org/) - 把Python脚本转换为能直接运行的可执行文件，支持python2.7、python3.3-3.5，支持Windows (32-bit and 64-bit)、Linux (32-bit and 64-bit)、Mac OS X (32-bit and 64-bit)平台。
  * [cx_Freeze](http://sourceforge.net/projects/cx-freeze/files/) - 把Python脚本转换为能直接运行的可执行文件，支持python3.x,特别简单。
- * [Tkinter](http://www.pyinstaller.org/) - Tkinter的是Tk的GUI工具包，与Python附带的Python接口。
+ * [Tkinter](https://docs.python.org/3/library/tkinter.html) - Tkinter的是Tk的GUI工具包，与Python附带的Python接口。
+ * [wxPython](http://wxpython.org/) - wxPython一个开源的Python接口的wxWindows。
 
 ========
 #### 网络相关
