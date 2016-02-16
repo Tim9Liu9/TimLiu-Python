@@ -164,6 +164,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 #### IDE
  * [PyCharm](https://www.jetbrains.com/pycharm/download/) - PyCharm是由JetBrains打造的一款Python IDE，Community社区版本是免费的，Professional版本$199.00/年。
  * [Eric](http://eric-ide.python-projects.org/eric-download.html) - Eric是一个集成了项目管理功能的 Python和Ruby集成开发环境。
+ * [PyDev](http://www.pydev.org/download.html) - PyDev是Eclipse开发Python的 IDE，支持Python，Jython和IronPython的开发。
 
 ========
 #### 其他
