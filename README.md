@@ -166,6 +166,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Eric](http://eric-ide.python-projects.org/eric-download.html) - Eric是一个集成了项目管理功能的 Python和Ruby集成开发环境。
  * [PyDev](http://www.pydev.org/download.html) - PyDev是Eclipse开发Python的 IDE，支持Python，Jython和IronPython的开发。
  * [KomodoEdit](https://github.com/Komodo/KomodoEdit) - Komodo Edit 是非常干净，专业的 Python IDE。
+ * [PyScripter](https://sourceforge.net/projects/pyscripter/) - PyScripter是一个开源的Python语言集成开发环境。
 
 ========
 #### 其他
