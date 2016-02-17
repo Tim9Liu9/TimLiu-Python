@@ -170,6 +170,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [PyScripter](https://sourceforge.net/projects/pyscripter/) - PyScripter是一个开源的Python语言集成开发环境。
  * [WingIDE](http://wingware.com/wingide/trial) - WingIDE是个相当优秀的 IDE。
  * [IEP](http://www.iep-project.org/downloads.html) - IEP 是跨平台的 Python IDE，旨在提供简单高效的 Python 开发环境。包括两个重要的组件：编辑器和 Shell，并且提供插件工具集从各个方面来提高开发人员的效率。
+ * [sublimetext](http://www.sublimetext.com/2) - sublimetext：Sublime Text 是一个轻量、简洁、高效、跨平台的编辑器。
 
 ========
 #### 其他
