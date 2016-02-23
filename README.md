@@ -149,6 +149,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [自动更新树莓派的内网、外网IP地址到 自己的github上](https://github.com/dungeonsnd/toolkit/blob/master/rpi/rpi_auto_send_ip_to_github.py) - 自动更新树莓派的内网、外网IP地址到 自己的github。
  * [rpi-start](http://conanwhf.gitcafe.io/2016/01/12/rpi-start/) - 树莓派初始配置指南（2代B型）。
  * [RaspberryWechatPi](https://github.com/mcdona1d/RaspberryWechatPi) - 基于树莓派的智能家居控制平台 微信服务端。
+ * [dotbro-server](https://github.com/pubuim/dotbro-server) - 瀑布IM 开源点歌系统，[架设树莓派点歌系统：如何共享办公室的音箱](http://www.jianshu.com/p/fe8d06a8f751)。
 
 ========
 #### 第三方平台
