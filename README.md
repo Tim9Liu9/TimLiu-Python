@@ -174,7 +174,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [IEP](http://www.iep-project.org/downloads.html) - IEP 是跨平台的 Python IDE，旨在提供简单高效的 Python 开发环境。包括两个重要的组件：编辑器和 Shell，并且提供插件工具集从各个方面来提高开发人员的效率。
  * [Emacs](http://www.gnu.org/software/emacs/) - Linux文本编辑器Emacs是一种强大的文本编辑器，在程序员和其他以技术工作为主的计算机用户中广受欢迎。
  * [sublimetext](http://www.sublimetext.com/2) - sublimetext：Sublime Text 是一个轻量、简洁、高效、跨平台的编辑器。
- * [Atom](https://github.com/atom/atom) - Atom 是 Github 专门为程序员推出的一个跨平台文本编辑器。具有简洁和直观的图形用户界面，并有很多有趣的特点：支持CSS，HTML，JavaScript等网页编程语言。它支持宏，自动完成分屏功能，集成了文件管理器。[官网下载](https://atom.io/)
+ * [Atom](https://github.com/atom/atom) - Atom 是 Github 专门为程序员推出的一个跨平台文本编辑器。具有简洁和直观的图形用户界面，并有很多有趣的特点：支持CSS，HTML，JavaScript等网页编程语言。它支持宏，自动完成分屏功能，集成了文件管理器。[官网下载](https://atom.io/)，比较不错的插件：爆炸效果 activate-power-mode、程序员鼓励师 atom-miku 。
 
 ========
 #### 其他
