@@ -216,9 +216,9 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Eventlet](http://eventlet.net/) - Eventlet是一个用来处理和网络相关的python库函数，而且可以通过协程来实现并发。
  * [Python Async IO Resources](http://asyncio.org/) - asyncio python的异步iO操作资源， [asyncio](https://github.com/python/asyncio) - asyncio3.4以后作为python标准库来使用了。
  * [Twisted](https://twistedmatrix.com/trac/) - Twisted是一个用python语言写的事件驱动的网络框架，支持很多种协议，也是一个异步机制的框架。
-
  * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
  * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
+ * [eviltransform.python](https://github.com/googollee/eviltransform) - eviltransform.python解决国内GPS地图坐标偏移问题,它将政府加密过的GCJ-02坐标，转成世界通用的WGS-84坐标。
 
 ========
 #### 博客与播客
