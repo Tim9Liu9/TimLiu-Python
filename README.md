@@ -238,6 +238,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [听技术播客](http://www.admin10000.com/document/6540.html) - 听技术播客：一边学Python编程一边学英语。[Talk Python to Me](https://talkpython.fm/) 每期都会请一些知名的Python开发者做嘉宾; [Podcastinit](http://podcastinit.com) Podcastinit也是专注于Python语言的，每期节目也会邀请不同的嘉宾，探讨与Python有关的工具和产品，另外也时常探讨技术领域多样性和包容性等更加宽泛、更具社会性的话题; [Python Test Podcast](http://pythontesting.net/test-podcast/) 聚焦的主题是测试，大部分都是与测试有关的。
 
  * [django-web-app-book](https://github.com/wwq0327/django-web-app-book) - Django Web 开发实战,本书是一本在线的免费的Django Web编程书籍。
+ * [Django-Design-Patterns-and-Best-Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices) - Django设计模式与最佳实践。
 
 ========
 #### 他人总结
