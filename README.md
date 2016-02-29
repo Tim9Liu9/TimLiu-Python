@@ -19,8 +19,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 - [第三方平台](#第三方平台)
 - [IDE](#IDE)
 - [其他](#其他)
-- [他人总结](#他人总结)
 - [博客与播客](#博客与播客)
+- [他人总结](#他人总结)
 
 ========
 ### 具体内容 =============================
@@ -217,6 +217,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Python Async IO Resources](http://asyncio.org/) - asyncio python的异步iO操作资源， [asyncio](https://github.com/python/asyncio) - asyncio3.4以后作为python标准库来使用了。
  * [Twisted](https://twistedmatrix.com/trac/) - Twisted是一个用python语言写的事件驱动的网络框架，支持很多种协议，也是一个异步机制的框架。
  * [eviltransform.python](https://github.com/googollee/eviltransform) - eviltransform.python解决国内GPS地图坐标偏移问题,它将政府加密过的GCJ-02坐标，转成世界通用的WGS-84坐标。
+ * [pagure](https://github.com/pypingou/pagure) - Pagure是一个用Python编写的新的、功能齐全的、提供 Web 服务的 Git仓库。它类似于Github 和 Gitlab ，同时允许开源贡献者分享彼此的资源，实现代码和内容上的合作。[官网](https://pagure.io/pagure)
 
 ========
 #### 博客与播客
@@ -226,6 +227,6 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 
 ========
 #### 他人总结
- * [awesome-python](https://github.com/vinta/awesome-python) - Awesome可能是GitHub上寻找和整理开源项目最好的方式。 
+ * [awesome-python](https://github.com/vinta/awesome-python) - <font color=red>Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。 
  * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
  * [issue-198-top2015](http://python.jobbole.com/84145/) - 蠎周刊2015年度最赞。
