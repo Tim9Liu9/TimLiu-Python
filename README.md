@@ -40,6 +40,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [django-seed](https://github.com/Brobin/django-seed) - Django-seed通过[faker](https://github.com/joke2k/faker/)库，为Django模型生成测试数据。该库支持Python和Django的最新版本。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [django-tenants](https://github.com/tomturner/django-tenants) -  django-tenants让django驱动的网站支持多个tenants，这个功能时通过PostgreSQL schemas实现的。这是每个SASS（软件即服务）网站的核心功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Python+Django构建的Blog](https://github.com/xushvai/io) - 基于Python+Django构建的Blog  <http://xushvai.github.io/io/>
+ * [LibraryManagement](https://github.com/yumendy/LibraryManagement) - LibraryManagement图书管理系统(Django1.9.1+Bootstrap3)。
 
 ##### Flask
  * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。
