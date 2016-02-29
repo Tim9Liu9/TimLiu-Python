@@ -4,6 +4,10 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 
 ###  目录
 - [网页框架](#网页框架)
+    - [Django](#Django)
+    - [Flask](#Flask)
+    - [Tornado](#Tornado)
+    - [其他网页框架](#其他网页框架)
 - [用户图形接口相关](#用户图形接口相关)
 - [网络相关](#网络相关)
 - [数据库相关](#数据库相关)
@@ -26,11 +30,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 ### 具体内容 =============================
 ========
 #### 网页框架
- * [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[官网](http://www.tornadoweb.org)，[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
+##### Django
  * [Django](https://www.djangoproject.com/) - Django。 
- * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。
- * [Bottle](http://bottlepy.org/docs/dev/index.html) - Bottle是一个小型的轻量网络开发框架，同时速度也很快。
- * [Wooey](https://github.com/wooey/Wooey) - Wooey 是一个简单的Python脚本的Web UI 界面。它能够提供日常数据分析，文件处理等功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Channels](https://github.com/andrewgodwin/channels) - Channels旨在增强Django的异步能力，同时让Django不仅仅局限于Request-Response模型，能够支持WebSocket、HTTP2推送和背景任务。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Django-Baker](https://github.com/krisfields/django-baker) - Django Baker可以帮助开发者快速启动项目。只要提供app名称，Django Baker就可以根据models.py文件中的models，自动生成视图、表单、URL、admin页面以及模板。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Django-Q](https://github.com/Koed00/django-q) - Django Q是一个原生Django分布式任务队列处理应用，通过Python的mutliprocessing模块功能实现。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
@@ -38,7 +39,17 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - django-hackathon-starter这是一个Django Web应用模板程序，可以帮助你快速生成应用。必定能够为你节省大量的开发时间，同时这个库也能用作开发者的学习指南。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [django-seed](https://github.com/Brobin/django-seed) - Django-seed通过[faker](https://github.com/joke2k/faker/)库，为Django模型生成测试数据。该库支持Python和Django的最新版本。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [django-tenants](https://github.com/tomturner/django-tenants) -  django-tenants让django驱动的网站支持多个tenants，这个功能时通过PostgreSQL schemas实现的。这是每个SASS（软件即服务）网站的核心功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
+ * [Python+Django构建的Blog](https://github.com/xushvai/io) - 基于Python+Django构建的Blog  <http://xushvai.github.io/io/>
 
+##### Flask
+ * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。
+
+##### Tornado
+ * [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[官网](http://www.tornadoweb.org)，[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
+
+##### 其他网页框架
+ * [Bottle](http://bottlepy.org/docs/dev/index.html) - Bottle是一个小型的轻量网络开发框架，同时速度也很快。
+ * [Wooey](https://github.com/wooey/Wooey) - Wooey 是一个简单的Python脚本的Web UI 界面。它能够提供日常数据分析，文件处理等功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
 
 ========
 #### 用户图形接口相关
@@ -220,7 +231,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [pagure](https://github.com/pypingou/pagure) - Pagure是一个用Python编写的新的、功能齐全的、提供 Web 服务的 Git仓库。它类似于Github 和 Gitlab ，同时允许开源贡献者分享彼此的资源，实现代码和内容上的合作。[官网](https://pagure.io/pagure)
 
 ========
-#### 博客与播客
+#### 博客与播客及书籍文档
  * [值得关注的10个python语言博客](http://www.admin10000.com/document/6540.html) - 值得关注的10个python语言博客, [Planet Python](http://planetpython.org/) 最出名的python博客其中之一; [lucumr](http://lucumr.pocoo.org/) flask的创始人; [love-python](love-python.blogspot.com) 有很多有用的知识和代码; [Doug Hellmann](https://doughellmann.com/blog/) 博主是PYMOTW(Python Module Of the Week)成员之一，博客里面包含了很多library的知识; [Code Who Says Py](http://sayspy.blogspot.com/) 这个博客很不错,虽然它更新的不是很及时; [effbot](http://effbot.org/) 代码和任何你能想得到的东西都在里面; [pydanny](http://pydanny.com) 主要关于Django的博客; [inventwithpython](http://inventwithpython.com/blog/) Al Sweigat，他写了很多本关于python的书; [pythonlibrary](http://www.blog.pythonlibrary.org/) 最有用的博客，他让我的python技术迅猛提; [freepythontips](http://www.freepythontips.wordpress.com/) 打不开了。
 
  * [听技术播客](http://www.admin10000.com/document/6540.html) - 听技术播客：一边学Python编程一边学英语。[Talk Python to Me](https://talkpython.fm/) 每期都会请一些知名的Python开发者做嘉宾; [Podcastinit](http://podcastinit.com) Podcastinit也是专注于Python语言的，每期节目也会邀请不同的嘉宾，探讨与Python有关的工具和产品，另外也时常探讨技术领域多样性和包容性等更加宽泛、更具社会性的话题; [Python Test Podcast](http://pythontesting.net/test-podcast/) 聚焦的主题是测试，大部分都是与测试有关的。
