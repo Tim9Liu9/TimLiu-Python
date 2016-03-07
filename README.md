@@ -155,6 +155,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - mitmproxy 是用 Python 和 C 开发的一个中间人代理软件（man-in-the-middle proxy），它可以用来拦截、修改、重放和保存 HTTP/HTTPS 请求。
  * [Sentry](https://github.com/getsentry/sentry) - Sentry 是一个实时的事件日志和聚合平台，基于 Django 构建。Sentry 可以帮助你将 Python 程序的所有 exception 自动记录下来，然后在一个好用的 UI 上呈现和搜索。
  * [newrelic](http://newrelic.com/) - newrelic性能监控的好工具，国内有；[云智慧](http://www.jiankongbao.com/)、[ONE APM](http://www.oneapm.com)。
+ * [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本，并且上传到fir.im，然后发送邮件给测试人员。
 
 ========
 #### 树莓派
