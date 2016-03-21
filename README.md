@@ -15,7 +15,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 - [开源框架](#开源框架)
 - [大数据与人工智能相关](#大数据与人工智能相关)
 - [网络爬虫](#网络爬虫)
-- [测试](#测试)
+- [测试与代码分析审核](#测试与代码分析审核)
 - [破解脚本](#破解脚本)
 - [图表及图像相关](#图表及图像相关)
 - [运维相关](#运维相关)
@@ -123,7 +123,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [pyspider](https://github.com/binux/pyspider) - PySpider：一个国人编写的强大的网络爬虫系统并带有强大的WebUI。采用Python语言编写，分布式架构，支持多种数据库后端，强大的WebUI支持脚本编辑器，任务监视器，项目管理器以及结果查看器。[demo地址](http://demo.pyspider.org/),[网络爬虫剖析，以Pyspider为例](http://python.jobbole.com/81109/) ， [Scrapy 示例 —— Web 爬虫框架](http://python.jobbole.com/84237/) 。
 
 ========
-#### 测试
+#### 测试与代码分析审核
  * [splinter](http://splinter.cobrateam.info/) - Python自动化测试工具Splinter，不仅可以当web自动化测试工具 同时也可以当抓取交互式网站的爬虫程序来用的，不用去分析ajax请求数据了，可以模拟登录，[用Python开发自动化测试脚本-splinter](http://python.jobbole.com/84012/)。
  * [swarm](https://github.com/duhoobo/swarm) - 是一个简单的使用 gevent 开发的支持自定义协议的长连接压测框架。
  * [PySonar2](https://github.com/yinwang0/pysonar2) - PySonar2王垠开发的，针对 Python 的代码静态分析工具。
@@ -131,7 +131,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Nose](https://pypi.python.org/pypi/nose/) - Nose是最流行的针对Python的测试库之一。[简单实例](http://ray.dotnetage.com/languages/python/nose/)
  * [locust](https://github.com/locustio/locust) - 一个开源负载测试工具。使用 Python 代码定义用户行为，也可以仿真百万个用户。
  * [ReviewBoard](https://www.reviewboard.org) - Review Board:在线代码审核工具，它所提供的应用程序可以支持代码审查流程。
- * [PyChecker](https://sourceforge.net/projects/pychecker/files/) - PyChecker是一个python脚本分析工具，它可以发现python脚本中的bugs，它支持python2.0 – 2.7。
+ * [Infer](https://github.com/facebook/infer) - Infer是Facebook最新开源的静态程序分析工具，用于在发布移动应用之前对代码进行分析，找出潜在的问题，包括 Android 、iOS等等。
 
 ========
 #### 破解脚本
