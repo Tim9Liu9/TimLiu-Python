@@ -129,7 +129,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [PySonar2](https://github.com/yinwang0/pysonar2) - PySonar2王垠开发的，针对 Python 的代码静态分析工具。
  * [Behave](https://www.pythonhosted.org/behave/) - BDD自动化测试框架。
  * [Nose](https://pypi.python.org/pypi/nose/) - Nose是最流行的针对Python的测试库之一。[简单实例](http://ray.dotnetage.com/languages/python/nose/)
- * [Behave](https://github.com/locustio/locust) - 一个开源负载测试工具。使用 Python 代码定义用户行为，也可以仿真百万个用户。
+ * [locust](https://github.com/locustio/locust) - 一个开源负载测试工具。使用 Python 代码定义用户行为，也可以仿真百万个用户。
+ * [ReviewBoard](https://www.reviewboard.org) - Review Board:在线代码审核工具，它所提供的应用程序可以支持代码审查流程。
 
 ========
 #### 破解脚本
