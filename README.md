@@ -249,6 +249,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - 可以将PDF转换成HTML，可以在HTML文件中精确显示原生文本、生成的文件大小与解压缩后的PDF文件相当、单HTML文件输出
  * [Pritunl](https://github.com/pritunl/pritunl) - 一款免费开源的VPN平台软件，让用户迅速搭建VPN服务；采用OpenVPN 代理方式，提供了API供高级开发者使用，同时还针对不同平台和不同VPS供应商提供了详尽的安装使用说明。
  * [OpenCC](https://github.com/BYVoid/OpenCC) - 一个开源的中文简繁转换项目，致力于制作高质量的基于统计预料的简繁转换词库。还提供函数库(libopencc)、命令行简繁转换工具、人工校对工具、词典生成程序、在线转换服务及图形用户界面。
+ * [moviepy](https://github.com/Zulko/moviepy) - Moviepy是用来做Python视频编辑的模块：剪切，合并，插入标题，视频混合，视频处理，创建效果。可以读写大多数的音视频格式，支持三个主流的操作系统，支持Python2/3。
 
 ========
 #### 博客与播客及书籍文档
