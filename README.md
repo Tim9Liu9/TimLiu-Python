@@ -168,7 +168,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Sentry](https://github.com/getsentry/sentry) - Sentry 是一个实时的事件日志和聚合平台，基于 Django 构建。Sentry 可以帮助你将 Python 程序的所有 exception 自动记录下来，然后在一个好用的 UI 上呈现和搜索。
  * [newrelic](http://newrelic.com/) - newrelic性能监控的好工具，国内有；[云智慧](http://www.jiankongbao.com/)、[ONE APM](http://www.oneapm.com)。
  * [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本，并且上传到fir.im，然后发送邮件给测试人员。
- * [ZStack](https://github.com/zstackorg/zstack) - 开源IaaS软件,已经提供了大部分IaaS的基本功能，包括：虚拟机管理，存储卷管理，存储卷快照，各种网络服务（DHCP、DNS、SNAT、EIP、PortForward以及Security Group）。
+ * [ZStack](https://github.com/zstackorg/zstack) - 开源IaaS软件,已经提供了大部分IaaS的基本功能，包括：虚拟机管理，存储卷管理，存储卷快照，各种网络服务（DHCP、DNS、SNAT、EIP、PortForward以及Security Group）。[ZStack使用、OpenStack、CloudStack比较](http://www.oschina.net/p/zstack)
+ * [Flocker](https://github.com/ClusterHQ/flocker) - Flocker可轻松实现Docker容器及其数据的管理。这是一个数据卷管理器和多主机的 Docker 集群管理工具。
 
 ========
 #### 树莓派
