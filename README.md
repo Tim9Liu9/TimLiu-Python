@@ -45,6 +45,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [deisp](https://github.com/deis/deisp) - 开源PaaS系统Deis是一个 Django/Celery API 服务器、Python CLI 和一组 Chef cookbooks 合并起来提供一个类似 Heroku 的应用平台，用于公有云和私有云。
  * [OSQA](https://github.com/dzone/OSQA) - 一款免费且开源的问答系统，采用Python的Django开发框架，基于中国优秀的问答系统CNProg，非常类似国外著名的技术问答网站http://stackoverflow.com。[官网](http://www.dzonesoftware.com/products/open-source-question-answer-software)
  * [ASKBOT-devel](https://github.com/ASKBOT/askbot-devel) - 一款免费且开源的问答系统，采用Python的Django开发
+ * [taiga-back](https://github.com/taigaio/taiga-back) - Taiga功能非常强大的项目管理平台，用于初创企业和敏捷开发团队，采用Django 框架开发，前端基于 AngularJS 实现。
 
 ##### Flask
  * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。
