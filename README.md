@@ -170,6 +170,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本，并且上传到fir.im，然后发送邮件给测试人员。
  * [ZStack](https://github.com/zstackorg/zstack) - 开源IaaS软件,已经提供了大部分IaaS的基本功能，包括：虚拟机管理，存储卷管理，存储卷快照，各种网络服务（DHCP、DNS、SNAT、EIP、PortForward以及Security Group）。[ZStack使用、OpenStack、CloudStack比较](http://www.oschina.net/p/zstack)
  * [Flocker](https://github.com/ClusterHQ/flocker) - Flocker可轻松实现Docker容器及其数据的管理。这是一个数据卷管理器和多主机的 Docker 集群管理工具。
+ * [Fig](https://github.com/docker/compose) - Fig 主要用来跟 Docker 一起来构建基于 Docker 的复杂应用，Fig 通过一个配置文件来管理多个Docker容器，非常适合组合使用多个容器进行开发的场景。
 
 ========
 #### 树莓派
