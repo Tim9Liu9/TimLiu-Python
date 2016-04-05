@@ -42,6 +42,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Python+Django构建的Blog](https://github.com/xushvai/io) - 基于Python+Django构建的Blog  <http://xushvai.github.io/io/>
  * [LibraryManagement](https://github.com/yumendy/LibraryManagement) - LibraryManagement图书管理系统(Django1.9.1+Bootstrap3)。
  * [django-shop](https://github.com/awesto/django-shop) - Django做的开源电子商务网站(商城)
+ * [weixin_market](https://github.com/weiguobin/weixin_market) - 基于mezzanine与django的web服务器——微信商城。
  * [deisp](https://github.com/deis/deisp) - 开源PaaS系统Deis是一个 Django/Celery API 服务器、Python CLI 和一组 Chef cookbooks 合并起来提供一个类似 Heroku 的应用平台，用于公有云和私有云。
  * [OSQA](https://github.com/dzone/OSQA) - 一款免费且开源的问答系统，采用Python的Django开发框架，基于中国优秀的问答系统CNProg，非常类似国外著名的技术问答网站http://stackoverflow.com。[官网](http://www.dzonesoftware.com/products/open-source-question-answer-software)
  * [ASKBOT-devel](https://github.com/ASKBOT/askbot-devel) - 一款免费且开源的问答系统，采用Python的Django开发
