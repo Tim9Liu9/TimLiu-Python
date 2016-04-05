@@ -41,6 +41,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [django-tenants](https://github.com/tomturner/django-tenants) -  django-tenants让django驱动的网站支持多个tenants，这个功能时通过PostgreSQL schemas实现的。这是每个SASS（软件即服务）网站的核心功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Python+Django构建的Blog](https://github.com/xushvai/io) - 基于Python+Django构建的Blog  <http://xushvai.github.io/io/>
  * [LibraryManagement](https://github.com/yumendy/LibraryManagement) - LibraryManagement图书管理系统(Django1.9.1+Bootstrap3)。
+ * [CommunityManagement](https://github.com/yumendy/CommunityManagement) - 用Django基于组合模式开发的一个小型的社团管理系统。
  * [django-shop](https://github.com/awesto/django-shop) - Django做的开源电子商务网站(商城)
  * [weixin_market](https://github.com/weiguobin/weixin_market) - 基于mezzanine与django的web服务器——微信商城。
  * [deisp](https://github.com/deis/deisp) - 开源PaaS系统Deis是一个 Django/Celery API 服务器、Python CLI 和一组 Chef cookbooks 合并起来提供一个类似 Heroku 的应用平台，用于公有云和私有云。
