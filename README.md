@@ -137,6 +137,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [locust](https://github.com/locustio/locust) - 一个开源负载测试工具。使用 Python 代码定义用户行为，也可以仿真百万个用户。
  * [ReviewBoard](https://www.reviewboard.org) - Review Board:在线代码审核工具，它所提供的应用程序可以支持代码审查流程。
  * [Infer](https://github.com/facebook/infer) - Infer是Facebook最新开源的静态程序分析工具，用于在发布移动应用之前对代码进行分析，找出潜在的问题，包括 Android 、iOS等等。
+ * [voltron](https://github.com/snare/voltron/) - Python 实现的黑客调试器前端。
 
 ========
 #### 破解脚本
