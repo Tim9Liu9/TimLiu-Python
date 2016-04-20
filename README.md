@@ -267,6 +267,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 
  * [django-web-app-book](https://github.com/wwq0327/django-web-app-book) - Django Web 开发实战,本书是一本在线的免费的Django Web编程书籍。
  * [Django-Design-Patterns-and-Best-Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices) - Django设计模式与最佳实践。
+ * [四款工具顺利实现Python与JavaScript间的代码转换](http://developer.51cto.com/art/201602/505811.htm) - 实现Python与JavaScript代码转换的4个工具：Transcrypt、Jiphy、Brython、RapydScript。
 
 ========
 #### 他人总结
