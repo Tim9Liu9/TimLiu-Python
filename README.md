@@ -121,7 +121,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [AlphaGo](https://github.com/Rochester-NRT/AlphaGo) - 围棋和深层神经网络树搜索。
  * [mrjob](https://github.com/Yelp/mrjob) - 用Python来写MapReduce任务时非常有用的库。它允许你实现自己的 Mapper 和 Reducer 。在本地环境运行/测试你的MapReduce任务，然后部署到EMR或者你自己的MapReduce集群。[官网](https://pythonhosted.org/mrjob/)。
  * [natsort](https://pypi.python.org/pypi/natsort) - 默认sorted方法已经足够高效，并且能够满足你大多数时候的排序需求。
- 
+
 ========
 #### 网络爬虫
  * [scrapy](https://github.com/scrapy/scrapy/) - 最出名的网络爬虫，一个快速,高层次的屏幕抓取和web抓取框架，用于抓取web站点并从页面中提取结构化的数据。Scrapy用途广泛，可以用于数据挖掘、监测和自动化测试。[官方主页](http://scrapy.org/),[Scrapy 轻松定制网络爬虫 - 教程](http://blog.pluskid.org/?p=366)，[Scrapy 中文指南](http://wiki.jikexueyuan.com/project/scrapy/broad-crawls.html) 。
@@ -157,6 +157,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [vincent](https://github.com/wrobstory/vincent) - Python 构建的专为运用 D3.js 进行可视化的 vega 转换工具。
  * [Scikit-image](http://scikit-image.org) - 一组用于图像处理的算法的集合，使图像处理任务如模糊，增强对比度，缩放只需要一些函数调用就可以完成。
  * [PIL](http://www.pythonware.com/products/pil/) - PIL （Python Imaging Library）是 Python 中最常用的图像处理库。
+ * [prettytable](https://github.com/lmaurits/prettytable) - 让你能够在终端中画出漂亮的ascii表格，它支持多种数据源。
 
 ========
 #### 运维相关
