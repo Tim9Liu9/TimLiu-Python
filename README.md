@@ -120,7 +120,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [nupic](https://github.com/numenta/nupic) - 使用的机器学习算法叫做脑皮质学习算法。
  * [AlphaGo](https://github.com/Rochester-NRT/AlphaGo) - 围棋和深层神经网络树搜索。
  * [mrjob](https://github.com/Yelp/mrjob) - 用Python来写MapReduce任务时非常有用的库。它允许你实现自己的 Mapper 和 Reducer 。在本地环境运行/测试你的MapReduce任务，然后部署到EMR或者你自己的MapReduce集群。[官网](https://pythonhosted.org/mrjob/)。
-
+ * [natsort](https://pypi.python.org/pypi/natsort) - 默认sorted方法已经足够高效，并且能够满足你大多数时候的排序需求。
+ 
 ========
 #### 网络爬虫
  * [scrapy](https://github.com/scrapy/scrapy/) - 最出名的网络爬虫，一个快速,高层次的屏幕抓取和web抓取框架，用于抓取web站点并从页面中提取结构化的数据。Scrapy用途广泛，可以用于数据挖掘、监测和自动化测试。[官方主页](http://scrapy.org/),[Scrapy 轻松定制网络爬虫 - 教程](http://blog.pluskid.org/?p=366)，[Scrapy 中文指南](http://wiki.jikexueyuan.com/project/scrapy/broad-crawls.html) 。
