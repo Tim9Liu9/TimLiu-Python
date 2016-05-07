@@ -266,6 +266,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [moviepy](https://github.com/Zulko/moviepy) - Moviepy是用来做Python视频编辑的模块：剪切，合并，插入标题，视频混合，视频处理，创建效果。可以读写大多数的音视频格式，支持三个主流的操作系统，支持Python2/3。
  * [delorean](https://github.com/myusuf3/delorean) - delorean提供了一个相比于datetime和pytz的更好的抽象，让你处理时间更容易。它有很多有用的处理时区的特性，标准化时区或者从一个时区改变到另外一个时区。
  * [swig](https://github.com/swig/swig) - 是一个非常优秀的开源工具，支持您将 C/C++ 代码与任何主流脚本语言相集成,包括 Ruby、Perl、Tcl 和 Python。[swig实现Python和C的互联](http://fangs.in/post/python/2015-07-27)。
+ * [yagmail](https://github.com/kootenpv/yagmail) - 发送复杂邮件,发送富文本邮件、发送邮件附件以及使用邮件模板。[使用教程](http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651370295&idx=1&sn=18d4b71ec100ca043c20cad612eb3f5e&scene=0#wechat_redirect)
 
 ========
 #### 博客与播客及书籍文档
