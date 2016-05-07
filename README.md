@@ -152,6 +152,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [AndroidPINCrack](https://github.com/PentesterES/AndroidPINCrack) - android的pin密码破解。
  * [rarPasswordCrackere](https://github.com/GauthamGoli/rarPasswordCrackere) - rar加密文件破解。
  * [Python-ZIP-Cracker](https://github.com/agusmakmun/Python-ZIP-Cracker) - zip加密文件破解。
+ * [enjarify](https://github.com/google/enjarify) - 可代替dex2jar的dex Android反编译工具。[使用教程](https://segmentfault.com/a/1190000004996344)
 
 
 ========
