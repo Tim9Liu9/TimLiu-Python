@@ -52,6 +52,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 ##### Flask
  * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。
  * [Blog_mini](https://github.com/xpleaf/Blog_mini) - 基于Flask开发的开源博客系统，具有简洁的界面和强大的后台管理。
+ * [lagou-finder](https://github.com/sagaxu/lagou-finder) - python3的flask项目,根据地图展示拉勾网招聘信息的项目。
 
 ##### Tornado
  * [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[官网](http://www.tornadoweb.org)，[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
