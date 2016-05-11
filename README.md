@@ -81,7 +81,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [youtube-dl](https://github.com/rg3/youtube-dl//) - 一个可从YouTube等网站下载视频的开源神器,采用Python开发，支持多个OS平台，支持众多视频网站国内优酷、土豆、新浪和搜狐，国外YouTube等赫然在列。
  * [ppmessage](https://github.com/PPMESSAGE/ppmessage) - 皮皮消息，即插即用，在线客服，移动应用内即时通讯，私有的·微信·，自建的·钉钉·，开源，纯Python实现。
  * [uvloop](https://github.com/MagicStack/uvloop) - 一个完整的asyncio事件循环的替代品，它建立在libuv基础之上，由Cython编写而成。性能非常高！
- * [you-get](https://github.com/soimort/you-get/) - 能帮你快速爬取你想要的一切，支持64个网站，包括优酷、土豆、爱奇艺、b站、酷狗音乐、虾米。
+ * [you-get](https://github.com/soimort/you-get/) - 能帮你快速爬取你想要的一切，支持64个网站，包括优酷、土豆、爱奇艺、b站、酷狗音乐、虾米。[官网]( https://you-get.org/)
 
 ========
 #### 数据库相关
@@ -271,6 +271,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [delorean](https://github.com/myusuf3/delorean) - delorean提供了一个相比于datetime和pytz的更好的抽象，让你处理时间更容易。它有很多有用的处理时区的特性，标准化时区或者从一个时区改变到另外一个时区。
  * [swig](https://github.com/swig/swig) - 是一个非常优秀的开源工具，支持您将 C/C++ 代码与任何主流脚本语言相集成,包括 Ruby、Perl、Tcl 和 Python。[swig实现Python和C的互联](http://fangs.in/post/python/2015-07-27)。
  * [yagmail](https://github.com/kootenpv/yagmail) - 发送复杂邮件,发送富文本邮件、发送邮件附件以及使用邮件模板。[使用教程](http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651370295&idx=1&sn=18d4b71ec100ca043c20cad612eb3f5e&scene=0#wechat_redirect)
+ * [pypub](https://github.com/wcember/pypub) - 用来快速创建epub文件而不必考虑epub规范的复杂性。
 
 ========
 #### 博客与播客及书籍文档
