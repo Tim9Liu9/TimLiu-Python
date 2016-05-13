@@ -16,7 +16,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 - [大数据与人工智能相关](#大数据与人工智能相关)
 - [网络爬虫](#网络爬虫)
 - [测试与代码分析审核](#测试与代码分析审核)
-- [破解脚本](#破解脚本)
+- [密码破解相关](#密码破解相关)
 - [图表及图像相关](#图表及图像相关)
 - [运维相关](#运维相关)
 - [树莓派](#树莓派)
@@ -147,7 +147,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [voltron](https://github.com/snare/voltron/) - Python 实现的黑客调试器前端。
 
 ========
-#### 破解脚本
+#### 密码破解相关
  * [ibrute](https://github.com/hackappcom/ibrute) - 一个攻击iCloud账户的Python脚本,2014年很多明星的账号就是被这个脚本攻破的，苹果已经修改这个漏洞了。
  * [bruteforce_py](https://github.com/rischanlab/bruteforce_py) - 暴力破解脚本，ssh bf, wordpress bf, cpanel bf, mysql bf, etc ... 可以说是暴力破解大全。
  * [keychain-bruteforce](https://github.com/ziman/keychain-bruteforce) - 暴力破解MAC OS X 的密码管理。
@@ -156,7 +156,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [rarPasswordCrackere](https://github.com/GauthamGoli/rarPasswordCrackere) - rar加密文件破解。
  * [Python-ZIP-Cracker](https://github.com/agusmakmun/Python-ZIP-Cracker) - zip加密文件破解。
  * [enjarify](https://github.com/google/enjarify) - 可代替dex2jar的dex Android反编译工具。[使用教程](https://segmentfault.com/a/1190000004996344)
-
+ * [featherduster](https://github.com/nccgroup/featherduster) - 使用Python编写的自动、模块化的密码分析工具。
 
 ========
 #### 图表及图像相关
