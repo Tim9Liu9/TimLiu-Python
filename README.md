@@ -157,6 +157,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Python-ZIP-Cracker](https://github.com/agusmakmun/Python-ZIP-Cracker) - zip加密文件破解。
  * [enjarify](https://github.com/google/enjarify) - 可代替dex2jar的dex Android反编译工具。[使用教程](https://segmentfault.com/a/1190000004996344)
  * [featherduster](https://github.com/nccgroup/featherduster) - 使用Python编写的自动、模块化的密码分析工具。
+ * [python-nmap](http://xael.org/pages/python-nmap-en.html) - 是一个用来帮助用户使用 nmap 端口扫描器的 Python 库，可让用户轻松操作 nmap 扫描结果、自动扫描和生成报告。
 
 ========
 #### 图表及图像相关
