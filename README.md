@@ -24,6 +24,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 - [IDE](#IDE)
 - [其他库](#其他库)
 - [博客与播客及书籍文档](#博客与播客及书籍文档)
+- [好的文章](#好的文章)
 - [他人总结](#他人总结)
 
 ========
@@ -283,6 +284,11 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [django-web-app-book](https://github.com/wwq0327/django-web-app-book) - Django Web 开发实战,本书是一本在线的免费的Django Web编程书籍。
  * [Django-Design-Patterns-and-Best-Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices) - Django设计模式与最佳实践。
  * [四款工具顺利实现Python与JavaScript间的代码转换](http://developer.51cto.com/art/201602/505811.htm) - 实现Python与JavaScript代码转换的4个工具：Transcrypt、Jiphy、Brython、RapydScript。
+
+========
+#### 好的文章
+ * [使用Pandas和Matplotlib分析Tweets](https://github.com/ictar/pythondocument/blob/master/Science%20and%20Data%20Analysis/Matplotlib%E6%95%99%E7%A8%8B%20-%20%E7%BB%98%E5%88%B6%E6%8F%90%E5%88%B0Trump%2C%20Clinton%20%26%20Sanders%E7%9A%84%E6%8E%A8%E7%89%B9.md) - 使用Pandas和Matplotlib分析Tweets。
+
 
 ========
 #### 他人总结
