@@ -134,6 +134,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - Beautifu Soup不完全是一套爬虫工具，需要配合urllib使用，而是一套HTML/XML数据分析，清洗和获取工具。
  * [python-goose](https://github.com/grangier/python-goose/) - Python-Goose用Python重写，依赖了Beautiful Soup。给定一个文章的URL, 获取文章的标题和内容很方便。
  * [pyspider](https://github.com/binux/pyspider) - PySpider：一个国人编写的强大的网络爬虫系统并带有强大的WebUI。采用Python语言编写，分布式架构，支持多种数据库后端，强大的WebUI支持脚本编辑器，任务监视器，项目管理器以及结果查看器。[demo地址](http://demo.pyspider.org/),[网络爬虫剖析，以Pyspider为例](http://python.jobbole.com/81109/) ， [Scrapy 示例 —— Web 爬虫框架](http://python.jobbole.com/84237/) 。
+ * [PyQuery](https://github.com/gawel/pyquery) - 是 Python 仿照 jQuery 的严格实现。语法与 jQuery 几乎完全相同，所以不用再去费心去记一些奇怪的方法了。[python爬虫神器PyQuery的使用方法](http://python.jobbole.com/85222/)。
 
 ========
 #### 测试与代码分析审核
