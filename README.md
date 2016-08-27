@@ -78,7 +78,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 ========
 #### 网络相关
  * [aiohttp](https://github.com/KeepSafe/aiohttp) - aiohttp是一个为 asyncio 提供了简洁易用的 HTTP 客户端和服务器的库。
- * [Requests](https://github.com/kennethreitz/requests/) - Requests是python的一个HTTP客户端库，跟urllib，urllib2类似。
+ * [Requests](https://github.com/kennethreitz/requests/) - Requests是python的一个HTTP客户端库，跟urllib，urllib2类似，[官网](http://www.python-requests.org/en/latest/)。
  * [youtube-dl](https://github.com/rg3/youtube-dl//) - 一个可从YouTube等网站下载视频的开源神器,采用Python开发，支持多个OS平台，支持众多视频网站国内优酷、土豆、新浪和搜狐，国外YouTube等赫然在列。
  * [ppmessage](https://github.com/PPMESSAGE/ppmessage) - 皮皮消息，即插即用，在线客服，移动应用内即时通讯，私有的·微信·，自建的·钉钉·，开源，纯Python实现。
  * [uvloop](https://github.com/MagicStack/uvloop) - 一个完整的asyncio事件循环的替代品，它建立在libuv基础之上，由Cython编写而成。性能非常高！
@@ -275,7 +275,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [swig](https://github.com/swig/swig) - 是一个非常优秀的开源工具，支持您将 C/C++ 代码与任何主流脚本语言相集成,包括 Ruby、Perl、Tcl 和 Python。[swig实现Python和C的互联](http://fangs.in/post/python/2015-07-27)。
  * [yagmail](https://github.com/kootenpv/yagmail) - 发送复杂邮件,发送富文本邮件、发送邮件附件以及使用邮件模板。[使用教程](http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651370295&idx=1&sn=18d4b71ec100ca043c20cad612eb3f5e&scene=0#wechat_redirect)
  * [pypub](https://github.com/wcember/pypub) - 用来快速创建epub文件而不必考虑epub规范的复杂性。
- * [Python 黑帽编程大纲](https://zhuanlan.zhihu.com/p/21658243) - Python 黑帽编程大纲
+ * [lxml](http://lxml.de/) - lxml联合了libxml2和libxslt。如果你要处理XML或HTML，lxml是最好的选择。
+
 
 ========
 #### 博客与播客及书籍文档
@@ -290,7 +291,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 ========
 #### 好的文章
  * [使用Pandas和Matplotlib分析Tweets](https://github.com/ictar/pythondocument/blob/master/Science%20and%20Data%20Analysis/Matplotlib%E6%95%99%E7%A8%8B%20-%20%E7%BB%98%E5%88%B6%E6%8F%90%E5%88%B0Trump%2C%20Clinton%20%26%20Sanders%E7%9A%84%E6%8E%A8%E7%89%B9.md) - 使用Pandas和Matplotlib分析Tweets。
-
+ * [Python 黑帽编程大纲](https://zhuanlan.zhihu.com/p/21658243) - Python 黑帽编程大纲
 
 ========
 #### 他人总结
