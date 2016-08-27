@@ -276,13 +276,13 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Pritunl](https://github.com/pritunl/pritunl) - 一款免费开源的VPN平台软件，让用户迅速搭建VPN服务；采用OpenVPN 代理方式，提供了API供高级开发者使用，同时还针对不同平台和不同VPS供应商提供了详尽的安装使用说明。
  * [OpenCC](https://github.com/BYVoid/OpenCC) - 一个开源的中文简繁转换项目，致力于制作高质量的基于统计预料的简繁转换词库。还提供函数库(libopencc)、命令行简繁转换工具、人工校对工具、词典生成程序、在线转换服务及图形用户界面。
  * [moviepy](https://github.com/Zulko/moviepy) - Moviepy是用来做Python视频编辑的模块：剪切，合并，插入标题，视频混合，视频处理，创建效果。可以读写大多数的音视频格式，支持三个主流的操作系统，支持Python2/3。
- * [delorean](https://github.com/myusuf3/delorean) - delorean提供了一个相比于datetime和pytz的更好的抽象，让你处理时间更容易。它有很多有用的处理时区的特性，标准化时区或者从一个时区改变到另外一个时区。
+ * [delorean](https://github.com/myusuf3/delorean) - delorean提供了一个相比于datetime和pytz的更好的抽象，让你处理日期和时间更容易。它有很多有用的处理时区的特性，标准化时区或者从一个时区改变到另外一个时区。[官网](http://delorean.readthedocs.io/en/latest/)。
  * [swig](https://github.com/swig/swig) - 是一个非常优秀的开源工具，支持您将 C/C++ 代码与任何主流脚本语言相集成,包括 Ruby、Perl、Tcl 和 Python。[swig实现Python和C的互联](http://fangs.in/post/python/2015-07-27)。
  * [yagmail](https://github.com/kootenpv/yagmail) - 发送复杂邮件,发送富文本邮件、发送邮件附件以及使用邮件模板。[使用教程](http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651370295&idx=1&sn=18d4b71ec100ca043c20cad612eb3f5e&scene=0#wechat_redirect)
  * [pypub](https://github.com/wcember/pypub) - 用来快速创建epub文件而不必考虑epub规范的复杂性。
  * [lxml](http://lxml.de/) - lxml联合了libxml2和libxslt。如果你要处理XML或HTML，lxml是最好的选择。
  * [Docopt](http://docopt.org/) - 忘了optparse和argparse吧，使用docstring来构建优雅的、高可读性、复杂（如果你有这个需要）的命令行界面。这是2013年诞生的最好的库。
-
+ * [PEW](https://github.com/berdario/pew/) - PEW 是一套管理多个虚拟环境的工具，在bash，zsh，fish和powershell上完美运行。
 
 ========
 #### 博客与播客及书籍文档
