@@ -192,6 +192,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Fig](https://github.com/docker/compose) - Fig 主要用来跟 Docker 一起来构建基于 Docker 的复杂应用，Fig 通过一个配置文件来管理多个Docker容器，非常适合组合使用多个容器进行开发的场景。
  * [sh](http://amoffat.github.io/sh/) - sh是一个成熟的Python子进程接口，允许像调用函数一样调用任何程序。超级好用。
  * [Watchdog](http://pythonhosted.org/watchdog/) - Watchdog是一个跨平台的Python库和shell工具，可以监视文件系统事件。超级好用，容易上手。
+ * [Structlog](http://www.structlog.org/en/stable/) - Structlog是一个先进的日志处理器。他可以和任何现存的日志记录工具相集成，并包装了Python标准库。你可以构建定制的记录工具，根据你的需要增加上下文，保证你的日志一致、可读。
 
 ========
 #### 树莓派
