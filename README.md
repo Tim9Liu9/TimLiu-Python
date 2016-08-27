@@ -59,7 +59,9 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[官网](http://www.tornadoweb.org)，[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
 
 ##### 其他网页框架
- * [Bottle](http://bottlepy.org/docs/dev/index.html) - Bottle是一个小型的轻量网络开发框架，同时速度也很快。
+ * [Bottle](http://bottlepy.org/docs/dev/index.html) - Bottle是一个快速、简单、轻量的WSGI微型web框架。利用Bottle构建小型站点和API的时间以秒计算。这个框架只有一个py文件，可以把它放进任何目录。
+
+
  * [Wooey](https://github.com/wooey/Wooey) - Wooey 是一个简单的Python脚本的Web UI 界面。它能够提供日常数据分析，文件处理等功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Odoo](https://sourceforge.net/projects/greenopenerp/files/) - 前OpenERP，开源的ERP和电子商务系统、CRM，功能强大。[官网](https://www.odoo.com/)
 
@@ -188,6 +190,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [ZStack](https://github.com/zstackorg/zstack) - 开源IaaS软件,已经提供了大部分IaaS的基本功能，包括：虚拟机管理，存储卷管理，存储卷快照，各种网络服务（DHCP、DNS、SNAT、EIP、PortForward以及Security Group）。[ZStack使用、OpenStack、CloudStack比较](http://www.oschina.net/p/zstack)
  * [Flocker](https://github.com/ClusterHQ/flocker) - Flocker可轻松实现Docker容器及其数据的管理。这是一个数据卷管理器和多主机的 Docker 集群管理工具。
  * [Fig](https://github.com/docker/compose) - Fig 主要用来跟 Docker 一起来构建基于 Docker 的复杂应用，Fig 通过一个配置文件来管理多个Docker容器，非常适合组合使用多个容器进行开发的场景。
+ * [sh](http://amoffat.github.io/sh/) - sh是一个成熟的Python子进程接口，允许像调用函数一样调用任何程序。超级好用。
 
 ========
 #### 树莓派
