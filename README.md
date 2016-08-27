@@ -191,6 +191,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Flocker](https://github.com/ClusterHQ/flocker) - Flocker可轻松实现Docker容器及其数据的管理。这是一个数据卷管理器和多主机的 Docker 集群管理工具。
  * [Fig](https://github.com/docker/compose) - Fig 主要用来跟 Docker 一起来构建基于 Docker 的复杂应用，Fig 通过一个配置文件来管理多个Docker容器，非常适合组合使用多个容器进行开发的场景。
  * [sh](http://amoffat.github.io/sh/) - sh是一个成熟的Python子进程接口，允许像调用函数一样调用任何程序。超级好用。
+ * [Watchdog](http://pythonhosted.org/watchdog/) - Watchdog是一个跨平台的Python库和shell工具，可以监视文件系统事件。超级好用，容易上手。
 
 ========
 #### 树莓派
