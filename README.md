@@ -149,6 +149,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [ReviewBoard](https://www.reviewboard.org) - Review Board:在线代码审核工具，它所提供的应用程序可以支持代码审查流程。
  * [Infer](https://github.com/facebook/infer) - Infer是Facebook最新开源的静态程序分析工具，用于在发布移动应用之前对代码进行分析，找出潜在的问题，包括 Android 、iOS等等。
  * [voltron](https://github.com/snare/voltron/) - Python 实现的黑客调试器前端。
+ * [Pympler](https://pythonhosted.org/Pympler/) - Pympler一个很棒的内存统计调试模块，实时监控Python web 应用的内存使用量，能walk你的进程堆,并报告所有Python分配对象的类型,个数和以bytes单位的大小.[使用介绍](http://python.freelycode.com/contribution/detail/97)。
 
 ========
 #### 密码破解相关
