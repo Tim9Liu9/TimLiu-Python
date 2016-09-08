@@ -164,7 +164,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [featherduster](https://github.com/nccgroup/featherduster) - 使用Python编写的自动、模块化的密码分析工具。
  * [python-nmap](http://xael.org/pages/python-nmap-en.html) - 是一个用来帮助用户使用 nmap 端口扫描器的 Python 库，可让用户轻松操作 nmap 扫描结果、自动扫描和生成报告。
  * [pyinstallerextractor](https://sourceforge.net/projects/pyinstallerextractor/) - 使用pyinstxtractor.py 脚本可以用来提取pyinstall打包的exe文件的内容，脚本同时也可以提取出可执行文件中的pyz文件的内容。 
- * [cuckoosandbox](https://github.com/cuckoosandbox/cuckoo) - 使用pyinstxtractor.py 脚本可以用来提取p
+ * [cuckoosandbox](https://github.com/cuckoosandbox/cuckoo) - cuckoo sandbox:是一个自动动态恶意软件分析系统。你可以将任何可疑文件丢给它，Cuckoo会在几秒内为你反馈一个详细结果，概括此类文件在在孤立环境中执行时的活动。
+ * [BeEF](https://github.com/beefproject/beef) - BeEF是The Browser Exploitation Framework的缩写，它是一个 专注网页浏览器的渗透测试工具。
 
 ========
 #### 图表及图像相关
