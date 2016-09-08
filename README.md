@@ -16,7 +16,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 - [大数据与人工智能相关](#大数据与人工智能相关)
 - [网络爬虫](#网络爬虫)
 - [测试与代码分析审核](#测试与代码分析审核)
-- [密码破解相关](#密码破解相关)
+- [安全与破解相关](#安全与破解相关)
 - [图表及图像相关](#图表及图像相关)
 - [运维相关](#运维相关)
 - [树莓派](#树莓派)
@@ -152,7 +152,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Pympler](https://pythonhosted.org/Pympler/) - Pympler一个很棒的内存统计调试模块，实时监控Python web 应用的内存使用量，能walk你的进程堆,并报告所有Python分配对象的类型,个数和以bytes单位的大小.[使用介绍](http://python.freelycode.com/contribution/detail/97)。
 
 ========
-#### 密码破解相关
+#### 安全与破解相关
  * [ibrute](https://github.com/hackappcom/ibrute) - 一个攻击iCloud账户的Python脚本,2014年很多明星的账号就是被这个脚本攻破的，苹果已经修改这个漏洞了。
  * [bruteforce_py](https://github.com/rischanlab/bruteforce_py) - 暴力破解脚本，ssh bf, wordpress bf, cpanel bf, mysql bf, etc ... 可以说是暴力破解大全。
  * [keychain-bruteforce](https://github.com/ziman/keychain-bruteforce) - 暴力破解MAC OS X 的密码管理。
@@ -164,7 +164,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [featherduster](https://github.com/nccgroup/featherduster) - 使用Python编写的自动、模块化的密码分析工具。
  * [python-nmap](http://xael.org/pages/python-nmap-en.html) - 是一个用来帮助用户使用 nmap 端口扫描器的 Python 库，可让用户轻松操作 nmap 扫描结果、自动扫描和生成报告。
  * [pyinstallerextractor](https://sourceforge.net/projects/pyinstallerextractor/) - 使用pyinstxtractor.py 脚本可以用来提取pyinstall打包的exe文件的内容，脚本同时也可以提取出可执行文件中的pyz文件的内容。 
-
+ * [cuckoosandbox](https://github.com/cuckoosandbox/cuckoo) - 使用pyinstxtractor.py 脚本可以用来提取p
 
 ========
 #### 图表及图像相关
