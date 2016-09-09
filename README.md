@@ -174,6 +174,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Scikit-image](http://scikit-image.org) - 一组用于图像处理的算法的集合，使图像处理任务如模糊，增强对比度，缩放只需要一些函数调用就可以完成。
  * [PIL](http://www.pythonware.com/products/pil/) - PIL （Python Imaging Library）是 Python 中最常用的图像处理库。
  * [prettytable](https://github.com/lmaurits/prettytable) - 让你能够在终端中画出漂亮的ascii表格，它支持多种数据源。
+ * [pytesseract](https://github.com/madmaze/pytesseract) - 一个很好用图像识别的工具，主要用于识别验证码。
 
 ========
 #### 运维相关
