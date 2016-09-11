@@ -176,6 +176,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [PIL](http://www.pythonware.com/products/pil/) - PIL （Python Imaging Library）是 Python 中最常用的图像处理库。
  * [prettytable](https://github.com/lmaurits/prettytable) - 让你能够在终端中画出漂亮的ascii表格，它支持多种数据源。
  * [pytesseract](https://github.com/madmaze/pytesseract) - 一个很好用图像识别的工具，主要用于识别验证码。
+ * [fuck12306](https://github.com/andelf/fuck12306) - 12306 图片验证码识别测试。
 
 ========
 #### 运维相关
