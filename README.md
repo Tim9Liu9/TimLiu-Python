@@ -294,6 +294,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [PEW](https://github.com/berdario/pew/) - PEW 是一套管理多个虚拟环境的工具，在bash，zsh，fish和powershell上完美运行。
  * [social-oauth](https://github.com/yueyoum/social-oauth) - 为中国大陆开放了OAuth2认证的网站提供Python接口。
  * [snownlp](https://github.com/isnowfy/snownlp) - 是一个python写的类库，可以方便的处理中文文本内容，是受到了TextBlob的启发而写的一个方便处理中文的类库。
+ * [jieba](https://github.com/fxsjy/jieba) - “结巴”中文分词,做最好的 Python 中文分词组件。
 
 ========
 #### 博客与播客及书籍文档
