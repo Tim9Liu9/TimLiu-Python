@@ -290,6 +290,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [lxml](http://lxml.de/) - lxml联合了libxml2和libxslt。如果你要处理XML或HTML，lxml是最好的选择。
  * [Docopt](http://docopt.org/) - 忘了optparse和argparse吧，使用docstring来构建优雅的、高可读性、复杂（如果你有这个需要）的命令行界面。这是2013年诞生的最好的库。
  * [PEW](https://github.com/berdario/pew/) - PEW 是一套管理多个虚拟环境的工具，在bash，zsh，fish和powershell上完美运行。
+ * [social-oauth](https://github.com/yueyoum/social-oauth) - 为中国大陆开放了OAuth2认证的网站提供Python接口。
 
 ========
 #### 博客与播客及书籍文档
