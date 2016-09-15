@@ -202,6 +202,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Watchdog](http://pythonhosted.org/watchdog/) - Watchdog是一个跨平台的Python库和shell工具，可以监视文件系统事件。超级好用，容易上手。
  * [Structlog](http://www.structlog.org/en/stable/) - Structlog是一个先进的日志处理器。他可以和任何现存的日志记录工具相集成，并包装了Python标准库。你可以构建定制的记录工具，根据你的需要增加上下文，保证你的日志一致、可读。
  * [plan](https://github.com/fengsp/plan) - 一个用Python编写的定时任务管理工具。
+ * [tox](http://testrun.org/tox/latest/) - 一个提供自动化打包，测试和发布的Python软件的工具，可以用于控制台或者基础到你的持续构建平台，也是一个通用的virtualenv管理和测试命令行工具。
 
 ========
 #### 树莓派
