@@ -154,6 +154,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Brakeman](https://github.com/presidentbeef/brakeman) - 一个开源静态分析工具，负责检查Ruby on Rails应用程序的安全漏洞。
  * [colorama](https://github.com/tartley/colorama) - 为Python终端输出增加颜色,可以向文本增加颜色或者背景颜色。
  * [Blessings](https://github.com/erikrose/blessings) - 一个轻量级的文本终端输入颜色改变库。
+ * [termcolor](https://github.com/hfeeki/termcolor) - 一个python的终端输出文本颜色改变的[模块](https://pypi.python.org/pypi/termcolor)。
 
 ========
 #### 安全与破解相关
