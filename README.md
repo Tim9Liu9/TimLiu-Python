@@ -60,7 +60,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 
 ##### 其他网页框架
  * [Bottle](http://bottlepy.org/docs/dev/index.html) - Bottle是一个快速、简单、轻量的WSGI微型web框架。利用Bottle构建小型站点和API的时间以秒计算。这个框架只有一个py文件，可以把它放进任何目录。
-
+ * [Tyrion](https://github.com/WuPeiqi/Tyrion) - 支持多WEB框架Form表单验证组件，其完美的支持Tornado、Django、Flask、Bottle Web框架。
 
  * [Wooey](https://github.com/wooey/Wooey) - Wooey 是一个简单的Python脚本的Web UI 界面。它能够提供日常数据分析，文件处理等功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Odoo](https://sourceforge.net/projects/greenopenerp/files/) - 前OpenERP，开源的ERP和电子商务系统、CRM，功能强大。[官网](https://www.odoo.com/)
