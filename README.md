@@ -231,7 +231,8 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [weChat-python-sdk](https://github.com/vincenting/weChat-python-sdk) - weChat-python-sdk微信公共平台非官方SDK，主要实现主动的消息推送和获取，该项目已经过期！
  * [wechat-admin](https://github.com/torpedoallen/wechat-admin) - 基于Flask和MySQL能够帮助快速迁移微信服务号后台到自家服务器的框架(tag: Python, wechat, weixin, admin, Flask) 。
  * [wechat-encrypt-python3](https://github.com/chenjianjx/wechat-encrypt-python3) - 微信提供的官方python加解密代码 只能用于python2。这里重写了一个python3版本。
- * [Python-SDK](http://git.oschina.net/jeffkit/wechat) -  微信公众号Python-SDK,本SDK支持微信公众号以及企业号的上行消息及OAuth接口。
+ * [Python-SDK](http://git.oschina.net/jeffkit/wechat) - 微信公众号Python-SDK,本SDK支持微信公众号以及企业号的上行消息及OAuth接口。
+ * [wego](https://github.com/wegostudio/wego) - WEGO微信公众号开发框架。
 
 ========
 #### IDE
