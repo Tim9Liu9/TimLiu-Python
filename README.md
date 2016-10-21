@@ -97,7 +97,6 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - elasticsearch-dsl-py提供基于JSON的完整的Query DSL查询表达式(DSL即领域专用语言)。
  * [MongoHub-Mac](https://github.com/bububa/MongoHub-Mac) - MongoHub-Mac：mongo 图形化管理工具。
  * [mongotron](https://github.com/officert/mongotron) - mongotron：mongo 图形化管理工具,基于Electron与AngularJS写成。
- * [asyncmongo](https://github.com/bitly/asyncmongo) - AsyncMongo是基于Tornado iploop的mongo数据库的异步库。
  * [tinydb](http://tinydb.readthedocs.org/en/latest/getting-started.html) - 一个小型的文档数据库，它允许你在本地文件中插入JSON数据并查询它。它只有1200多行代码，并且配有简单干净的文档和API。
 
 ========
@@ -285,6 +284,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Eventlet](http://eventlet.net/) - Eventlet是一个用来处理和网络相关的python库函数，而且可以通过协程来实现并发。
  * [Python Async IO Resources](http://asyncio.org/) - asyncio python的异步iO操作资源， [asyncio](https://github.com/python/asyncio) - asyncio3.4以后作为python标准库来使用了。
  * [Twisted](https://twistedmatrix.com/trac/) - Twisted是一个用python语言写的事件驱动的网络框架，支持很多种协议，也是一个异步机制的框架。
+ * [Mugen](https://github.com/PeterDing/mugen) - Mugen 是一个运行在 Python3.4+ 的 HTTP 异步请求库，Mugen的api设计参考了requests。[文档](https://github.com/PeterDing/mugen)。
  * [eviltransform.python](https://github.com/googollee/eviltransform) - eviltransform.python解决国内GPS地图坐标偏移问题,它将政府加密过的GCJ-02坐标，转成世界通用的WGS-84坐标。
  * [pagure](https://github.com/pypingou/pagure) - Pagure是一个用Python编写的新的、功能齐全的、提供 Web 服务的 Git仓库。它类似于Github 和 Gitlab ，同时允许开源贡献者分享彼此的资源，实现代码和内容上的合作。[官网](https://pagure.io/pagure)
  * [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - 可以将PDF转换成HTML，可以在HTML文件中精确显示原生文本、生成的文件大小与解压缩后的PDF文件相当、单HTML文件输出
