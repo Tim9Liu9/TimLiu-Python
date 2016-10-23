@@ -123,7 +123,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [gensim](https://github.com/piskvorky/gensim/) - gensim是一种NLP（自然语言处理），它提供了一些常用算法，例如 tf-idf、word2vec、doc2vec、LSA 等的快速、可拓展（内存无关）实现，同时还提供了简单易用的接口和完善的文档。
  * [Blaze](https://github.com/blaze/blaze) - Blaze 是下一代的 NumPy。用于处理分布式的各种不同数据源的计算。
  * [Dask](https://pypi.python.org/pypi/dask/) - Dask是一款基于外存的Python 调度工具。它通过将数据集分块处理并根据所拥有的核数分配计算量，这有助于进行大数据并行计算。它主要针对单机的并行计算进程。 
- * [GWPY](https://github.com/gwpy/gwpy) - GWPY一个可以分析引力波数据的Python包。
+异 * [GWPY](https://github.com/gwpy/gwpy) - GWPY一个可以分析引力波数据的Python包。
  * [nupic](https://github.com/numenta/nupic) - 使用的机器学习算法叫做脑皮质学习算法。
  * [AlphaGo](https://github.com/Rochester-NRT/AlphaGo) - 围棋和深层神经网络树搜索。
  * [mrjob](https://github.com/Yelp/mrjob) - 用Python来写MapReduce任务时非常有用的库。它允许你实现自己的 Mapper 和 Reducer 。在本地环境运行/测试你的MapReduce任务，然后部署到EMR或者你自己的MapReduce集群。[官网](https://pythonhosted.org/mrjob/)。
@@ -157,6 +157,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [pytest](https://pypi.python.org/pypi/pytest) - py.test 是一个轻量级的测试框架，它压根就没写自己的断言系统，但是它对Python自带的断言做了强化处理，如果断言失败，那么框架本身会尽可能多地提供断言失败的原因。
   * [unittest](https://docs.python.org/3/library/unittest.html) - Python自带的单元测试框架,有自己的断言方法self.assertXXX()，而且不推荐使用assert XXX语句。
  * [ptest](https://pypi.python.org/pypi/ptest) - Karl大神写的一个测试框架。ptest中的断言可读性很好，而且智能提示也很方便你通过IDE轻松完成各种断言语句。
+ * [assertpy](https://github.com/ActivisionGameScience/assertpy) - 异常强大且好评如潮的assert断言包，它支持了几乎能想到的所有测试场景。[文档](https://pypi.python.org/pypi/assertpy)
 
 ========
 #### 安全与破解相关
