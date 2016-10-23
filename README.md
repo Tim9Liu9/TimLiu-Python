@@ -154,6 +154,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [colorama](https://github.com/tartley/colorama) - 为Python终端输出增加颜色,可以向文本增加颜色或者背景颜色。
  * [Blessings](https://github.com/erikrose/blessings) - 一个轻量级的文本终端输入颜色改变库。
  * [termcolor](https://github.com/hfeeki/termcolor) - 一个python的终端输出文本颜色改变的[模块](https://pypi.python.org/pypi/termcolor)。
+ * [pytest](https://pypi.python.org/pypi/pytest) - py.test 是一个轻量级的测试框架，它压根就没写自己的断言系统，但是它对Python自带的断言做了强化处理，如果断言失败，那么框架本身会尽可能多地提供断言失败的原因。
 
 ========
 #### 安全与破解相关
