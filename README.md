@@ -307,6 +307,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [jieba](https://github.com/fxsjy/jieba) - “结巴”中文分词,做最好的 Python 中文分词组件。
  * [Yaha分词](https://github.com/jannson/yaha) - "哑哈"中文分词，更快或更准确，由你来定义。通过简单定制，让分词模块更适用于你的需求。
  * [vnpya](https://github.com/vnpy/vnpya) - vn.py - 基于python的开源交易平台开发框架。
+ * [minicache](https://github.com/duboviy/minicache) - 轻量级 Cache 工具。
 
 ========
 #### 博客与播客及书籍文档
