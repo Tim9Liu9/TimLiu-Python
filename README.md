@@ -183,6 +183,7 @@ python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [prettytable](https://github.com/lmaurits/prettytable) - 让你能够在终端中画出漂亮的ascii表格，它支持多种数据源。
  * [pytesseract](https://github.com/madmaze/pytesseract) - 一个很好用图像识别的工具，主要用于识别验证码。
  * [fuck12306](https://github.com/andelf/fuck12306) - 12306 图片验证码识别测试。
+ * [GooPyCharts](https://github.com/Dfenestrator/GooPyCharts) - 一个易于安装与使用的图表库，支持图表类型有限,语法与MATLAB相似，而且可以替代matplotlib。
 
 ========
 #### 运维相关
