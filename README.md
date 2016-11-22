@@ -1,7 +1,8 @@
-# python
+# TimLiu-Python
 ========
-python资源集合，持续更新。。。 [python 中文学习大本营](http://www.pythondoc.com/) 。
-
+Python资源集合，持续更新。。。 [python 中文学习大本营](http://www.pythondoc.com/) 。
+  
+  Python库学习收集QQ群:  461273222  ,欢迎入群。
 ###  目录
 - [网页框架](#网页框架)
     - [Django](#Django)
