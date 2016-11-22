@@ -312,6 +312,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [vnpya](https://github.com/vnpy/vnpya) - vn.py - 基于python的开源交易平台开发框架。
  * [minicache](https://github.com/duboviy/minicache) - 轻量级 Cache 工具。
  * [XlsxWriter](https://github.com/jmcnamara/XlsxWriter/) - 用来构造xlsx文件的模块，可以向excel2007+中写text，numbers，formulas 公式以及hyperlinks超链接。[官方教程](https://xlsxwriter.readthedocs.io/)
+ * [xlrd](https://github.com/python-excel/xlrd) - python读Excel的库。[官方网站](https://pypi.python.org/pypi/xlrd)
 
 ========
 #### 博客与播客及书籍文档
