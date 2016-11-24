@@ -77,6 +77,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [wxPython](http://wxpython.org/) - wxPython一个开源的Python接口的wxWindows。
  * [PyQt](http://sourceforge.net/projects/pyqt/files/) - PyQt是一个创建GUI应用程序的工具包。它是Python编程语言和Qt库的成功融合。Qt库是目前最强大的库之一。
  * [Eric](http://www.eric-ide.python-projects.org/) - Eric一个支持python、Ruby的强大IDE，与PyQt配合功能非常强大。
+ * [pyFacialRecognition](https://github.com/CloudsDocker/pyFacialRecognition) - 用10几行代码自己写个人脸识别程序。
 
 ========
 #### 网络相关
