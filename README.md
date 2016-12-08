@@ -87,7 +87,6 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [youtube-dl](https://github.com/rg3/youtube-dl//) - 一个可从YouTube等网站下载视频的开源神器,采用Python开发，支持多个OS平台，支持众多视频网站国内优酷、土豆、新浪和搜狐，国外YouTube等赫然在列。
  * [ppmessage](https://github.com/PPMESSAGE/ppmessage) - 皮皮消息，即插即用，在线客服，移动应用内即时通讯，私有的·微信·，自建的·钉钉·，开源，纯Python实现。
  * [uvloop](https://github.com/MagicStack/uvloop) - 一个完整的asyncio事件循环的替代品，它建立在libuv基础之上，由Cython编写而成。性能非常高！
- * [you-get](https://github.com/soimort/you-get/) - 能帮你快速爬取你想要的一切，支持64个网站，包括优酷、土豆、爱奇艺、b站、酷狗音乐、虾米。[官网]( https://you-get.org/)
  * [httpstat](https://github.com/reorx/httpstat) - 这个库能够直接将http请求的各状态在终端进行输出，类似于浏览器的调试模式！
 
 ========
@@ -142,6 +141,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [PyQuery](https://github.com/gawel/pyquery) - 是 Python 仿照 jQuery 的严格实现。语法与 jQuery 几乎完全相同，所以不用再去费心去记一些奇怪的方法了。[python爬虫神器PyQuery的使用方法](http://python.jobbole.com/85222/)。
  * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - 使用scrapy,redis,mongodb,graphite实现的一个分布式网络爬虫。
  * [meizi_spider](https://github.com/lpe234/meizi_spider) - 获取慕课网视频教程。
+ * [you-get](https://github.com/soimort/you-get/) - 能帮你快速爬取你想要的一切，支持64个网站，包括优酷、土豆、爱奇艺、b站、酷狗音乐、虾米。[官网]( https://you-get.org/)
 
 ========
 #### 测试与代码分析审核
