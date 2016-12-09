@@ -140,8 +140,9 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [pyspider](https://github.com/binux/pyspider) - PySpider：一个国人编写的强大的网络爬虫系统并带有强大的WebUI。采用Python语言编写，分布式架构，支持多种数据库后端，强大的WebUI支持脚本编辑器，任务监视器，项目管理器以及结果查看器。[demo地址](http://demo.pyspider.org/),[网络爬虫剖析，以Pyspider为例](http://python.jobbole.com/81109/) ， [Scrapy 示例 —— Web 爬虫框架](http://python.jobbole.com/84237/) 。
  * [PyQuery](https://github.com/gawel/pyquery) - 是 Python 仿照 jQuery 的严格实现。语法与 jQuery 几乎完全相同，所以不用再去费心去记一些奇怪的方法了。[python爬虫神器PyQuery的使用方法](http://python.jobbole.com/85222/)。
  * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - 使用scrapy,redis,mongodb,graphite实现的一个分布式网络爬虫。
- * [meizi_spider](https://github.com/lpe234/meizi_spider) - 获取慕课网视频教程。
  * [you-get](https://github.com/soimort/you-get/) - 能帮你快速爬取你想要的一切，支持64个网站，包括优酷、土豆、爱奇艺、b站、酷狗音乐、虾米。[官网]( https://you-get.org/)
+ * [meizi_spider](https://github.com/lpe234/meizi_spider) - 获取慕课网视频教程，基于Scrapy(0.22)。
+ * [spider_smooc](https://github.com/qiyeboy/spider_smooc) - 爬取慕课网视频 ,使用BeautifulSoup模块解析html。
 
 ========
 #### 测试与代码分析审核
