@@ -88,6 +88,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [ppmessage](https://github.com/PPMESSAGE/ppmessage) - 皮皮消息，即插即用，在线客服，移动应用内即时通讯，私有的·微信·，自建的·钉钉·，开源，纯Python实现。
  * [uvloop](https://github.com/MagicStack/uvloop) - 一个完整的asyncio事件循环的替代品，它建立在libuv基础之上，由Cython编写而成。性能非常高！
  * [httpstat](https://github.com/reorx/httpstat) - 这个库能够直接将http请求的各状态在终端进行输出，类似于浏览器的调试模式！
+ * [ppmessage](https://github.com/PPMESSAGE/ppmessage) - 皮皮消息，即插即用，在线客服，移动应用内即时通讯，私有的·微信·，自建的·钉钉·，开源，纯Python实现。
 
 ========
 #### 数据库相关
