@@ -221,6 +221,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [tox](http://testrun.org/tox/latest/) - 一个提供自动化打包，测试和发布的Python软件的工具，可以用于控制台或者基础到你的持续构建平台，也是一个通用的virtualenv管理和测试命令行工具。
  * [Murder](https://github.com/lg/murder) - Twitter Murder在BitTornado的基础上开发而成，由Python和Ruby两种编程语言混合而成，能够在大规模的服务器集群中快速部署代码更新。
  * [git-webhook)](https://github.com/NetEaseGame/git-webhook) - 使用 Python Flask + SQLAchemy + Celery + Redis + React 开发的用于迅速搭建并使用 WebHook 进行自动化部署和运维，支持 Github / GitLab / Gogs / GitOsc。 
+ * [CheungSSH](http://git.oschina.net/CheungSSH_OSC/CheungSSH) - Linux运维自动化管理服务器软件。
 
 ========
 #### 树莓派
