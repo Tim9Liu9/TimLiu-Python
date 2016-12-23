@@ -222,6 +222,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Murder](https://github.com/lg/murder) - Twitter Murder在BitTornado的基础上开发而成，由Python和Ruby两种编程语言混合而成，能够在大规模的服务器集群中快速部署代码更新。
  * [git-webhook)](https://github.com/NetEaseGame/git-webhook) - 使用 Python Flask + SQLAchemy + Celery + Redis + React 开发的用于迅速搭建并使用 WebHook 进行自动化部署和运维，支持 Github / GitLab / Gogs / GitOsc。 
  * [CheungSSH](http://git.oschina.net/CheungSSH_OSC/CheungSSH) - Linux运维自动化管理服务器软件。
+ * [pyflame](https://github.com/uber/pyflame) - Uber使用C++实现编写的python高性能分析器，分析Python代码极为有用的工具，并找到有效的代码进行优化。
 
 ========
 #### 树莓派
