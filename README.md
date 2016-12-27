@@ -165,6 +165,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
   * [unittest](https://docs.python.org/3/library/unittest.html) - Python自带的单元测试框架,有自己的断言方法self.assertXXX()，而且不推荐使用assert XXX语句。
  * [ptest](https://pypi.python.org/pypi/ptest) - Karl大神写的一个测试框架。ptest中的断言可读性很好，而且智能提示也很方便你通过IDE轻松完成各种断言语句。
  * [assertpy](https://github.com/ActivisionGameScience/assertpy) - 异常强大且好评如潮的assert断言包，它支持了几乎能想到的所有测试场景。[文档](https://pypi.python.org/pypi/assertpy)
+ * [vprof](https://github.com/nvdv/vprof) - 一个为不同Python 程序特性提供丰富和交互可视化的包，对程序的运行时和内存使用进行可视化。
 
 ========
 #### 安全与破解相关
