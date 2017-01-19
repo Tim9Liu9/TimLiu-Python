@@ -103,7 +103,9 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [MongoHub-Mac](https://github.com/bububa/MongoHub-Mac) - MongoHub-Mac：mongo 图形化管理工具。
  * [mongotron](https://github.com/officert/mongotron) - mongotron：mongo 图形化管理工具,基于Electron与AngularJS写成。
  * [tinydb](http://tinydb.readthedocs.org/en/latest/getting-started.html) - 一个小型的文档数据库，它允许你在本地文件中插入JSON数据并查询它。它只有1200多行代码，并且配有简单干净的文档和API。
+ * [OpenAI universe](https://github.com/officert/mongotron) - 是一个能在世界上所有的游戏、网站和其他应用中，衡量和训练AI通用智能的软件平台。
 
+https://github.com/openai/universe
 ========
 #### 游戏相关
  * [游戏服务器端架构升级之路](http://python.jobbole.com/84234/) - 游戏服务器端架构升级之路，[参考flask设计的tcp server：haven](https://github.com/dantezhu/haven) 、 [参考flask设计的tcp server：maple](https://github.com/dantezhu/maple)。
