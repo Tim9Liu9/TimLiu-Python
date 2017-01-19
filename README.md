@@ -103,9 +103,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [MongoHub-Mac](https://github.com/bububa/MongoHub-Mac) - MongoHub-Mac：mongo 图形化管理工具。
  * [mongotron](https://github.com/officert/mongotron) - mongotron：mongo 图形化管理工具,基于Electron与AngularJS写成。
  * [tinydb](http://tinydb.readthedocs.org/en/latest/getting-started.html) - 一个小型的文档数据库，它允许你在本地文件中插入JSON数据并查询它。它只有1200多行代码，并且配有简单干净的文档和API。
- * [OpenAI universe](https://github.com/officert/mongotron) - 是一个能在世界上所有的游戏、网站和其他应用中，衡量和训练AI通用智能的软件平台。
 
-https://github.com/openai/universe
 ========
 #### 游戏相关
  * [游戏服务器端架构升级之路](http://python.jobbole.com/84234/) - 游戏服务器端架构升级之路，[参考flask设计的tcp server：haven](https://github.com/dantezhu/haven) 、 [参考flask设计的tcp server：maple](https://github.com/dantezhu/maple)。
@@ -135,6 +133,8 @@ https://github.com/openai/universe
  * [AlphaGo](https://github.com/Rochester-NRT/AlphaGo) - 围棋和深层神经网络树搜索。
  * [mrjob](https://github.com/Yelp/mrjob) - 用Python来写MapReduce任务时非常有用的库。它允许你实现自己的 Mapper 和 Reducer 。在本地环境运行/测试你的MapReduce任务，然后部署到EMR或者你自己的MapReduce集群。[官网](https://pythonhosted.org/mrjob/)。
  * [natsort](https://pypi.python.org/pypi/natsort) - 默认sorted方法已经足够高效，并且能够满足你大多数时候的排序需求。
+ * [OpenAI universe](https://github.com/officert/mongotron) - 是一个能在世界上所有的游戏、网站和其他应用中，衡量和训练AI通用智能的软件平台。
+ * [TensorFlow](https://github.com/tensorflow/tensorflow) - 是一个开源软件库的AI引擎，用于使用数据流图进行数值计算。TensorFlow还包括TensorBoard，一个数据可视化工具包。
 
 ========
 #### 网络爬虫
