@@ -208,8 +208,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 
 ========
 #### 语音相关
- * [praatIO](https://github.com/timmahrt/praatIO) - 提供了读写praat格式文件的工具，它是一种跨平台的应用，主要为学术社区提供了可视化，抄录，编辑以及提取语音信息的功能。。
-
+ * [praatIO](https://github.com/timmahrt/praatIO) - 提供了读写praat格式文件的工具，它是一种跨平台的应用，主要为学术社区提供了可视化，抄录，编辑以及提取语音信息的功能。
+ * [ProMo](https://github.com/timmahrt/ProMo) - ProMo——Prosody Morph的简称——是一个可以对持续性或高音文件进行复杂处理的库。人们可以扩展不同的单词，比如说改变一个语句的单调。
 
 ========
 #### 运维相关
