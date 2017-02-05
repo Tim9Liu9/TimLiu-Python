@@ -19,6 +19,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 - [测试与代码分析审核](#测试与代码分析审核)
 - [安全与破解相关](#安全与破解相关)
 - [图表及图像相关](#图表及图像相关)
+- [语音相关](#语音相关)
 - [运维相关](#运维相关)
 - [树莓派](#树莓派)
 - [第三方平台](#第三方平台)
@@ -204,6 +205,11 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [pytesseract](https://github.com/madmaze/pytesseract) - 一个很好用图像识别的工具，主要用于识别验证码。
  * [fuck12306](https://github.com/andelf/fuck12306) - 12306 图片验证码识别测试。
  * [GooPyCharts](https://github.com/Dfenestrator/GooPyCharts) - 一个易于安装与使用的图表库，支持图表类型有限,语法与MATLAB相似，而且可以替代matplotlib。
+
+========
+#### 语音相关
+ * [praatIO](https://github.com/timmahrt/praatIO) - 提供了读写praat格式文件的工具，它是一种跨平台的应用，主要为学术社区提供了可视化，抄录，编辑以及提取语音信息的功能。。
+
 
 ========
 #### 运维相关
