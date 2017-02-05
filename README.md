@@ -211,6 +211,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [praatIO](https://github.com/timmahrt/praatIO) - 提供了读写praat格式文件的工具，它是一种跨平台的应用，主要为学术社区提供了可视化，抄录，编辑以及提取语音信息的功能。
  * [ProMo](https://github.com/timmahrt/ProMo) - ProMo——Prosody Morph的简称——是一个可以对持续性或高音文件进行复杂处理的库。人们可以扩展不同的单词，比如说改变一个语句的单调。
  * [Pysle](https://github.com/timmahrt/pysle) - 针对Isle字典的一个接口——该字典是包含了英文中重音信息的发音字典。通过使用pysle，人们可以自动地标记出转录演讲中的重音。有一个函数可以使用PraatIO根据重音信息标记出textgrid。
+ * [PyAcousitics](https://github.com/timmahrt/pyAcoustics) - PraatIO和ProMo都是从pyAcoustics中分离出来的。它虽然有些杂乱，但是包含了许多有用的工具。当你需要从语音数据中提取或者修改信息时你会发现它很有用。
 
 ========
 #### 运维相关
