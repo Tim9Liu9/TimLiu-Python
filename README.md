@@ -133,7 +133,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Dask](https://pypi.python.org/pypi/dask/) - Dask是一款基于外存的Python 调度工具。它通过将数据集分块处理并根据所拥有的核数分配计算量，这有助于进行大数据并行计算。它主要针对单机的并行计算进程。 
 异 * [GWPY](https://github.com/gwpy/gwpy) - GWPY一个可以分析引力波数据的Python包。
  * [nupic](https://github.com/numenta/nupic) - 使用的机器学习算法叫做脑皮质学习算法。
- * [AlphaGo](https://github.com/Rochester-NRT/AlphaGo) - 围棋和深层神经网络树搜索。
+ * [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) - 一个模仿AlphaGo的项目，围棋和深层神经网络树搜索。
+ * [agagd]( https://github.com/usgo/agagd) - 美国围棋选手使用的自动评级系统，不发段位证。
  * [mrjob](https://github.com/Yelp/mrjob) - 用Python来写MapReduce任务时非常有用的库。它允许你实现自己的 Mapper 和 Reducer 。在本地环境运行/测试你的MapReduce任务，然后部署到EMR或者你自己的MapReduce集群。[官网](https://pythonhosted.org/mrjob/)。
  * [natsort](https://pypi.python.org/pypi/natsort) - 默认sorted方法已经足够高效，并且能够满足你大多数时候的排序需求。
  * [OpenAI universe](https://github.com/officert/mongotron) - 是一个能在世界上所有的游戏、网站和其他应用中，衡量和训练AI通用智能的软件平台。
@@ -338,7 +339,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [xlwt](https://github.com/python-excel/xlwt) - python写Excel的库。[官方网站](https://pypi.python.org/pypi/xlwt)
  * [timeago](https://github.com/hustcc/timeago) - 一个将时间变成 “多久之前” 的库。 
  * [Blender](https://www.blender.org/) - 是一款开源的跨平台全能三维动画制作软件，提供从建模、动画、材质、渲染、到音频处理、视频剪辑等一系列动画短片制作解决方案。 (3D打印)
- 
+
 ========
 #### 博客与播客及书籍文档
  * [值得关注的10个python语言博客](http://www.admin10000.com/document/6540.html) - 值得关注的10个python语言博客, [Planet Python](http://planetpython.org/) 最出名的python博客其中之一; [lucumr](http://lucumr.pocoo.org/) flask的创始人; [love-python](love-python.blogspot.com) 有很多有用的知识和代码; [Doug Hellmann](https://doughellmann.com/blog/) 博主是PYMOTW(Python Module Of the Week)成员之一，博客里面包含了很多library的知识; [Code Who Says Py](http://sayspy.blogspot.com/) 这个博客很不错,虽然它更新的不是很及时; [effbot](http://effbot.org/) 代码和任何你能想得到的东西都在里面; [pydanny](http://pydanny.com) 主要关于Django的博客; [inventwithpython](http://inventwithpython.com/blog/) Al Sweigat，他写了很多本关于python的书; [pythonlibrary](http://www.blog.pythonlibrary.org/) 最有用的博客，他让我的python技术迅猛提; [freepythontips](http://www.freepythontips.wordpress.com/) 打不开了。
