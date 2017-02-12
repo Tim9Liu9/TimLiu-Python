@@ -177,6 +177,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [line_profiler](https://github.com/rkern/line_profiler) - 用来测量我的脚本里每一行代码运行的有多快和运行频率。
  * [memory_profiler](https://github.com/fabianp/memory_profiler) - 是监控python进程的神器，它可以分析出每一行代码所增减的内存状况。
  * [pyautogui](https://github.com/asweigart/pyautogui) - 实现鼠标键盘自动化。
+ * [pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python程序的热力图描述！
 
 ========
 #### 安全与破解相关
