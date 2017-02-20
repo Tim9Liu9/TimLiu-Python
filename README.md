@@ -246,6 +246,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [sentry](https://github.com/getsentry/sentry) - 是一个实时的事件日志和聚合平台，基于 Django 构建。可以帮助你将 Python 程序的所有 exception 自动记录下来，然后在一个好用的 UI 上呈现和搜索。
  * [CheungSSH](http://git.oschina.net/CheungSSH_OSC/CheungSSH) - Linux运维自动化管理服务器软件。
  * [Argparse、Docopt与Click 1](https://python.freelycode.com/contribution/detail/643)  [Argparse、Docopt与Click 2](https://python.freelycode.com/contribution/detail/645) - [Argparse](https://docs.python.org/3/library/argparse.html)、[Docopt](http://docopt.org/)与[Click](http://click.pocoo.org/5/):比较Python命令行解析库
+ * [Heroku](https://www.heroku.com/) - 一个支持多种编程语言的云平台。支持Ruby、Java、Node.js、Scala、Clojure、Python以及PHP和Perl。基于Ubuntu。提供免费的Django应用程序托管。
 
 ========
 #### 树莓派
