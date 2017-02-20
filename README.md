@@ -247,6 +247,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [CheungSSH](http://git.oschina.net/CheungSSH_OSC/CheungSSH) - Linux运维自动化管理服务器软件。
  * [Argparse、Docopt与Click 1](https://python.freelycode.com/contribution/detail/643)  [Argparse、Docopt与Click 2](https://python.freelycode.com/contribution/detail/645) - [Argparse](https://docs.python.org/3/library/argparse.html)、[Docopt](http://docopt.org/)与[Click](http://click.pocoo.org/5/):比较Python命令行解析库
  * [Heroku](https://www.heroku.com/) - 一个支持多种编程语言的云平台。支持Ruby、Java、Node.js、Scala、Clojure、Python以及PHP和Perl。基于Ubuntu。提供免费的Django应用程序托管。
+ * [pythonanywhere](https://www.pythonanywhere.com/) - 一个免费的python空间，有2级域名，有控制台、web框架支持Django, web2py, Flask和Bottle。
 
 ========
 #### 树莓派
