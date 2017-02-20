@@ -153,6 +153,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [you-get](https://github.com/soimort/you-get/) - 能帮你快速爬取你想要的一切，支持64个网站，包括优酷、土豆、爱奇艺、b站、酷狗音乐、虾米。[官网]( https://you-get.org/)
  * [meizi_spider](https://github.com/lpe234/meizi_spider) - 获取慕课网视频教程，基于Scrapy(0.22)。
  * [spider_smooc](https://github.com/qiyeboy/spider_smooc) - 爬取慕课网视频 ,使用BeautifulSoup模块解析html。
+ * [proxy_pool](https://github.com/jhao104/proxy_pool) - 爬虫代理池,爬去取网上免费的代理IP。
 
 ========
 #### 测试与代码分析审核
