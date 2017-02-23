@@ -251,6 +251,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Heroku](https://www.heroku.com/) - 一个支持多种编程语言的云平台。支持Ruby、Java、Node.js、Scala、Clojure、Python以及PHP和Perl。基于Ubuntu。提供免费的Django应用程序托管。
  * [pythonanywhere](https://www.pythonanywhere.com/) - 一个免费的python空间，有2级域名，有控制台、web框架支持Django, web2py, Flask和Bottle。
  * [monitor](https://github.com/AsuraTeam/monitor) - 运维工作中自己开发的监控系统，功能强大灵活,系统安装简单,配置简单，相比zabbix, nagios,cacti，小米监控等都使用相当简单。只需要会写脚本，语言不限就可以实现任意监控需求。
+ * [saltstack](https://github.com/saltstack/salt) - 一个服务器基础架构集中化管理平台，具备配置管理、远程执行、监控等功能，一般可以理解为简化版的puppet和加强版的func。
 
 ========
 #### 树莓派
