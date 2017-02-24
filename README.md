@@ -257,6 +257,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [ansible](https://github.com/ansible/ansible) - 集合了众多运维工具（puppet、cfengine、chef、func、fabric）的优点，实现了批量系统配置、批量程序部署、批量运行命令等功能。[官方文档](http://docs.ansible.com/)
  * [argcomplete](https://github.com/kislyuk/argcomplete) - Bash使用tab自动补全。
  * [Gooey](https://github.com/chriskiehl/Gooey) - 一条命令，将命令行程序变成一个 GUI 程序。
+ * [subprocess](https://docs.python.org/2/library/subprocess.html) - 用来生成子进程，并可以通过管道连接它们的输入/输出/错误，以及获得它们的返回值。
+ * [sh](https://pypi.python.org/pypi/sh/) - 一个完备的 subprocess 替代库，能调用 subprocess 中的任意外部程序，并将结果返回到 Python 应用。
  
 ========
 #### 树莓派
