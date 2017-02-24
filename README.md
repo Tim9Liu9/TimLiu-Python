@@ -365,6 +365,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [timeago](https://github.com/hustcc/timeago) - 一个将时间变成 “多久之前” 的库。 
  * [Blender](https://www.blender.org/) - 是一款开源的跨平台全能三维动画制作软件，提供从建模、动画、材质、渲染、到音频处理、视频剪辑等一系列动画短片制作解决方案。 (3D打印)
  * [Libcloud](http://libcloud.apache.org/) - 隐藏了不同云提供商应用程序编程接口（API）之间的差异，包括AWS、Apache CloudStack、Rackspace、谷歌云平台、微软Azure、VMware和OpenStack在内的50多个云提供商采用了Libcloud。
+ * [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - 一个为所有文件系统提供的通用 Pythonic 接口。
 
 ========
 #### 博客与播客及书籍文档
