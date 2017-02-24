@@ -180,6 +180,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [memory_profiler](https://github.com/fabianp/memory_profiler) - 是监控python进程的神器，它可以分析出每一行代码所增减的内存状况。
  * [pyautogui](https://github.com/asweigart/pyautogui) - 实现鼠标键盘自动化。
  * [pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python程序的热力图描述！
+ * [Behold](https://github.com/robdmc/behold) - 一款强大的支持 print-style 的调试工具。
 
 ========
 #### 安全与破解相关
