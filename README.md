@@ -361,6 +361,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [XlsxWriter](https://github.com/jmcnamara/XlsxWriter/) - 用来构造xlsx文件的模块，可以向excel2007+中写text，numbers，formulas 公式以及hyperlinks超链接。[官方教程](https://xlsxwriter.readthedocs.io/)
  * [xlrd](https://github.com/python-excel/xlrd) - python读Excel的库。[官方网站](https://pypi.python.org/pypi/xlrd)
  * [xlwt](https://github.com/python-excel/xlwt) - python写Excel的库。[官方网站](https://pypi.python.org/pypi/xlwt)
+ * [Python-docx](http://python-docx.readthedocs.io/en/latest/) - 以编程方式创建和操纵 Microsoft Word .docx 文件。
  * [timeago](https://github.com/hustcc/timeago) - 一个将时间变成 “多久之前” 的库。 
  * [Blender](https://www.blender.org/) - 是一款开源的跨平台全能三维动画制作软件，提供从建模、动画、材质、渲染、到音频处理、视频剪辑等一系列动画短片制作解决方案。 (3D打印)
  * [Libcloud](http://libcloud.apache.org/) - 隐藏了不同云提供商应用程序编程接口（API）之间的差异，包括AWS、Apache CloudStack、Rackspace、谷歌云平台、微软Azure、VMware和OpenStack在内的50多个云提供商采用了Libcloud。
