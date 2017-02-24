@@ -256,6 +256,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [saltstack](https://github.com/saltstack/salt) - 一个服务器基础架构集中化管理平台，具备配置管理、远程执行、监控等功能，一般可以理解为简化版的puppet和加强版的func。
  * [ansible](https://github.com/ansible/ansible) - 集合了众多运维工具（puppet、cfengine、chef、func、fabric）的优点，实现了批量系统配置、批量程序部署、批量运行命令等功能。[官方文档](http://docs.ansible.com/)
  * [argcomplete](https://github.com/kislyuk/argcomplete) - Bash使用tab自动补全。
+ * [Gooey](https://github.com/chriskiehl/Gooey) - 一条命令，将命令行程序变成一个 GUI 程序。
  
 ========
 #### 树莓派
