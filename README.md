@@ -250,12 +250,13 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [CheungSSH](http://git.oschina.net/CheungSSH_OSC/CheungSSH) - Linux运维自动化管理服务器软件。
  * [Argparse、Docopt与Click 1](https://python.freelycode.com/contribution/detail/643)  [Argparse、Docopt与Click 2](https://python.freelycode.com/contribution/detail/645) - [Argparse](https://docs.python.org/3/library/argparse.html)、[Docopt](http://docopt.org/)与[Click](http://click.pocoo.org/5/):比较Python命令行解析库
  * [Heroku](https://www.heroku.com/) - 一个支持多种编程语言的云平台。支持Ruby、Java、Node.js、Scala、Clojure、Python以及PHP和Perl。基于Ubuntu。提供免费的Django应用程序托管。
+ * [argparse](https://docs.python.org/2/howto/argparse.html) - 一个用来解析命令行参数的Python库。基于python2.7的stdlib代码。
  * [pythonanywhere](https://www.pythonanywhere.com/) - 一个免费的python空间，有2级域名，有控制台、web框架支持Django, web2py, Flask和Bottle。
  * [monitor](https://github.com/AsuraTeam/monitor) - 运维工作中自己开发的监控系统，功能强大灵活,系统安装简单,配置简单，相比zabbix, nagios,cacti，小米监控等都使用相当简单。只需要会写脚本，语言不限就可以实现任意监控需求。
  * [saltstack](https://github.com/saltstack/salt) - 一个服务器基础架构集中化管理平台，具备配置管理、远程执行、监控等功能，一般可以理解为简化版的puppet和加强版的func。
  * [ansible](https://github.com/ansible/ansible) - 集合了众多运维工具（puppet、cfengine、chef、func、fabric）的优点，实现了批量系统配置、批量程序部署、批量运行命令等功能。[官方文档](http://docs.ansible.com/)
- * [argparse](https://docs.python.org/2/howto/argparse.html) - 一个用来解析命令行参数的Python库。基于python2.7的stdlib代码。
-
+ * [argcomplete](https://github.com/kislyuk/argcomplete) - Bash使用tab自动补全。
+ 
 ========
 #### 树莓派
  * [图片自动发邮箱](https://github.com/dungeonsnd/toolkit/blob/master/rpi/rpi_auto_send_motion_files.py) - 报警图片自动发邮箱功能。
