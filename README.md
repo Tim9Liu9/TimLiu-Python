@@ -204,6 +204,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [vincent](https://github.com/wrobstory/vincent) - Python 构建的专为运用 D3.js 进行可视化的 vega 转换工具。
  * [Scikit-image](http://scikit-image.org) - 一组用于图像处理的算法的集合，使图像处理任务如模糊，增强对比度，缩放只需要一些函数调用就可以完成。
  * [PIL](http://www.pythonware.com/products/pil/) - PIL （Python Imaging Library）是 Python 中最常用的图像处理库。
+ * [Pillow](https://github.com/python-pillow/Pillow) - Pillow:比PIL更容易使用，并通过最小的变化与 PIL 代码兼容。 扩展包括用于与本机 Windows 的映像功能和 Python Tcl/Tk-backed Tkinter GUI 包。 
  * [prettytable](https://github.com/lmaurits/prettytable) - 让你能够在终端中画出漂亮的ascii表格，它支持多种数据源。
  * [pytesseract](https://github.com/madmaze/pytesseract) - 一个很好用图像识别的工具，主要用于识别验证码。
  * [fuck12306](https://github.com/andelf/fuck12306) - 12306 图片验证码识别测试。
