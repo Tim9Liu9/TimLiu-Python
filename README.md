@@ -341,7 +341,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Mugen](https://github.com/PeterDing/mugen) - Mugen 是一个运行在 Python3.4+ 的 HTTP 异步请求库，Mugen的api设计参考了requests。[文档](https://github.com/PeterDing/mugen)。
  * [eviltransform.python](https://github.com/googollee/eviltransform) - eviltransform.python解决国内GPS地图坐标偏移问题,它将政府加密过的GCJ-02坐标，转成世界通用的WGS-84坐标。
  * [pagure](https://github.com/pypingou/pagure) - Pagure是一个用Python编写的新的、功能齐全的、提供 Web 服务的 Git仓库。它类似于Github 和 Gitlab ，同时允许开源贡献者分享彼此的资源，实现代码和内容上的合作。[官网](https://pagure.io/pagure)
- * [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - 可以将PDF转换成HTML，可以在HTML文件中精确显示原生文本、生成的文件大小与解压缩后的PDF文件相当、单HTML文件输出
+ * [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - 可以将PDF转换成HTML，可以在HTML文件中精确显示原生文本、生成的文件大小与解压缩后的PDF文件相当、单HTML文件输出。
+ * [EbookLib](https://github.com/pypingou/pagure) - 一个用于处理 EPUB2 / EPUB3 和 Kindle 格式图书的电子书库。
  * [Pritunl](https://github.com/pritunl/pritunl) - 一款免费开源的VPN平台软件，让用户迅速搭建VPN服务；采用OpenVPN 代理方式，提供了API供高级开发者使用，同时还针对不同平台和不同VPS供应商提供了详尽的安装使用说明。
  * [OpenCC](https://github.com/BYVoid/OpenCC) - 一个开源的中文简繁转换项目，致力于制作高质量的基于统计预料的简繁转换词库。还提供函数库(libopencc)、命令行简繁转换工具、人工校对工具、词典生成程序、在线转换服务及图形用户界面。
  * [moviepy](https://github.com/Zulko/moviepy) - Moviepy是用来做Python视频编辑的模块：剪切，合并，插入标题，视频混合，视频处理，创建效果。可以读写大多数的音视频格式，支持三个主流的操作系统，支持Python2/3。
