@@ -206,7 +206,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Keylogger](https://github.com/GiacomoLaw/Keylogger) - 键盘敲击记录器。
  * [evilpassr](https://github.com/SirCmpwn/evilpassr) - 稍微邪恶的密码强度检查器。
  * [errator](https://github.com/haxsaw/errator) - 为你的库和终端用户程序创建人类可读的异常叙述。
-
+ * [Mercure](https://github.com/synhack/mercure) - 是为那些想要教会他们的合作者关于钓鱼的安全管理者提供的工具。
+ 
 ========
 #### 图表及图像相关
  * [vincent](https://github.com/wrobstory/vincent) - Python 构建的专为运用 D3.js 进行可视化的 vega 转换工具。
