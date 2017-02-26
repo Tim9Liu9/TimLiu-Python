@@ -146,6 +146,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Tweetfeels](https://github.com/uclatommy/tweetfeels) - 使用推特的streaming API的实时情感分析。它依赖于VADER情感分析，为用户定义的主题提供情感分数。它通过利用推特的streaming API来监听关于特定主题的实时推特，从而实现此目的。
  * [scikit-plot](https://github.com/reiinakano/scikit-plot) - 一个直观的库，用于添加绘图功能到scikit-learn对象。
  * [ChainerRL](https://github.com/pfnet/chainerrl) - ChainerRL是一个建立在Chainer之上的深度强化学习库。
+ * [mpi4py](http://mpi4py.scipy.org/docs/usrman/tutorial.html) - Mpi4py是构建在mpi之上的python库，使得python的数据结构可以在进程（或者多个cpu）之间进行传递。
 
 ========
 #### 网络爬虫
