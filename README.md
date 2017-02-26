@@ -141,6 +141,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [natsort](https://pypi.python.org/pypi/natsort) - 默认sorted方法已经足够高效，并且能够满足你大多数时候的排序需求。
  * [OpenAI universe](https://github.com/officert/mongotron) - 是一个能在世界上所有的游戏、网站和其他应用中，衡量和训练AI通用智能的软件平台。
  * [TensorFlow](https://github.com/tensorflow/tensorflow) - 是一个开源软件库的AI引擎，用于使用数据流图进行数值计算。TensorFlow还包括TensorBoard，一个数据可视化工具包。
+ * [aiexperiments-ai-duet](https://github.com/googlecreativelab/aiexperiments-ai-duet) - 通过机器学习制作音乐。在许多MIDI例子上训练了一个神经网络，它学习有关音乐概念的知识、构建音符和节拍图谱。你只需弹奏几个音符，然后看看这个神经网如何回应。
 
 ========
 #### 网络爬虫
