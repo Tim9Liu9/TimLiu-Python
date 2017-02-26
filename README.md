@@ -204,6 +204,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [BeEF](https://github.com/beefproject/beef) - BeEF是The Browser Exploitation Framework的缩写，它是一个 专注网页浏览器的渗透测试工具。
  * [dingtalk_crypto](https://github.com/zgs225/dingtalk_crypto) - Python的钉钉加密/解密工具。
  * [Keylogger](https://github.com/GiacomoLaw/Keylogger) - 键盘敲击记录器。
+ * [evilpassr](https://github.com/SirCmpwn/evilpassr) - 稍微邪恶的密码强度检查器。
 
 ========
 #### 图表及图像相关
