@@ -145,6 +145,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Securitybot](https://github.com/dropbox/securitybot) - 一个分布式告警聊天机器人的开源实现，如Ryan Huber的播客中所述。分布式告警改善了你的安全团队的监控效率，可以帮助你更快更有效地捕获安全事件。
  * [Tweetfeels](https://github.com/uclatommy/tweetfeels) - 使用推特的streaming API的实时情感分析。它依赖于VADER情感分析，为用户定义的主题提供情感分数。它通过利用推特的streaming API来监听关于特定主题的实时推特，从而实现此目的。
  * [scikit-plot](https://github.com/reiinakano/scikit-plot) - 一个直观的库，用于添加绘图功能到scikit-learn对象。
+ * [ChainerRL](https://github.com/pfnet/chainerrl) - ChainerRL是一个建立在Chainer之上的深度强化学习库。
 
 ========
 #### 网络爬虫
