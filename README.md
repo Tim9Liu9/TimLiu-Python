@@ -205,6 +205,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [dingtalk_crypto](https://github.com/zgs225/dingtalk_crypto) - Python的钉钉加密/解密工具。
  * [Keylogger](https://github.com/GiacomoLaw/Keylogger) - 键盘敲击记录器。
  * [evilpassr](https://github.com/SirCmpwn/evilpassr) - 稍微邪恶的密码强度检查器。
+ * [errator](https://github.com/haxsaw/errator) - 为你的库和终端用户程序创建人类可读的异常叙述。
 
 ========
 #### 图表及图像相关
