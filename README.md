@@ -55,6 +55,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [django-pure-pagination](https://github.com/jamespacileo/django-pure-pagination) - Django的分页插件。
  * [DjangoUeditor](https://github.com/zhangfisher/DjangoUeditor) - 本模块帮助在Django应用中集成百度Ueditor HTML编辑器。
  * [Xadmin](https://github.com/sshwsfc/xadmin) - xadmin是一个替代django admin的项目,使用了更加灵活的架构设计及Bootstrap UI框架。 [官网](http://sshwsfc.github.io/xadmin/)
+ * [django-debug-toolbar](https://pypi.python.org/pypi/django-debug-toolbar) - 查看某个页面中所有的context变量值，还可以看到HTTp头、模板、缓存等各种信息，总之很全面也很好用。
 
 ##### Flask
  * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。
