@@ -187,7 +187,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [pyautogui](https://github.com/asweigart/pyautogui) - 实现鼠标键盘自动化。
  * [pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python程序的热力图描述！
  * [Behold](https://github.com/robdmc/behold) - 一款强大的支持 print-style 的调试工具。
-
+ * [cProfile](https://docs.python.org/3/library/profile.html) -  一款应用python的性能测量工具。
+ 
 ========
 #### 安全与破解相关
  * [ibrute](https://github.com/hackappcom/ibrute) - 一个攻击iCloud账户的Python脚本,2014年很多明星的账号就是被这个脚本攻破的，苹果已经修改这个漏洞了。
