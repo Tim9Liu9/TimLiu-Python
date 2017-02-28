@@ -331,6 +331,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [toyplot](https://github.com/sandialabs/toyplot) - Python交互绘图库Toyplot，[文档doc](http://toyplot.readthedocs.org/en/latest/)。
  * [pythalesians](https://github.com/thalesians/pythalesians/) - Python金融(分析工具)库PyThalesians。
  * [20个机器学习开源项目](http://mp.weixin.qq.com/s?__biz=MzAwNTA4OTc3OQ==&mid=207199077&idx=1&sn=039cda9e698a85bc32d336c6f84dd059) - 20 个顶尖的 Python 机器学习开源项目 Scikit-learn、Pylearn2、NuPIC…… 
+ * [pylearn2](https://github.com/lisa-lab/pylearn2) - 一个基于[Theano]()的机器学习库，大部分功能是基于Theano顶层实现的。
  * [Seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) - 用 Seaborn 画出好看的分布图, [使用说明](http://staticor.io/post/2015-06-10seaborn-distribution-plot)  。
  * [Python_Coding_Rule](http://ssv.sebug.net/Python_Coding_Rule) - 【Python代码指南】，这篇文档改编自Guido最初的《Python风格指南》一文，希望对初学Python的朋友们有所借鉴。
  * [GGTinypng](https://github.com/ylovern/GGTinypng) - 批量压缩png和jpg图片python脚本，已经支持子文件夹里面的图片，会按原始的相对路径存放到输出文件夹内。
