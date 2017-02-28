@@ -276,7 +276,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Gooey](https://github.com/chriskiehl/Gooey) - 一条命令，将命令行程序变成一个 GUI 程序。
  * [subprocess](https://docs.python.org/2/library/subprocess.html) - 用来生成子进程，并可以通过管道连接它们的输入/输出/错误，以及获得它们的返回值。
  * [sh](https://pypi.python.org/pypi/sh/) - 一个完备的 subprocess 替代库，能调用 subprocess 中的任意外部程序，并将结果返回到 Python 应用。
- 
+ * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - 一款功能强大的python shell,交互式解释器[ptpython](https://github.com/jonathanslenders/ptpython/)。
+
 ========
 #### 树莓派
  * [图片自动发邮箱](https://github.com/dungeonsnd/toolkit/blob/master/rpi/rpi_auto_send_motion_files.py) - 报警图片自动发邮箱功能。
