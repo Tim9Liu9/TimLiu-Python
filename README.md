@@ -194,7 +194,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Behold](https://github.com/robdmc/behold) - 一款强大的支持 print-style 的调试工具。
  * [cProfile](https://docs.python.org/3/library/profile.html) - 一款应用python的性能测量工具。
  * [Locust](https://github.com/locustio/locust) - 一个开源性能测试工具,使用Python代码来定义用户行为,用它可以模拟百万计的并发用户访问你的系统。
-  
+ * [Pylint](https://github.com/PyCQA/pylint) - 是一个 Python 代码分析工具，它分析 Python 代码中的错误，查找不符合代码风格标准（Pylint默认使用的代码风格是PEP 8）和有潜在问题的代码。[入门指南](http://python.jobbole.com/87415/)
 ========
 #### 安全与破解相关
  * [ibrute](https://github.com/hackappcom/ibrute) - 一个攻击iCloud账户的Python脚本,2014年很多明星的账号就是被这个脚本攻破的，苹果已经修改这个漏洞了。
