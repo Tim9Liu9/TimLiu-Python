@@ -72,6 +72,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Wooey](https://github.com/wooey/Wooey) - Wooey 是一个简单的Python脚本的Web UI 界面。它能够提供日常数据分析，文件处理等功能。[2015年出现的十大流行Python库](http://codingpy.com/article/top-10-django-libraries-started-in-2015/) 。
  * [Odoo](https://sourceforge.net/projects/greenopenerp/files/) - 前OpenERP，开源的ERP和电子商务系统、CRM，功能强大。[官网](https://www.odoo.com/)
  * [stethoscope](https://github.com/Netflix/stethoscope) - 一个web应用，它收集一个指定用户的设备的信息，并为它们提供保护其系统的清晰具体的建议。
+ * [Tryton](http://www.tryton.org/download.html) - Tryton是一个用于构建三层高级通用应用平台的商务框架，PostgreSQL作为数据库引擎,主模块用于以下活动领域：会计、发票开取、销售管理、采购管理、客户分析、库存管理、资源制造计划 (MRP)、项目管理、人力资源管理。
 
 ========
 #### 用户图形接口相关
