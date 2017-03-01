@@ -78,7 +78,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 
 ========
 #### 用户图形接口相关
- * [pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) - Pyglet是一个纯Python语言编写的跨平台框架，用于开发多媒体和窗口特效应用。
+ * [pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) - Pyglet是一个纯Python语言编写的跨平台框架，用于开发多媒体和窗口 * [pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) - Pyglet是一个纯Python语言编写的跨平台框架，用于开发多媒体和窗口特效应用。
  * [kivy](https://kivy.org) - Kivy 是一个开源工具包能够让使用相同源代码创建的程序能跨平台运行。它主要关注创新型用户界面开发，如：多点触摸应用程序。Kivy 还提供一个多点触摸鼠标模拟器。基于 Cython(C extensions for Python) 构建，当前支持的平台包括：Linux、Windows、Mac OS X和Android。
  * [Py2exe](http://www.py2exe.org/) - 把Python脚本转换为windows平台上面可以运行的可执行程序（*.exe）的工具,通过修改源码可以支持python3.0的代码。
  * [pyinstaller](http://www.pyinstaller.org/) - 把Python脚本转换为能直接运行的可执行文件，支持python2.7、python3.3-3.5，支持Windows (32-bit and 64-bit)、Linux (32-bit and 64-bit)、Mac OS X (32-bit and 64-bit)平台。
@@ -186,7 +186,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Blessings](https://github.com/erikrose/blessings) - 一个轻量级的文本终端输入颜色改变库。
  * [termcolor](https://github.com/hfeeki/termcolor) - 一个python的终端输出文本颜色改变的[模块](https://pypi.python.org/pypi/termcolor)。
  * [pytest](https://pypi.python.org/pypi/pytest) - py.test 是一个轻量级的测试框架，它压根就没写自己的断言系统，但是它对Python自带的断言做了强化处理，如果断言失败，那么框架本身会尽可能多地提供断言失败的原因。
-  * [unittest](https://docs.python.org/3/library/unittest.html) - Python自带的单元测试框架,有自己的断言方法self.assertXXX()，而且不推荐使用assert XXX语句。
+ * [unittest](https://docs.python.org/3/library/unittest.html) - Python自带的单元测试框架,有自己的断言方法self.assertXXX()，而且不推荐使用assert XXX语句。
  * [ptest](https://pypi.python.org/pypi/ptest) - Karl大神写的一个测试框架。ptest中的断言可读性很好，而且智能提示也很方便你通过IDE轻松完成各种断言语句。
  * [assertpy](https://github.com/ActivisionGameScience/assertpy) - 异常强大且好评如潮的assert断言包，它支持了几乎能想到的所有测试场景。[文档](https://pypi.python.org/pypi/assertpy)
  * [vprof](https://github.com/nvdv/vprof) - 一个为不同Python 程序特性提供丰富和交互可视化的包，对程序的运行时和内存使用进行可视化。
@@ -197,7 +197,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Behold](https://github.com/robdmc/behold) - 一款强大的支持 print-style 的调试工具。
  * [cProfile](https://docs.python.org/3/library/profile.html) - 一款应用python的性能测量工具。
  * [Locust](https://github.com/locustio/locust) - 一个开源性能测试工具,使用Python代码来定义用户行为,用它可以模拟百万计的并发用户访问你的系统。
- * [Pylint](https://github.com/PyCQA/pylint) - 是一个 Python 代码分析工具，它分析 Python 代码中的错误，查找不符合代码风格标准（Pylint默认使用的代码风格是PEP 8）和有潜在问题的代码。[入门指南](http://python.jobbole.com/87415/)
+ * [Pylint](https://github.com/PyCQA/pylint) - 是一个 Python 代码分析工具，它分析 Python 代码中的错误，查找不符合代码风格标准和有潜在问题的代码,Pylint默认使用的代码风格是PEP 8。[入门指南](http://python.jobbole.com/87415/)
+
 ========
 #### 安全与破解相关
  * [ibrute](https://github.com/hackappcom/ibrute) - 一个攻击iCloud账户的Python脚本,2014年很多明星的账号就是被这个脚本攻破的，苹果已经修改这个漏洞了。
@@ -285,6 +286,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [subprocess](https://docs.python.org/2/library/subprocess.html) - 用来生成子进程，并可以通过管道连接它们的输入/输出/错误，以及获得它们的返回值。
  * [sh](https://pypi.python.org/pypi/sh/) - 一个完备的 subprocess 替代库，能调用 subprocess 中的任意外部程序，并将结果返回到 Python 应用。
  * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - 一款功能强大的python shell,交互式解释器[ptpython](https://github.com/jonathanslenders/ptpython/)。
+ * [pipenv](https://github.com/kennethreitz/pipenv) - 用于简化Python项目中依赖项的管理。 它汇集了Pip，Pipfile和Virtualenv的功能，是一个强大的命令行工具。[简易教程](https://python.freelycode.com/contribution/detail/682)
 
 ========
 #### 树莓派
