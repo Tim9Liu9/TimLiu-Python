@@ -88,6 +88,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [PyQt](http://sourceforge.net/projects/pyqt/files/) - PyQt是一个创建GUI应用程序的工具包。它是Python编程语言和Qt库的成功融合。Qt库是目前最强大的库之一,GPL与商业协议。
  * [PySide](http://wiki.qt.io/PySide) - 对跨平台的 GUI 工具集 Qt 的包装，捆绑在 Python 当中，LGPL协议。 
  * [Eric](http://www.eric-ide.python-projects.org/) - Eric一个支持python、Ruby的强大IDE，与PyQt配合功能非常强大。
+ * [PyGTK](http://www.pygtk.org/) - 一系列的 Python 对 GTK+ GUI 库的包装。
  * [pyFacialRecognition](https://github.com/CloudsDocker/pyFacialRecognition) - 用10几行代码自己写个人脸识别程序。
 
 ========
