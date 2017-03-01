@@ -85,7 +85,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [cx_Freeze](http://sourceforge.net/projects/cx-freeze/files/) - 把Python脚本转换为能直接运行的可执行文件，支持python3.x,特别简单。
  * [Tkinter](https://docs.python.org/3/library/tkinter.html) - Tkinter的是Tk的GUI工具包，与Python附带的Python接口。
  * [wxPython](http://wxpython.org/) - wxPython一个开源的Python接口的wxWindows。
- * [PyQt](http://sourceforge.net/projects/pyqt/files/) - PyQt是一个创建GUI应用程序的工具包。它是Python编程语言和Qt库的成功融合。Qt库是目前最强大的库之一。
+ * [PyQt](http://sourceforge.net/projects/pyqt/files/) - PyQt是一个创建GUI应用程序的工具包。它是Python编程语言和Qt库的成功融合。Qt库是目前最强大的库之一,GPL与商业协议。
+ * [PySide](http://wiki.qt.io/PySide) - 对跨平台的 GUI 工具集 Qt 的包装，捆绑在 Python 当中，LGPL协议。 
  * [Eric](http://www.eric-ide.python-projects.org/) - Eric一个支持python、Ruby的强大IDE，与PyQt配合功能非常强大。
  * [pyFacialRecognition](https://github.com/CloudsDocker/pyFacialRecognition) - 用10几行代码自己写个人脸识别程序。
 
