@@ -314,6 +314,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [wechat-encrypt-python3](https://github.com/chenjianjx/wechat-encrypt-python3) - 微信提供的官方python加解密代码 只能用于python2。这里重写了一个python3版本。
  * [Python-SDK](http://git.oschina.net/jeffkit/wechat) - 微信公众号Python-SDK,本SDK支持微信公众号以及企业号的上行消息及OAuth接口。
  * [wego](https://github.com/wegostudio/wego) - WEGO微信公众号开发框架。
+ * [itchatmp](https://github.com/littlecodersh/itchatmp) - 一个开源的微信公众号、企业号接口，使用python调用微信公众号非常简单。基于tornado框架，轻松满足效率需求。支持普通使用、nginx反向代理与wsgi。[官方文档](http://itchatmp.readthedocs.io/zh_CN/latest/other/deploy/)
 
 ========
 #### IDE
