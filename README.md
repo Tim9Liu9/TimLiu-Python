@@ -96,6 +96,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [aiohttp](https://github.com/KeepSafe/aiohttp) - aiohttp是一个为 asyncio 提供了简洁易用的 HTTP 客户端和服务器的库。
  * [Requests](https://github.com/kennethreitz/requests/) - Requests是python的一个HTTP客户端库，跟urllib，urllib2类似，[官网](http://www.python-requests.org/en/latest/) ， [requests 源码阅读](https://github.com/wangshunping/read_requests)。
  * [Requests-cache](http://requests-cache.readthedocs.org/en/latest/index.html) - 缓存外部api请求, [使用教程](https://python.freelycode.com/contribution/detail/660)。 
+ * [trip](https://github.com/littlecodersh/trip/) - Trip 是一个协程的网络库，如 Requests 一般简单的操作，程序不再被网络阻塞。[开源项目Trip: 给Requests加上协程](https://mp.weixin.qq.com/s/vczqner3bOlyvAPwCPPgqQ)。
  * [youtube-dl](https://github.com/rg3/youtube-dl//) - 一个可从YouTube等网站下载视频的开源神器,采用Python开发，支持多个OS平台，支持众多视频网站国内优酷、土豆、新浪和搜狐，国外YouTube等赫然在列。
  * [ppmessage](https://github.com/PPMESSAGE/ppmessage) - 皮皮消息，即插即用，在线客服，移动应用内即时通讯，私有的·微信·，自建的·钉钉·，开源，纯Python实现。
  * [uvloop](https://github.com/MagicStack/uvloop) - 一个完整的asyncio事件循环的替代品，它建立在libuv基础之上，由Cython编写而成。性能非常高！
