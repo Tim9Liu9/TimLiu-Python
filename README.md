@@ -201,6 +201,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Locust](https://github.com/locustio/locust) - 一个开源性能测试工具,使用Python代码来定义用户行为,用它可以模拟百万计的并发用户访问你的系统。
  * [Pylint](https://github.com/PyCQA/pylint) - 是一个 Python 代码分析工具，它分析 Python 代码中的错误，查找不符合代码风格标准和有潜在问题的代码,Pylint默认使用的代码风格是PEP 8。[入门指南](http://python.jobbole.com/87415/)
  * [icecream](https://github.com/gruns/icecream) - 甜甜的，奶油般柔滑的打印调试。
+ * [Birdseye](https://github.com/alexmojaki/birdseye) - 快速、方便、以表达为中心的、使用AST的Python图形化调试器 。
 
 ========
 #### 安全与破解相关
