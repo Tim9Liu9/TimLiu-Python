@@ -406,6 +406,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [binance-trader](https://github.com/yasinkuyu/binance-trader) - 币安网交易者 (Binance: 区块链资产交易平台)： 币安网加密货币交易机器人 (实验性的)。
  * [multidiff](https://github.com/juhakivekas/multidiff) - 针对于多个对象或者数据流的二进制（数据）比较工具。
  * [Mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - (协议缓冲区)用于从协议缓冲区中生成mypy 根的开源工具。
+ * [Click](https://github.com/pallets/click) -用于快速创建命令行开发神器。Python 内置了一个 Argparse 的标准库用于创建命令行，但使用起来有些繁琐，Click 相比于 Argparse，就好比 requests 相比于 urllib。
 
 ========
 #### 博客与播客及书籍文档
