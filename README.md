@@ -199,6 +199,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [cProfile](https://docs.python.org/3/library/profile.html) - 一款应用python的性能测量工具。
  * [Locust](https://github.com/locustio/locust) - 一个开源性能测试工具,使用Python代码来定义用户行为,用它可以模拟百万计的并发用户访问你的系统。
  * [Pylint](https://github.com/PyCQA/pylint) - 是一个 Python 代码分析工具，它分析 Python 代码中的错误，查找不符合代码风格标准和有潜在问题的代码,Pylint默认使用的代码风格是PEP 8。[入门指南](http://python.jobbole.com/87415/)
+ * [icecream](https://github.com/gruns/icecream) - 甜甜的，奶油般柔滑的打印调试。
 
 ========
 #### 安全与破解相关
