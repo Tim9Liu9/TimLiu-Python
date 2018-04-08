@@ -235,6 +235,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [GooPyCharts](https://github.com/Dfenestrator/GooPyCharts) - 一个易于安装与使用的图表库，支持图表类型有限,语法与MATLAB相似，而且可以替代matplotlib。
  * [fast-pixel-cnn](https://github.com/PrajitR/fast-pixel-cnn) - 加速PixelCNN++图像生成，快达183倍。
  * [ipyvolumel-cnn](https://github.com/maartenbreddels/ipyvolume) - Jupyter notebook中基于IPython小部件的使用WebGL的Python 3d绘图。
+ * [Som-tsp](https://github.com/DiegoVicen/som-tsp) - 使用自组织地图技术解决旅行中的销售员所遇到的问题，用matlab实现。
 
 ========
 #### 语音相关
