@@ -401,7 +401,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Libcloud](http://libcloud.apache.org/) - 隐藏了不同云提供商应用程序编程接口（API）之间的差异，包括AWS、Apache CloudStack、Rackspace、谷歌云平台、微软Azure、VMware和OpenStack在内的50多个云提供商采用了Libcloud。
  * [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - 一个为所有文件系统提供的通用 Pythonic 接口。
  * [binance-trader](https://github.com/yasinkuyu/binance-trader) - 币安网交易者 (Binance: 区块链资产交易平台)： 币安网加密货币交易机器人 (实验性的)。
- * [multidiff](https://github.com/juhakivekas/multidiff) -针对于多个对象或者数据流的二进制（数据）比较工具。
+ * [multidiff](https://github.com/juhakivekas/multidiff) - 针对于多个对象或者数据流的二进制（数据）比较工具。
+ * [Mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - (协议缓冲区)用于从协议缓冲区中生成mypy 根的开源工具。
 
 ========
 #### 博客与播客及书籍文档
