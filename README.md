@@ -166,6 +166,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [PyQuery](https://github.com/gawel/pyquery) - 是 Python 仿照 jQuery 的严格实现。语法与 jQuery 几乎完全相同，所以不用再去费心去记一些奇怪的方法了。[python爬虫神器PyQuery的使用方法](http://python.jobbole.com/85222/)。
  * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - 使用scrapy,redis,mongodb,graphite实现的一个分布式网络爬虫。
  * [you-get](https://github.com/soimort/you-get/) - 能帮你快速爬取你想要的一切，支持64个网站，包括优酷、土豆、爱奇艺、b站、酷狗音乐、虾米。[官网]( https://you-get.org/)
+ * [Lulu](https://github.com/iawia002/Lulu) - You-get的一个友好分叉(fork), 类似网络爬虫的简单下载程序。 
  * [meizi_spider](https://github.com/lpe234/meizi_spider) - 获取慕课网视频教程，基于Scrapy(0.22)。
  * [spider_smooc](https://github.com/qiyeboy/spider_smooc) - 爬取慕课网视频 ,使用BeautifulSoup模块解析html。
  * [proxy_pool](https://github.com/jhao104/proxy_pool) - 爬虫代理池,爬去取网上免费的代理IP。
