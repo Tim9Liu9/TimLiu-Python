@@ -370,6 +370,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Sunburnt](https://github.com/tow/sunburnt) - Sunburnt全文搜索服务器Solr的Python接口。
  * [Celery](http://www.celeryproject.org/) - Celery是基于Python开发的分布式任务队列。它支持使用任务队列的方式在分布的机器／进程／线程上执行任务调度。
  * [Gevent](http://www.gevent.org/) - Gevent是一个基于greenlet的Python的并发框架，以微线程greenlet为核心，使用了epoll事件监听机制以及诸多其他优化而变得高效。
+ * [meinheld](https://github.com/mopemope/meinheld/) - meinheld与Gevent两者都是高性能的WSGI兼容的web服务器。既然是同种东西，meinheld的性能确实好得令人意外。meinheld：greenlet(协程) + picoev（高性能网络库），gevent：greenlet（协程） + libevent（高性能网络库）。类似还有：bjoern的异步机制，cheroot的多线程机制(有GIL限制)。
  * [Greenlet](http://undefined.org/python/#greenlet) - Greenlet是一个python的并行处理的一个库。
  * [Eventlet](http://eventlet.net/) - Eventlet是一个用来处理和网络相关的python库函数，而且可以通过协程来实现并发。
  * [Python Async IO Resources](http://asyncio.org/) - asyncio python的异步iO操作资源， [asyncio](https://github.com/python/asyncio) - asyncio3.4以后作为python标准库来使用了。
