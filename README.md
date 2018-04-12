@@ -75,6 +75,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Odoo](https://sourceforge.net/projects/greenopenerp/files/) - 前OpenERP，开源的ERP和电子商务系统、CRM，功能强大。[官网](https://www.odoo.com/)
  * [stethoscope](https://github.com/Netflix/stethoscope) - 一个web应用，它收集一个指定用户的设备的信息，并为它们提供保护其系统的清晰具体的建议。
  * [Tryton](http://www.tryton.org/download.html) - Tryton是一个用于构建三层高级通用应用平台的商务框架，PostgreSQL作为数据库引擎,主模块用于以下活动领域：会计、发票开取、销售管理、采购管理、客户分析、库存管理、资源制造计划 (MRP)、项目管理、人力资源管理。
+ * [cherrypy](https://github.com/cherrypy/cherrypy) - CherryPy是仅次于Django的网站开发框架，它最大的特性就是能够同时运行好几个web服务。
 
 ========
 #### 用户图形接口相关
