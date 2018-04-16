@@ -413,6 +413,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - (协议缓冲区)用于从协议缓冲区中生成mypy 根的开源工具。
  * [Click](https://github.com/pallets/click) -用于快速创建命令行开发神器。Python 内置了一个 Argparse 的标准库用于创建命令行，但使用起来有些繁琐，Click 相比于 Argparse，就好比 requests 相比于 urllib。
  * [black](https://github.com/ambv/black) - 一个代码格式化工具，black命令后面可以接py文件或文件夹，它会自动把文件或文件夹里面的代码按照PEP8的规范进行格式化。
+ * [white](https://github.com/kennethreitz/white) - fork了black代码，将默认的每行代码88个字符修改成79个字符。
 
 ========
 #### 博客与播客及书籍文档
