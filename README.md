@@ -297,6 +297,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [sh](https://pypi.python.org/pypi/sh/) - 一个完备的 subprocess 替代库，能调用 subprocess 中的任意外部程序，并将结果返回到 Python 应用。
  * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - 一款功能强大的python shell,交互式解释器[ptpython](https://github.com/jonathanslenders/ptpython/)。
  * [pipenv](https://github.com/kennethreitz/pipenv) - 用于简化Python项目中依赖项的管理。 它汇集了Pip，Pipfile和Virtualenv的功能，是一个强大的命令行工具。[简易教程](https://python.freelycode.com/contribution/detail/682)
+ * [ops-batch](https://github.com/jkklee/ops-batch) - Python实现跨平台批量运维小工具。基于yaml配置文件可灵活指定操作单位：host(s)或hostgroup(s)；基于多线程可实现多主机并行；基于docopt提供详细的命令行界面。
 
 ========
 #### 树莓派
