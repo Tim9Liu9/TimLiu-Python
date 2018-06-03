@@ -418,6 +418,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [white](https://github.com/kennethreitz/white) - fork了black代码，将默认的每行代码88个字符修改成79个字符。
  * [pycodestyle](https://github.com/PyCQA/pycodestyle) - 用 pycodestyle 可检测有哪些地方不符合 PEP8 风格。
  * [quart](https://gitlab.com/pgjones/quart) - 基于Asyncio的微框架，支持HTTP/1.1、HTTP/2、Websockets，对flask应用的支持最好。
+ * [Chips-2.0](https://github.com/dawsonjon/Chips-2.0) - 基于python语言的高级FPGA设计工具。
 
 ========
 #### 博客与播客及书籍文档
