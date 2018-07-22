@@ -304,6 +304,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [pipenv](https://github.com/kennethreitz/pipenv) - 用于简化Python项目中依赖项的管理。 它汇集了Pip，Pipfile和Virtualenv的功能，是一个强大的命令行工具。[简易教程](https://python.freelycode.com/contribution/detail/682)
  * [ops-batch](https://github.com/jkklee/ops-batch) - Python实现跨平台批量运维小工具。基于yaml配置文件可灵活指定操作单位：host(s)或hostgroup(s)；基于多线程可实现多主机并行；基于docopt提供详细的命令行界面。
  * [python-fire](https://github.com/google/python-fire) - 一个可以自动生成命令行接口(CLI)的库。
+ * [Shiv](https://github.com/linkedin/shiv) - 一款命令行实用程序，可以创建完全独立自足的Python zip应用，和PEP 441中描述的一样，但又包含所有的内置环境依赖。
 
 ========
 #### 树莓派
