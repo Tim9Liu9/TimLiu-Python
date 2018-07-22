@@ -176,6 +176,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [spider_smooc](https://github.com/qiyeboy/spider_smooc) - 爬取慕课网视频 ,使用BeautifulSoup模块解析html。
  * [proxy_pool](https://github.com/jhao104/proxy_pool) - 爬虫代理池,爬去取网上免费的代理IP。
  * [Amazon-scraper-Python](https://github.com/tducret/amazon-scraper-python) - 一款非官方的爬取工具，能够获取亚马逊上在售商品的信息，比如商品排名和评论数量。
+ * [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 
 ========
 #### 测试与代码分析审核
