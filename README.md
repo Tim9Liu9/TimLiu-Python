@@ -78,6 +78,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [cherrypy](https://github.com/cherrypy/cherrypy) - CherryPy是仅次于Django的网站开发框架，它最大的特性就是能够同时运行好几个web服务。
  * [TurboGears](https://github.com/TurboGears/tg2) - TurboGears是一种MVC架构的网站开发框架，它基于一些WSGI组件（比如SQLAlchemy, Ming, Repoze等）、模板引擎（ Genshi, Kajiki, Cheetah, Myghty）和大量的库文件以及中间件（middleware）。同时它具有 widgets控件，可以非常方便的生成一些特定的功能。
  * [Pyramid](https://github.com/Pylons/pyramid) - 由Pylons项目中的一部分演变而来，最大的特点就是灵活性和可扩展性（尤其和Django相比），可以自由的选择使用什么样的数据库、URL结构、模板风格等等。
+ * [vibora](https://github.com/vibora-io/vibora) - 一款快速、异步和优雅的Python 3.6+ http 客户端/服务器框架。 [官方文档](https://docs.vibora.io/)
 
 ========
 #### 用户图形接口相关
