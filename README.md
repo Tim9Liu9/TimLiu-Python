@@ -207,6 +207,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [icecream](https://github.com/gruns/icecream) - 甜甜的，奶油般柔滑的打印调试。
  * [Birdseye](https://github.com/alexmojaki/birdseye) - 快速、方便、以表达为中心的、使用AST的Python图形化调试器 。
  * [Voluptuous](https://github.com/alecthomas/voluptuous) - 尽管名字有点妖娆，这是一个Python的数据校验库。
+ * [Pyre-check](https://github.com/facebook/pyre-check) - Facebook推出的一款Python性能类型检查工具。
 
 ========
 #### 安全与破解相关
