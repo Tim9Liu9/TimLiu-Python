@@ -426,6 +426,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [quart](https://gitlab.com/pgjones/quart) - 基于Asyncio的微框架，支持HTTP/1.1、HTTP/2、Websockets，对flask应用的支持最好。
  * [Chips-2.0](https://github.com/dawsonjon/Chips-2.0) - 基于python语言的高级FPGA设计工具。
  * [Datasheets](https://github.com/Squarespace/datasheets) - 用Python读取Google Sheets的数据、向Google Sheets写入数据以及修改Google Sheets的格式。
+ * [Spotify-playlist-generator](https://github.com/mileshenrichs/spotify-playlist-generator) - Spotify播放列表生成器，由Python编写的脚本，能够每周根据新音乐自动创建新的播放列表。
 
 ========
 #### 博客与播客及书籍文档
