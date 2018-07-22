@@ -234,6 +234,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Mercure](https://github.com/synhack/mercure) - 是为那些想要教会他们的合作者关于钓鱼的安全管理者提供的工具。
  * [Privy](https://github.com/ofek/privy) - 是一个小而快的实用程序，用于密码保护，例如数字签名种子，或者Bitcoin钱包。 
  * [urh](https://github.com/jopohl/urh) - Universal Radio Hacker是一个用于调查未知无线协议的软件。
+ * [Pypykatz](https://github.com/skelsec/pypykatz) - 完全用Python实现了密码提取工具Mimikatz。
 
 ========
 #### 图表及图像相关
