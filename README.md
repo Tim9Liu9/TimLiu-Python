@@ -245,6 +245,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [fast-pixel-cnn](https://github.com/PrajitR/fast-pixel-cnn) - 加速PixelCNN++图像生成，快达183倍。
  * [ipyvolumel-cnn](https://github.com/maartenbreddels/ipyvolume) - Jupyter notebook中基于IPython小部件的使用WebGL的Python 3d绘图。
  * [Som-tsp](https://github.com/DiegoVicen/som-tsp) - 使用自组织地图技术解决旅行中的销售员所遇到的问题，用matlab实现。
+ * [GIF-for-cli](https://github.com/google/gif-for-cli) - 将GIF、短视频或Tenor GIF API的查询转换成动漫的ASCII艺术。
 
 ========
 #### 语音相关
