@@ -335,6 +335,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [wego](https://github.com/wegostudio/wego) - WEGO微信公众号开发框架。
  * [itchatmp](https://github.com/littlecodersh/itchatmp) - 一个开源的微信公众号、企业号接口，使用python调用微信公众号非常简单。基于tornado框架，轻松满足效率需求。支持普通使用、nginx反向代理与wsgi。[官方文档](http://itchatmp.readthedocs.io/zh_CN/latest/other/deploy/)
  * [itchat](https://github.com/littlecodersh/itchat) - 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。[官方文档](http://itchat.readthedocs.io/zh/latest/)
+ * [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 一款功能强大的 macOS 版微信小助手 v1.7 / A powerful assistant for wechat macOS。
 
 ========
 #### IDE
