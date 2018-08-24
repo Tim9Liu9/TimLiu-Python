@@ -24,6 +24,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 - [树莓派](#树莓派)
 - [第三方平台](#第三方平台)
 - [IDE](#IDE)
+- [区块链](#区块链)
 - [其他库](#其他库)
 - [博客与播客及书籍文档](#博客与播客及书籍文档)
 - [好的文章](#好的文章)
@@ -350,6 +351,11 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [sublimetext](http://www.sublimetext.com/2) - sublimetext：Sublime Text 是一个轻量、简洁、高效、跨平台的编辑器。
  * [Atom](https://github.com/atom/atom) - Atom 是 Github 专门为程序员推出的一个跨平台文本编辑器。具有简洁和直观的图形用户界面，并有很多有趣的特点：支持CSS，HTML，JavaScript等网页编程语言。它支持宏，自动完成分屏功能，集成了文件管理器。[官网下载](https://atom.io/)，比较不错的插件：爆炸效果 activate-power-mode、程序员鼓励师 atom-miku 。
 
+========  
+#### 区块链  
+ * [binance-trader](https://github.com/yasinkuyu/binance-trader) - 币安网交易者 (Binance: 区块链资产交易平台)： 币安网加密货币交易机器人 (实验性的)。
+ * [python-cardano](https://github.com/yihuang/python-cardano) - Cardano 最近比较火热的一个区块链项目，它解决了第一代加密币——比特币（Bitcoin）所有存在的问题，它也支持第二代加密币——以太坊（Ethereum）的智能合约。
+
 ========
 #### 其他库
  * [IoTNotes](http://ideatouch.github.io/IoTNotes/) - 开源硬件记录。
@@ -418,7 +424,6 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Blender](https://www.blender.org/) - 是一款开源的跨平台全能三维动画制作软件，提供从建模、动画、材质、渲染、到音频处理、视频剪辑等一系列动画短片制作解决方案。 (3D打印)
  * [Libcloud](http://libcloud.apache.org/) - 隐藏了不同云提供商应用程序编程接口（API）之间的差异，包括AWS、Apache CloudStack、Rackspace、谷歌云平台、微软Azure、VMware和OpenStack在内的50多个云提供商采用了Libcloud。
  * [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - 一个为所有文件系统提供的通用 Pythonic 接口。
- * [binance-trader](https://github.com/yasinkuyu/binance-trader) - 币安网交易者 (Binance: 区块链资产交易平台)： 币安网加密货币交易机器人 (实验性的)。
  * [multidiff](https://github.com/juhakivekas/multidiff) - 针对于多个对象或者数据流的二进制（数据）比较工具。
  * [Mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - (协议缓冲区)用于从协议缓冲区中生成mypy 根的开源工具。
  * [Click](https://github.com/pallets/click) -用于快速创建命令行开发神器。Python 内置了一个 Argparse 的标准库用于创建命令行，但使用起来有些繁琐，Click 相比于 Argparse，就好比 requests 相比于 urllib。
