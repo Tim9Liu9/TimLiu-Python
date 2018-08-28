@@ -435,6 +435,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Datasheets](https://github.com/Squarespace/datasheets) - 用Python读取Google Sheets的数据、向Google Sheets写入数据以及修改Google Sheets的格式。
  * [Spotify-playlist-generator](https://github.com/mileshenrichs/spotify-playlist-generator) - Spotify播放列表生成器，由Python编写的脚本，能够每周根据新音乐自动创建新的播放列表。
  * [Ubelt](https://github.com/Erotemic/ubelt) - 由Python编写的实用工具，包含大量实用的工具函数，可跨平台使用。
+ * [qrcode](https://github.com/sylnsfar/qrcode) - Python 艺术二维码生成器 （GIF动态二维码、图片二维码）。
 
 ========
 #### 博客与播客及书籍文档
