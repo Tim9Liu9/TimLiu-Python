@@ -95,6 +95,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Eric](http://www.eric-ide.python-projects.org/) - Eric一个支持python、Ruby的强大IDE，与PyQt配合功能非常强大。
  * [PyGTK](http://www.pygtk.org/) - 一系列的 Python 对 GTK+ GUI 库的包装。
  * [pyFacialRecognition](https://github.com/CloudsDocker/pyFacialRecognition) - 用10几行代码自己写个人脸识别程序。
+ * [pyecharts](https://github.com/pyecharts/pyecharts) - pyecharts是一个用于生成Echarts图表的类库；而Echarts是百度开源的一个数据可视化JS库。使用pyecharts绘制的图表美观且具有交互性。[官网](http://pyecharts.org)。
 
 ========
 #### 网络相关
