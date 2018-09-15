@@ -124,6 +124,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [mongotron](https://github.com/officert/mongotron) - mongotron：mongo 图形化管理工具,基于Electron与AngularJS写成。
  * [tinydb](http://tinydb.readthedocs.org/en/latest/getting-started.html) - 一个小型的文档数据库，它允许你在本地文件中插入JSON数据并查询它。它只有1200多行代码，并且配有简单干净的文档和API。
  * [Dataset](https://github.com/pudo/dataset) - Dataset在数据库中即时保存数据。
+ * [datasette](https://github.com/simonw/datasette) - DataSette可以很容易地把 CSV 文件转换为全特性的只读 REST JSON API，有许多特性，包括创建图表和 geo（用于创建交互式地图），并且很容易通过容器或第三方网络主机进行部署。
 
 ========
 #### 游戏相关
