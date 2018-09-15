@@ -199,6 +199,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Blessings](https://github.com/erikrose/blessings) - 一个轻量级的文本终端输入颜色改变库。
  * [termcolor](https://github.com/hfeeki/termcolor) - 一个python的终端输出文本颜色改变的[模块](https://pypi.python.org/pypi/termcolor)。
  * [pytest](https://pypi.python.org/pypi/pytest) - py.test 是一个轻量级的测试框架，它压根就没写自己的断言系统，但是它对Python自带的断言做了强化处理，如果断言失败，那么框架本身会尽可能多地提供断言失败的原因。
+ * [Pluggy](https://github.com/pytest-dev/pluggy) - 添加一个插件系统到现有应用中，那么使用 Pluggy 是最好也是最简单的方式。如果你使用过 pytest，那么实际上相当于已经使用过 Pluggy 了。
  * [unittest](https://docs.python.org/3/library/unittest.html) - Python自带的单元测试框架,有自己的断言方法self.assertXXX()，而且不推荐使用assert XXX语句。
  * [ptest](https://pypi.python.org/pypi/ptest) - Karl大神写的一个测试框架。ptest中的断言可读性很好，而且智能提示也很方便你通过IDE轻松完成各种断言语句。
  * [assertpy](https://github.com/ActivisionGameScience/assertpy) - 异常强大且好评如潮的assert断言包，它支持了几乎能想到的所有测试场景。[文档](https://pypi.python.org/pypi/assertpy)
@@ -215,6 +216,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Birdseye](https://github.com/alexmojaki/birdseye) - 快速、方便、以表达为中心的、使用AST的Python图形化调试器 。
  * [Voluptuous](https://github.com/alecthomas/voluptuous) - 尽管名字有点妖娆，这是一个Python的数据校验库。
  * [Pyre-check](https://github.com/facebook/pyre-check) - Facebook推出的一款Python性能类型检查工具。
+
 
 ========
 #### 安全与破解相关
