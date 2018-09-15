@@ -96,6 +96,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [PyGTK](http://www.pygtk.org/) - 一系列的 Python 对 GTK+ GUI 库的包装。
  * [pyFacialRecognition](https://github.com/CloudsDocker/pyFacialRecognition) - 用10几行代码自己写个人脸识别程序。
  * [pyecharts](https://github.com/pyecharts/pyecharts) - pyecharts是一个用于生成Echarts图表的类库；而Echarts是百度开源的一个数据可视化JS库。使用pyecharts绘制的图表美观且具有交互性。[官网](http://pyecharts.org)。
+ * [Snowy](https://github.com/prideout/snowy/) - Snowy是一个能够处理和生成图像的小模块。
 
 ========
 #### 网络相关
