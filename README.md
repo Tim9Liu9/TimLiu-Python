@@ -60,6 +60,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Django-ERP](https://github.com/zhuinfo/Django-ERP) - Django-ERP是一款基于Django开发的ERP管理软件，包含常用的销售管理、采购管理、库存管理、组织管理等，支持按项目归集费用，支持工作流审批，支持采购单、报价单的批量导入。
  * [pylint-django](https://github.com/landscapeio/pylint-django) -  Django的pylint插件，用于分析Django的代码。
  * [djangOauth](https://github.com/X-Mars/djangOauth) - 基于 django + jwt 的 统一权限认证系统 ，账号的集中管理。
+ * [sanic](https://github.com/huge-success/sanic) - 一款用python3.5+(async/await及uvloop)写的类flask的高性能web framework。
 
 ##### Flask
  * [flask](http://flask.pocoo.org/) - flask， [官方教程中文翻译1](http://www.pythondoc.com/flask/index.html) ，[官方教程中文翻译2](http://docs.jinkan.org/docs/flask/),[Flask使用小结](http://python.jobbole.com/84003/),[Flask开发团队Pocoo的内部编码风格指南| 编程派 | Coding Python.html](http://www.codingpy.com/article/pocoo-internal-style-guide-cn/)。
