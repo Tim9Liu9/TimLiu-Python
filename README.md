@@ -67,6 +67,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Blog_mini](https://github.com/xpleaf/Blog_mini) - 基于Flask开发的开源博客系统，具有简洁的界面和强大的后台管理。
  * [lagou-finder](https://github.com/sagaxu/lagou-finder) - python3的flask项目,根据地图展示拉勾网招聘信息的项目。
  * [React-News-Board](https://github.com/ethan-funny/React-News-Board) - 实例讲解一个信息聚合阅读的项目,基于 Flask+React 的全栈开发和部署。
+ * [Flask 常用库详情](https://juejin.im/post/57da3f4d79bc440065da3639) - flask-script、flask-login、flask-admin、Flask-WTF、flask-principal、flask-restful、flask-api、Flask-Mail、Flask-User、flask-security、flask-babel、flask-locale。
 
 ##### Tornado
  * [tornado](https://github.com/tornadoweb/tornado) - tornado是非阻塞式 Web 服务器框架，而且速度相当快。[官网](http://www.tornadoweb.org)，[Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html) , [中文教程](http://www.tornadoweb.cn/ )。
