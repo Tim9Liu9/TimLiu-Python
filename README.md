@@ -449,6 +449,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [python-qrcode](https://github.com/lincolnloop/python-qrcode) - 支持生成矢量图，而且比较适合在代码中生成二维码的场景。
  * [Envparse](https://github.com/rconradharris/envparse) - Envparse 能够处理环境变量、ENV 文件、变量类型，甚至还可以进行预处理和后处理（例如，你想要确保变量名总是大写或小写的）。
  * [jrnl](https://github.com/maebert/jrnl) - jrnl:用命令行来写日记，装x利器。[官网](http://jrnl.sh/)
+ * [moviepy](https://github.com/Zulko/moviepy) - 是一个用于视频编辑Python库：切割、拼接、标题插入，视频合成（即非线性编辑），视频处理和自定义效果的创造。而且能渲染GIF或视频动画。
 
 ========
 #### 博客与播客及书籍文档
