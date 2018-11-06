@@ -87,6 +87,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [django-alipay](https://github.com/liuyug/django-alipay) - alipay api for django。
  * [alipay](https://github.com/lxneng/alipay) - 支付宝非官方的python实现。
  * [Responder](https://github.com/kennethreitz/responder) - 是一个web框架，基于 Starlette封装，和其他的web框架如django，flask相比，它速度更快。
+ * [Molten](https://github.com/Bogdanp/molten) - 使用Python 3.6以上版本构建HTTP API的轻量化、可扩展，快速且高效的框架。它的核心简单易懂，同时高效、稳定，尽可能避免重大更改。也支持用类型注释进行静态类型检查以确保类型安全。
 
 ========
 #### 用户图形接口相关
