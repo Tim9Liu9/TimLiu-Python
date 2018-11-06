@@ -85,6 +85,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [vibora](https://github.com/vibora-io/vibora) - 一款快速、异步和优雅的Python 3.6+ http 客户端/服务器框架。 [官方文档](https://docs.vibora.io/)
  * [alipay](https://github.com/fzlee/alipay) - 支付宝没有提供Python SDK。生成预付订单需要使用SHA1withRSA签名，签名的生成比较麻烦容易出错。这里提供了一个简单的库，希望能够简化一些Python开发的流程。(推荐使用)
  * [django-alipay](https://github.com/liuyug/django-alipay) - alipay api for django。
+ * [alipay](https://github.com/lxneng/alipay) - 支付宝非官方的python实现。
 
 ========
 #### 用户图形接口相关
