@@ -463,6 +463,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [moviepy](https://github.com/Zulko/moviepy) - 是一个用于视频编辑Python库：切割、拼接、标题插入，视频合成（即非线性编辑），视频处理和自定义效果的创造。而且能渲染GIF或视频动画。
  * [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - 可以将PDF转换成HTML，可以在HTML文件中精确显示原生文本、生成的文件大小与解压缩后的PDF文件相当、单HTML文件输出。
  * [Camelot](https://github.com/socialcopsdev/camelot) - PDF图表提取库,支持命令行界面，另外还有一个web界面可选,每个表都是一个pandas DataFrame，它可以无缝集成到ETL和数据分析工作流中,支持导出为多种格式，包括JSON，Excel和HTML,不支持扫描版PDF。
+ * [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - 一个实现广泛使用的经典金融投资组合优化技术的库。
 
 ========
 #### 博客与播客及书籍文档
