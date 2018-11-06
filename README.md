@@ -83,7 +83,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [TurboGears](https://github.com/TurboGears/tg2) - TurboGears是一种MVC架构的网站开发框架，它基于一些WSGI组件（比如SQLAlchemy, Ming, Repoze等）、模板引擎（ Genshi, Kajiki, Cheetah, Myghty）和大量的库文件以及中间件（middleware）。同时它具有 widgets控件，可以非常方便的生成一些特定的功能。
  * [Pyramid](https://github.com/Pylons/pyramid) - 由Pylons项目中的一部分演变而来，最大的特点就是灵活性和可扩展性（尤其和Django相比），可以自由的选择使用什么样的数据库、URL结构、模板风格等等。
  * [vibora](https://github.com/vibora-io/vibora) - 一款快速、异步和优雅的Python 3.6+ http 客户端/服务器框架。 [官方文档](https://docs.vibora.io/)
- * [alipay](https://github.com/fzlee/alipay) - 支付宝没有提供Python SDK。生成预付订单需要使用SHA1withRSA签名，签名的生成比较麻烦容易出错。这里提供了一个简单的库，希望能够简化一些Python开发的流程。
+ * [alipay](https://github.com/fzlee/alipay) - 支付宝没有提供Python SDK。生成预付订单需要使用SHA1withRSA签名，签名的生成比较麻烦容易出错。这里提供了一个简单的库，希望能够简化一些Python开发的流程。(推荐使用)
+ * [django-alipay](https://github.com/liuyug/django-alipay) - alipay api for django。
 
 ========
 #### 用户图形接口相关
