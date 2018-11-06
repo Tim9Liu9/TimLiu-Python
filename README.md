@@ -327,6 +327,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [python-fire](https://github.com/google/python-fire) - 一个可以自动生成命令行接口(CLI)的库。
  * [Shiv](https://github.com/linkedin/shiv) - 一款命令行实用程序，可以创建完全独立自足的Python zip应用，和PEP 441中描述的一样，但又包含所有的内置环境依赖。
  * [xonsh](https://github.com/xonsh/xonsh) - 可以在xosh里调用Python的各种函数，也可以写常规的Shell语言，如此把Shell强大的系统操作和Python的丰富优雅完美混搭，同时支持使用Prompt Toolkit补全Shell命令和Python表达式。补全有可视化提示，会显示可能的补全并有下拉列表。
+ * [dbxfs](https://github.com/rianhunter/dbxfs) - 可以把Dropbox文件夹当作本地文件系统一样挂载，OpenBSD，Linux和macOS上测试可用。
 
 ========
 #### 树莓派
