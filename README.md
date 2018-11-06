@@ -228,6 +228,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Voluptuous](https://github.com/alecthomas/voluptuous) - 尽管名字有点妖娆，这是一个Python的数据校验库。
  * [Pyre-check](https://github.com/facebook/pyre-check) - Facebook推出的一款Python性能类型检查工具。
  * [Py-spy](https://github.com/benfred/py-spy) - Python 程序性能分析利器,能够可视化你的 Python 程序的 CPU 耗时情况，非常轻量化。
+ * [Bowler](https://github.com/facebookincubator/Bowler) - 一个实现语法树级别操作的Python重构工具，由 Facebook 开源。
 
 ========
 #### 安全与破解相关
