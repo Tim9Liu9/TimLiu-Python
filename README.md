@@ -337,6 +337,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [dotbro-server](https://github.com/pubuim/dotbro-server) - 瀑布IM 开源点歌系统，[架设树莓派点歌系统：如何共享办公室的音箱](http://www.jianshu.com/p/fe8d06a8f751)。
  * [pyMagic](http://www.freebuf.com/sectool/103374.html) - pyMagic:用python控制的Geek入门神器 。
  * [360CamCode](https://github.com/Open360cam/360CamCode) - 一个有趣的360度照相机的开源项目：树莓派+OpenCV。
+ * [PaperTTY](https://github.com/joukos/PaperTTY) - 一个实验性的命令行驱动的Python模块，用于将Linux虚拟终端（/dev/tty[1-63]）或标准输入的内容呈现到Waveshare电子纸显示器上。
 
 ========
 #### 第三方平台
