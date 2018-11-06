@@ -173,7 +173,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [mpi4py](http://mpi4py.scipy.org/docs/usrman/tutorial.html) - Mpi4py是构建在mpi之上的python库，使得python的数据结构可以在进程（或者多个cpu）之间进行传递。
  * [pylearn2](https://github.com/lisa-lab/pylearn2) - 一个基于[Theano](http://deeplearning.net/software/theano/)的机器学习库，大部分功能是基于Theano顶层实现的。
  * [PyMC](https://github.com/pymc-devs/pymc) - PyMC是一个实现贝叶斯统计模型和马尔科夫链蒙塔卡洛采样工具拟合算法的Python库。PyMC的灵活性及可扩展性使得它能够适用于解决各种问题。除了包含核心采样功能，PyMC还包含了统计输出、绘图、拟合优度检验和收敛性诊断等方法。
-
+ * [PCN-FaceDetection-FaceAlignment](https://github.com/Jack-CV/PCN-FaceDetection-FaceAlignment) - PCN 多角度实时人脸检测项目。
+  
 ========
 #### 网络爬虫
  * [scrapy](https://github.com/scrapy/scrapy/) - 最出名的网络爬虫，一个快速,高层次的屏幕抓取和web抓取框架，用于抓取web站点并从页面中提取结构化的数据。Scrapy用途广泛，可以用于数据挖掘、监测和自动化测试。[官方主页](http://scrapy.org/),[Scrapy 轻松定制网络爬虫 - 教程](http://blog.pluskid.org/?p=366)，[Scrapy 中文指南](http://wiki.jikexueyuan.com/project/scrapy/broad-crawls.html) 。
