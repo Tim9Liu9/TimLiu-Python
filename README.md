@@ -194,7 +194,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
  * [DouYin](https://github.com/Python3WebSpider/DouYin) - 不到 10 行代码完成抖音热门视频的爬取！
  * [Sotawhat](https://github.com/chiphuyen/sotawhat) - arxiv论文爬虫，只需输入论文关键词，就会为你抓取arxiv上的论文并总结摘要，让你轻松同步最新研究结果。
-
+ * [Gerapy](https://github.com/Gerapy/Gerapy) - 国人开发的，分布式的爬虫管理框架，基于Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js 技术！
+ 
 ========
 #### 测试与代码分析审核
  * [splinter](http://splinter.cobrateam.info/) - Python自动化测试工具Splinter，不仅可以当web自动化测试工具 同时也可以当抓取交互式网站的爬虫程序来用的，不用去分析ajax请求数据了，可以模拟登录，[用Python开发自动化测试脚本-splinter](http://python.jobbole.com/84012/)。
