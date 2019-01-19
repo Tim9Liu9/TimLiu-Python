@@ -25,7 +25,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 - [第三方平台](#第三方平台)
 - [IDE](#IDE)
 - [区块链](#区块链)
-- [其他库](#其他库)
+- [其他库](#其他库)  
+- [完整项目](#完整项目) 
 - [博客与播客及书籍文档](#博客与播客及书籍文档)
 - [好的文章](#好的文章)
 - [他人总结](#他人总结)
@@ -469,6 +470,11 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Camelot](https://github.com/socialcopsdev/camelot) - PDF图表提取库,支持命令行界面，另外还有一个web界面可选,每个表都是一个pandas DataFrame，它可以无缝集成到ETL和数据分析工作流中,支持导出为多种格式，包括JSON，Excel和HTML,不支持扫描版PDF。
  * [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - 一个实现广泛使用的经典金融投资组合优化技术的库。
  * [money](https://github.com/carlospalol/money) - 利用定点数解决python里面浮点数运行精度的问题。
+
+========
+####  完整项目
+ * [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 一套内容管理系统框架的vue前端。
+ * [lin-cms-flask](https://github.com/TaleLin/lin-cms-flask) - 一套内容管理系统框架，可以有效的帮助开发者提高 CMS 的开发效率，基于flask。
 
 ========
 #### 博客与播客及书籍文档
