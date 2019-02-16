@@ -2,7 +2,7 @@
 ========
 Python资源集合，持续更新。。。 [python 中文学习大本营](http://www.pythondoc.com/) 。
   
-  Python库学习收集QQ群:  461273222  ,欢迎入群。
+  Python库学习收集QQ群:  461273222  ,欢迎入群(入群答案：TimLiu-Python)。
 ###  目录
 - [网页框架](#网页框架)
     - [Django](#Django)
