@@ -260,6 +260,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Privy](https://github.com/ofek/privy) - 是一个小而快的实用程序，用于密码保护，例如数字签名种子，或者Bitcoin钱包。 
  * [urh](https://github.com/jopohl/urh) - Universal Radio Hacker是一个用于调查未知无线协议的软件。
  * [Pypykatz](https://github.com/skelsec/pypykatz) - 完全用Python实现了密码提取工具Mimikatz。
+ * [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) - John the Ripper 是一款大受欢迎的、免费的开源软件。也是一个基于字典的快速破解密码的工具，是一款用于在已知密文的情况下尝试破解出明文的破解密码软件，支持目前大多数的加密算法，如 DES 、 MD4 、 MD5 等。 John the Ripper 支持字典破解方式和暴力破解方式。它支持多种不同类型的系统架构，包括 Unix 、 Linux 、 Windows 、 DOS 模式、 BeOS 和 OpenVMS ，主要目的是破解不够牢固的 Unix/Linux 系统密码。
 
 ========
 #### 图表及图像相关
