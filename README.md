@@ -119,6 +119,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [httpstat](https://github.com/reorx/httpstat) - 这个库能够直接将http请求的各状态在终端进行输出，类似于浏览器的调试模式！
  * [ppmessage](https://github.com/PPMESSAGE/ppmessage) - 皮皮消息，即插即用，在线客服，移动应用内即时通讯，私有的·微信·，自建的·钉钉·，开源，纯Python实现。
  * [picoev](https://github.com/kazuho/picoev) - meinheld(greenlet+picoev)使用的网络库，小巧轻量，相较于libevent在数据结构和事件检测模型上做了改进，所以速度更快。但从github看起来已经年久失修，用的人不多。
+ * [aiowebsocket](https://github.com/asyncins/aiowebsocket) - AioWebSocket是一个遵循 WebSocket 规范的 异步 WebSocket 客户端，相对于其他库它更轻、更快。
 
 ========
 #### 数据库相关
