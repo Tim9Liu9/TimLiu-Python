@@ -199,6 +199,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Sotawhat](https://github.com/chiphuyen/sotawhat) - arxiv论文爬虫，只需输入论文关键词，就会为你抓取arxiv上的论文并总结摘要，让你轻松同步最新研究结果。
  * [Gerapy](https://github.com/Gerapy/Gerapy) - 国人开发的，分布式的爬虫管理框架，基于Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js 技术！
   * [python_12306]( https://github.com/versionzhang/python_12306) - 用python实现的12306抢票小工具
+  * [Crawlab](https://github.com/tikazyq/crawlab) - 基于Celery的爬虫分布式爬虫管理平台，支持多种编程语言以及多种爬虫框架.
 
 ========
 #### 测试与代码分析审核
