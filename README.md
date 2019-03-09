@@ -506,4 +506,5 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [issue-198-top2015](http://python.jobbole.com/84145/) - 蠎周刊2015年度最赞。
  * [Awesome Python](https://python.libhunt.com/) - 一个收集Python资源的网站，框架、包、软件和其它资源都很棒，自带搜索功能，极为方便。
  * [python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题。
+ * [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) - 算法/深度学习/NLP面试笔记。
 
