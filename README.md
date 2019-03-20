@@ -202,8 +202,9 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [DouYin](https://github.com/Python3WebSpider/DouYin) - 不到 10 行代码完成抖音热门视频的爬取！
  * [Sotawhat](https://github.com/chiphuyen/sotawhat) - arxiv论文爬虫，只需输入论文关键词，就会为你抓取arxiv上的论文并总结摘要，让你轻松同步最新研究结果。
  * [Gerapy](https://github.com/Gerapy/Gerapy) - 国人开发的，分布式的爬虫管理框架，基于Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js 技术！
-  * [python_12306]( https://github.com/versionzhang/python_12306) - 用python实现的12306抢票小工具
+  * [python_12306](https://github.com/versionzhang/python_12306) - 用python实现的12306抢票小工具。
   * [Crawlab](https://github.com/tikazyq/crawlab) - 基于Celery的爬虫分布式爬虫管理平台，支持多种编程语言以及多种爬虫框架.
+  * [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) - 模拟登陆一些大型网站，还有一些简单的爬虫。
 
 ========
 #### 测试与代码分析审核
