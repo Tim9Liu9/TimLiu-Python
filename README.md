@@ -183,6 +183,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Modin](https://github.com/modin-project/modin) - 通过更改一行代码来加速你的pandas工作流，让pandas运行的更快,Modin使用Ray来加速pandas。 
  * [Ray](https://github.com/ray-project/ray/) - 基于python的高性能实时并行机器学习框架，有望取代Spark。  
  * [keras](https://github.com/keras-team/keras) - Keras是一种高度模块化，使用简单上手快，合适深度学习初学者使用的深度学习框架。Keras由纯Python编写而成并以Tensorflow、Theano以及CNTK为后端。Keras为支持快速实验而生，能够把你的idea迅速转换为结果。
+ * [tensorflow-models](https://github.com/tensorflow/models) - 使用TensorFlow构建模型和示例。 
 
 ========
 #### 网络爬虫
