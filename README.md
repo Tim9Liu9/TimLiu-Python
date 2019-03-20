@@ -182,7 +182,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [face_recognition](https://github.com/ageitgey/face_recognition) - face_recognition是一个强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例，特别是兼容树莓派系统。项目README文件已经被同济大学开源软件协子豪兄Tommy翻译成中文，此项目是世界上最简洁的人脸识别库，你可以使用Python和命令行工具提取、识别、操作人脸。同时此项目的人脸识别是基于业内领先的C++开源库dlib中的深度学习模型，用Labeled Faces in the Wild人脸数据集进行测试，有高达99.38%的准确率。但对小孩和亚洲人脸的识别准确率尚待提升。
  * [Modin](https://github.com/modin-project/modin) - 通过更改一行代码来加速你的pandas工作流，让pandas运行的更快,Modin使用Ray来加速pandas。 
  * [Ray](https://github.com/ray-project/ray/) - 基于python的高性能实时并行机器学习框架，有望取代Spark。  
- 
+ * [keras](https://github.com/keras-team/keras) - Keras是一种高度模块化，使用简单上手快，合适深度学习初学者使用的深度学习框架。Keras由纯Python编写而成并以Tensorflow、Theano以及CNTK为后端。Keras为支持快速实验而生，能够把你的idea迅速转换为结果。
+
 ========
 #### 网络爬虫
  * [scrapy](https://github.com/scrapy/scrapy/) - 最出名的网络爬虫，一个快速,高层次的屏幕抓取和web抓取框架，用于抓取web站点并从页面中提取结构化的数据。Scrapy用途广泛，可以用于数据挖掘、监测和自动化测试。[官方主页](http://scrapy.org/),[Scrapy 轻松定制网络爬虫 - 教程](http://blog.pluskid.org/?p=366)，[Scrapy 中文指南](http://wiki.jikexueyuan.com/project/scrapy/broad-crawls.html) 。
