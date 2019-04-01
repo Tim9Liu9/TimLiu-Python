@@ -503,6 +503,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
 #### 好的文章
  * [使用Pandas和Matplotlib分析Tweets](https://github.com/ictar/pythondocument/blob/master/Science%20and%20Data%20Analysis/Matplotlib%E6%95%99%E7%A8%8B%20-%20%E7%BB%98%E5%88%B6%E6%8F%90%E5%88%B0Trump%2C%20Clinton%20%26%20Sanders%E7%9A%84%E6%8E%A8%E7%89%B9.md) - 使用Pandas和Matplotlib分析Tweets。
  * [Python 黑帽编程大纲](https://zhuanlan.zhihu.com/p/21658243) - Python 黑帽编程大纲
+ * [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。
 
 ========
 #### 他人总结
