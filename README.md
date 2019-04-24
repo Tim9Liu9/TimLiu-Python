@@ -245,7 +245,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Py-spy](https://github.com/benfred/py-spy) - Python 程序性能分析利器,能够可视化你的 Python 程序的 CPU 耗时情况，非常轻量化。
  * [Bowler](https://github.com/facebookincubator/Bowler) - 一个实现语法树级别操作的Python重构工具，由 Facebook 开源。
  * [PythonTestingToolsTaxonomy](https://wiki.python.org/moin/PythonTestingToolsTaxonomy) - 这里已经基本把python圈的测试相关工具都列全了。
-
+ * [PySnooper](https://github.com/cool-RR/PySnooper) - 不用小心谨慎地用 print 输出语句，只需在想调试的函数中引入一个装饰器。然后得到函数的详细日志，包括运行了哪些行、何时运行，以及何时更改了局部变量。
 
 ========
 #### 安全与破解相关
