@@ -113,7 +113,6 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Requests](https://github.com/kennethreitz/requests/) - Requests是python的一个HTTP客户端库，跟urllib，urllib2类似，[官网](http://www.python-requests.org/en/latest/) ， [requests 源码阅读](https://github.com/wangshunping/read_requests)。
  * [Requests-cache](http://requests-cache.readthedocs.org/en/latest/index.html) - 缓存外部api请求, [使用教程](https://python.freelycode.com/contribution/detail/660)。 
  * [trip](https://github.com/littlecodersh/trip/) - Trip 是一个协程的网络库，如 Requests 一般简单的操作，程序不再被网络阻塞。[开源项目Trip: 给Requests加上协程](https://mp.weixin.qq.com/s/vczqner3bOlyvAPwCPPgqQ)。
- * [youtube-dl](https://github.com/rg3/youtube-dl//) - 一个可从YouTube等网站下载视频的开源神器,采用Python开发，支持多个OS平台，支持众多视频网站国内优酷、土豆、新浪和搜狐，国外YouTube等赫然在列。
  * [ppmessage](https://github.com/PPMESSAGE/ppmessage) - 皮皮消息，即插即用，在线客服，移动应用内即时通讯，私有的·微信·，自建的·钉钉·，开源，纯Python实现。
  * [uvloop](https://github.com/MagicStack/uvloop) - 一个完整的asyncio事件循环的替代品，它建立在libuv基础之上，由Cython编写而成。性能非常高！
  * [httpstat](https://github.com/reorx/httpstat) - 这个库能够直接将http请求的各状态在终端进行输出，类似于浏览器的调试模式！
@@ -194,8 +193,10 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [pyspider](https://github.com/binux/pyspider) - PySpider：一个国人编写的强大的网络爬虫系统并带有强大的WebUI。采用Python语言编写，分布式架构，支持多种数据库后端，强大的WebUI支持脚本编辑器，任务监视器，项目管理器以及结果查看器。[demo地址](http://demo.pyspider.org/),[网络爬虫剖析，以Pyspider为例](http://python.jobbole.com/81109/) ， [Scrapy 示例 —— Web 爬虫框架](http://python.jobbole.com/84237/) 。
  * [PyQuery](https://github.com/gawel/pyquery) - 是 Python 仿照 jQuery 的严格实现。语法与 jQuery 几乎完全相同，所以不用再去费心去记一些奇怪的方法了。[python爬虫神器PyQuery的使用方法](http://python.jobbole.com/85222/)。
  * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - 使用scrapy,redis,mongodb,graphite实现的一个分布式网络爬虫。
+  * [youtube-dl](https://github.com/rg3/youtube-dl//) - 一个可从YouTube等网站下载视频的开源神器,采用Python开发，支持多个OS平台，支持众多视频网站国内优酷、土豆、新浪和搜狐，国外YouTube等赫然在列。
  * [you-get](https://github.com/soimort/you-get/) - 能帮你快速爬取你想要的一切，支持64个网站，包括优酷、土豆、爱奇艺、b站、酷狗音乐、虾米。[官网]( https://you-get.org/)
  * [Lulu](https://github.com/iawia002/Lulu) - You-get的一个友好分叉(fork), 类似网络爬虫的简单下载程序。 
+ * [pytube](https://github.com/nficano/pytube) - 一个非常严谨、轻量级、无依赖性的用于下载youtube视频的python库。 
  * [meizi_spider](https://github.com/lpe234/meizi_spider) - 获取慕课网视频教程，基于Scrapy(0.22)。
  * [spider_smooc](https://github.com/qiyeboy/spider_smooc) - 爬取慕课网视频 ,使用BeautifulSoup模块解析html。
  * [proxy_pool](https://github.com/jhao104/proxy_pool) - 爬虫代理池,爬去取网上免费的代理IP。
