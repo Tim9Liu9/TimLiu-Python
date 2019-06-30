@@ -208,7 +208,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
   * [python_12306](https://github.com/versionzhang/python_12306) - 用python实现的12306抢票小工具。
   * [Crawlab](https://github.com/tikazyq/crawlab) - 基于Celery的爬虫分布式爬虫管理平台，支持多种编程语言以及多种爬虫框架.
   * [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) - 模拟登陆一些大型网站，还有一些简单的爬虫。
-
+  * [Pyppeteer](https://github.com/miyakogi/pyppeteer) - Pyppeteer其实是Puppeteer的Python版本，，Puppeteer是谷歌出品的一款基于Node.js开发的一款工具，主要是用来操纵Chrome浏览器的 API，通过Javascript代码来操纵Chrome浏览器，完成数据爬取、Web程序自动测试等任务。
+  
 ========
 #### 测试与代码分析审核
  * [splinter](http://splinter.cobrateam.info/) - Python自动化测试工具Splinter，不仅可以当web自动化测试工具 同时也可以当抓取交互式网站的爬虫程序来用的，不用去分析ajax请求数据了，可以模拟登录，[用Python开发自动化测试脚本-splinter](http://python.jobbole.com/84012/)。
