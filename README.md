@@ -184,7 +184,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [keras](https://github.com/keras-team/keras) - Keras是一种高度模块化，使用简单上手快，合适深度学习初学者使用的深度学习框架。Keras由纯Python编写而成并以Tensorflow、Theano以及CNTK为后端。Keras为支持快速实验而生，能够把你的idea迅速转换为结果。
  * [tensorflow-models](https://github.com/tensorflow/models) - 使用TensorFlow构建模型和示例。 
  * [tensorflow-internals](https://github.com/horance-liu/tensorflow-internals) - 开源技术书：TensorFlow内核剖析。[说明](https://www.jianshu.com/p/fda4ae1e2547) 
-
+ * [numpy-ml](https://github.com/ddbourgin/numpy-ml) - 普林斯顿博士后 David Bourgin用 NumPy 手写所有主流 ML 模型， 超过 3 万行代码、30 多个模型，这也许能打造「最强」的机器学习基石。
+ 
 ========
 #### 网络爬虫
  * [scrapy](https://github.com/scrapy/scrapy/) - 最出名的网络爬虫，一个快速,高层次的屏幕抓取和web抓取框架，用于抓取web站点并从页面中提取结构化的数据。Scrapy用途广泛，可以用于数据挖掘、监测和自动化测试。[官方主页](http://scrapy.org/),[Scrapy 轻松定制网络爬虫 - 教程](http://blog.pluskid.org/?p=366)，[Scrapy 中文指南](http://wiki.jikexueyuan.com/project/scrapy/broad-crawls.html) 。
