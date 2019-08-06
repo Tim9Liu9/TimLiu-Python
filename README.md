@@ -488,7 +488,8 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [Camelot](https://github.com/socialcopsdev/camelot) - PDF图表提取库,支持命令行界面，另外还有一个web界面可选,每个表都是一个pandas DataFrame，它可以无缝集成到ETL和数据分析工作流中,支持导出为多种格式，包括JSON，Excel和HTML,不支持扫描版PDF。
  * [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - 一个实现广泛使用的经典金融投资组合优化技术的库。
  * [money](https://github.com/carlospalol/money) - 利用定点数解决python里面浮点数运行精度的问题。
-
+ * [Faker](https://github.com/joke2k/faker/) - 在 Python 中有个神库，叫做 Faker，它可以自动帮我们来生成各种各样的看起来很真的”假“数据。
+ 
 ========
 ####  完整项目
  * [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 一套内容管理系统框架的vue前端。
