@@ -106,6 +106,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [pyFacialRecognition](https://github.com/CloudsDocker/pyFacialRecognition) - 用10几行代码自己写个人脸识别程序。
  * [pyecharts](https://github.com/pyecharts/pyecharts) - pyecharts是一个用于生成Echarts图表的类库；而Echarts是百度开源的一个数据可视化JS库。使用pyecharts绘制的图表美观且具有交互性。[官网](http://pyecharts.org)。
  * [Snowy](https://github.com/prideout/snowy/) - Snowy是一个能够处理和生成图像的小模块。
+ * [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI/) - 完全基于Python语言，能非常方便地开发GUI界面，代码量相比现有框架减少50%到90%。并且，它提供了极为友好的Python风格的接口，大大提升开发效率。
 
 ========
 #### 网络相关
