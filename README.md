@@ -186,6 +186,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [tensorflow-models](https://github.com/tensorflow/models) - 使用TensorFlow构建模型和示例。 
  * [tensorflow-internals](https://github.com/horance-liu/tensorflow-internals) - 开源技术书：TensorFlow内核剖析。[说明](https://www.jianshu.com/p/fda4ae1e2547) 
  * [numpy-ml](https://github.com/ddbourgin/numpy-ml) - 普林斯顿博士后 David Bourgin用 NumPy 手写所有主流 ML 模型， 超过 3 万行代码、30 多个模型，这也许能打造「最强」的机器学习基石。
+  * [3b1b/manim](https://github.com/3b1b/manim) - 3b1b/manim:面向数学方向的的可视化动画引擎,通过编程的方式来创造简洁的可视化动画。[https://www.3blue1brown.com/](https://www.3blue1brown.com/)
  
 ========
 #### 网络爬虫
