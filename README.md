@@ -356,6 +356,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [xonsh](https://github.com/xonsh/xonsh) - 可以在xosh里调用Python的各种函数，也可以写常规的Shell语言，如此把Shell强大的系统操作和Python的丰富优雅完美混搭，同时支持使用Prompt Toolkit补全Shell命令和Python表达式。补全有可视化提示，会显示可能的补全并有下拉列表。
  * [dbxfs](https://github.com/rianhunter/dbxfs) - 可以把Dropbox文件夹当作本地文件系统一样挂载，OpenBSD，Linux和macOS上测试可用。
  * [psutil](https://github.com/giampaolo/psutil) - psutil（process and system utilities）是一个跨平台的库，用它来查看系统运行进程以及资源利用率。它主要用于系统监控、过程资源分析和限制以及运行过程的管理。
+ * [navi](https://github.com/denisidoro/navi) - 实时匹配查阅所有的备忘录并执行对应的命令。
 
 ========
 #### 树莓派
