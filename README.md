@@ -4,32 +4,35 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
   
   Python库学习收集QQ群:  461273222  ,欢迎入群(入群答案：TimLiu-Python)。
 ###  目录
-- [网页框架](#网页框架)
-    - [Django](#Django)
-    - [Flask](#Flask)
-    - [Tornado](#Tornado)
-    - [其他Web相关](#其他Web相关)
-- [用户图形接口相关](#用户图形接口相关)
-- [网络相关](#网络相关)
-- [数据库相关](#数据库相关)
-- [游戏相关](#游戏相关)
-- [开源框架](#开源框架)
-- [大数据与人工智能相关](#大数据与人工智能相关)
-- [网络爬虫](#网络爬虫)
-- [测试与代码分析审核](#测试与代码分析审核)
-- [安全与破解相关](#安全与破解相关)
-- [图表及图像相关](#图表及图像相关)
-- [视频及语音相关](#视频及语音相关)
-- [运维相关](#运维相关)
-- [树莓派](#树莓派)
-- [第三方平台](#第三方平台)
-- [IDE](#IDE)
-- [区块链](#区块链)
-- [其他库](#其他库)  
-- [完整项目](#完整项目) 
-- [博客与播客及书籍文档](#博客与播客及书籍文档)
-- [好的文章](#好的文章)
-- [他人总结](#他人总结)
+- [# TimLiu-Python](#h1-idtimliu-python-11timliu-pythonh1)
+    - [目录](#目录)
+- [### 具体内容 =============================](#h3-id具体内容--11具体内容-h3)
+      - [网页框架](#网页框架)
+        - [Django](#django)
+        - [Flask](#flask)
+        - [Tornado](#tornado)
+        - [其他Web相关](#其他web相关)
+      - [用户图形接口相关](#用户图形接口相关)
+      - [网络相关](#网络相关)
+      - [数据库相关](#数据库相关)
+      - [游戏相关](#游戏相关)
+      - [开源框架](#开源框架)
+      - [大数据与人工智能相关](#大数据与人工智能相关)
+      - [网络爬虫](#网络爬虫)
+      - [测试与代码分析审核](#测试与代码分析审核)
+      - [安全与破解相关](#安全与破解相关)
+      - [图表及图像相关](#图表及图像相关)
+      - [视频及语音相关](#视频及语音相关)
+      - [运维相关](#运维相关)
+      - [树莓派](#树莓派)
+      - [第三方平台](#第三方平台)
+      - [IDE](#ide)
+      - [区块链](#区块链)
+      - [其他库](#其他库)
+      - [完整项目](#完整项目)
+      - [博客与播客及书籍文档](#博客与播客及书籍文档)
+      - [好的文章](#好的文章)
+      - [他人总结](#他人总结)
 
 ========
 ### 具体内容 =============================
@@ -90,6 +93,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [alipay](https://github.com/lxneng/alipay) - 支付宝非官方的python实现。
  * [Responder](https://github.com/kennethreitz/responder) - 是一个web框架，基于 Starlette封装，和其他的web框架如django，flask相比，它速度更快。
  * [Molten](https://github.com/Bogdanp/molten) - 使用Python 3.6以上版本构建HTTP API的轻量化、可扩展，快速且高效的框架。它的核心简单易懂，同时高效、稳定，尽可能避免重大更改。也支持用类型注释进行静态类型检查以确保类型安全。
+ *   [FastAPI](https://github.com/tiangolo/fastapi) - 高性能，简单易学，快速编写代码，可快速投入生产的HTTP API框架。基于Python 3.6+构建，基于（并完全兼容）API的开放标准
 
 ========
 #### 用户图形接口相关
@@ -334,9 +338,7 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [tox](http://testrun.org/tox/latest/) - 一个提供自动化打包，测试和发布的Python软件的工具，可以用于控制台或者基础到你的持续构建平台，也是一个通用的virtualenv管理和测试命令行工具。
  * [Murder](https://github.com/lg/murder) - Twitter Murder在BitTornado的基础上开发而成，由Python和Ruby两种编程语言混合而成，能够在大规模的服务器集群中快速部署代码更新。
  * [git-webhook)](https://github.com/NetEaseGame/git-webhook) - 使用 Python Flask + SQLAchemy + Celery + Redis + React 开发的用于迅速搭建并使用 WebHook 进行自动化部署和运维，支持 Github / GitLab / Gogs / GitOsc。 
- * [CheungSSH](http://git.oschina.net/CheungSSH_OSC/CheungSSH) - Linux运维自动化管理服务器软件。
  * [pyflame](https://github.com/uber/pyflame) - Uber使用C++实现编写的python高性能分析器，分析Python代码极为有用的工具，并找到有效的代码进行优化。
- * [sentry](https://github.com/getsentry/sentry) - 是一个实时的事件日志和聚合平台，基于 Django 构建。可以帮助你将 Python 程序的所有 exception 自动记录下来，然后在一个好用的 UI 上呈现和搜索。
  * [CheungSSH](http://git.oschina.net/CheungSSH_OSC/CheungSSH) - Linux运维自动化管理服务器软件。
  * [Argparse、Docopt与Click 1](https://python.freelycode.com/contribution/detail/643)  [Argparse、Docopt与Click 2](https://python.freelycode.com/contribution/detail/645) - [Argparse](https://docs.python.org/3/library/argparse.html)、[Docopt](http://docopt.org/)与[Click](http://click.pocoo.org/5/):比较Python命令行解析库
  * [Heroku](https://www.heroku.com/) - 一个支持多种编程语言的云平台。支持Ruby、Java、Node.js、Scala、Clojure、Python以及PHP和Perl。基于Ubuntu。提供免费的Django应用程序托管。
@@ -348,7 +350,6 @@ Python资源集合，持续更新。。。 [python 中文学习大本营](http:/
  * [argcomplete](https://github.com/kislyuk/argcomplete) - Bash使用tab自动补全。
  * [Gooey](https://github.com/chriskiehl/Gooey) - 一条命令，将命令行程序变成一个 GUI 程序。
  * [subprocess](https://docs.python.org/2/library/subprocess.html) - 用来生成子进程，并可以通过管道连接它们的输入/输出/错误，以及获得它们的返回值。
- * [sh](https://pypi.python.org/pypi/sh/) - 一个完备的 subprocess 替代库，能调用 subprocess 中的任意外部程序，并将结果返回到 Python 应用。
  * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - 一款功能强大的python shell,交互式解释器[ptpython](https://github.com/jonathanslenders/ptpython/)。
  * [pipenv](https://github.com/kennethreitz/pipenv) - 用于简化Python项目中依赖项的管理。 它汇集了Pip，Pipfile和Virtualenv的功能，是一个强大的命令行工具。[简易教程](https://python.freelycode.com/contribution/detail/682)
  * [ops-batch](https://github.com/jkklee/ops-batch) - Python实现跨平台批量运维小工具。基于yaml配置文件可灵活指定操作单位：host(s)或hostgroup(s)；基于多线程可实现多主机并行；基于docopt提供详细的命令行界面。
